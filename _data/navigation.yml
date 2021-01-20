@@ -13,5 +13,7 @@ links:
     url: /about/
   - title: Sgp30 Framework
     collection: sgp30-framework
+  - title: Take Action
+    collection: take-action
   - title: Media
     resource_room: true

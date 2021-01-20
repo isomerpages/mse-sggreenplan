@@ -1,11 +1,11 @@
-title: Title
+title: City of Green Possibilities
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#00a68a'
+  secondary-color: '#0d67b1'
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -21,6 +21,8 @@ colors:
 
 collections:
   sgp30-framework:
+    output: true
+  take-action:
     output: true
 resources_name: media
 
