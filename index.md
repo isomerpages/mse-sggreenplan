@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Singapore Green Plan 2030 – Ministry of Sustainability and the Environment (MSE)
+description: Learn how Singapore will transform into a global city of sustainability with the Singapore Green Plan 2030. 
 image: /images/logo_sog.svg
 permalink: /
 sections:
@@ -38,7 +38,8 @@ sections:
         image: /images/index/about-sgp30.jpg
         alt: Lorem Ipsum
     - infopic:
-        title: See how SGP30 will transform our city
+        title: See How the Green Plan Will Transform Our City
+        description: The Singapore Green Plan 2030 is a living plan that will touch every dimension of our lives.
         button: Discover more
         url: /core-values/
         image: /images/index/how-it-transforms.jpg
