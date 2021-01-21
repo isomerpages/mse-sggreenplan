@@ -22,7 +22,6 @@ sections:
         alt: Lorem Ipsum
     - infopic:
         title: What Is Climate Change? 
-        subtitle: Lorem Ipsum
         description: Climate change refers to significant variations in global weather patterns that persist over an extended period of time.
         image: /images/index/what-is-climate-change.jpg
         alt: Lorem Ipsum
@@ -46,7 +45,7 @@ sections:
         alt: Lorem Ipsum
     - resources:
         title: Press
-        subtitle: Read more about SGP2030 and our efforts in the news.
+        subtitle: Read more about the Green Plan and our efforts in the news.
         button: View More
 ---
 

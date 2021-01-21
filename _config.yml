@@ -20,6 +20,8 @@ colors:
 
 
 collections:
+  about-green-plan:
+    output: true
   sgp30-framework:
     output: true
   take-action:

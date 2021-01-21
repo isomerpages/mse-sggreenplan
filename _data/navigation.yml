@@ -10,7 +10,7 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: About
-    url: /about/
+    collection: about-green-plan
   - title: Sgp30 Framework
     collection: sgp30-framework
   - title: Take Action
