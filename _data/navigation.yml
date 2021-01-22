@@ -7,13 +7,9 @@
 logo: /images/logo_sog.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About
     collection: about-green-plan
-  - title: Sgp30 Framework
+  - title: SGP30 Framework
     collection: sgp30-framework
-  - title: Take Action
-    collection: take-action
-  - title: Media
+  - title: Press
     resource_room: true

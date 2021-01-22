@@ -14,39 +14,39 @@ sections:
         title: What Is the Singapore Green Plan 2030?
         description: The Singapore Green Plan 2030, or the Green Plan, is a whole-of-nation sustainable development agenda, with concrete action plans that will touch every dimension of our lives. 
         image: /images/index/what-is-sgp30.jpg
-        alt: Lorem Ipsum
+        alt: SGP30
     - infopic:
         title: Why Do We Need the Green Plan?
         description: The Green Plan will build on our existing sustainability foundations, strengthening ongoing sustainability efforts and commitments under Singapore’s 2030 Development Agenda.
         image: /images/index/why-sgp30.jpg
-        alt: Lorem Ipsum
+        alt: Why Green Plan
     - infopic:
         title: What Is Climate Change? 
-        description: Climate change refers to significant variations in global weather patterns that persist over an extended period of time.
+        description: Climate change refers to significant variations in weather patterns around the world that persist over an extended period of time. 
         image: /images/index/what-is-climate-change.jpg
-        alt: Lorem Ipsum
+        alt: Climate Change
     - infopic:
         title: Impacts of Climate Change
         description: Climate change brings rising sea levels and extreme weather patterns, putting millions of lives and livelihoods around the world in danger. Singapore, as a low-lying island state, is vulnerable.
         image: /images/index/impacts-of-climate-change.jpg
-        alt: Lorem Ipsum
+        alt: Impact
     - infopic:
         title: About the Green Plan
         description: Learn how the Green Plan will impact individuals and businesses in Singapore.
         button: Find out more
-        url: /core-values/
+        url: /about-green-plan/individuals/
         image: /images/index/about-sgp30.jpg
-        alt: Lorem Ipsum
+        alt: About Green Plan
     - infopic:
         title: See How the Green Plan Will Transform Our City
         description: The Singapore Green Plan 2030 is a living plan that will touch every dimension of our lives.
         button: Discover more
         url: /core-values/
         image: /images/index/how-it-transforms.jpg
-        alt: Lorem Ipsum
+        alt: Transform Our City
     - resources:
         title: Press
-        subtitle: Read more about the Green Plan and our efforts in the news.
+        subtitle: Read about the Green Plan and our efforts in the news.
         button: View More
 ---
 

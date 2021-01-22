@@ -6,6 +6,8 @@ permalink: /sgp30-framework/energy-reset/
 
 ### Energy Reset
 
+![Energy Reset](/images/framework/framework_energyreset.jpg)
+
 Cleaner and better use of energy is central our plans to tackle climate change. We will increase our solar power capacity, and reduce our carbon emissions. 
 
 [Housing](https://www.mnd.gov.sg/our-work/greening-our-home/hdb-green-towns-programme){:target="_blank"}
@@ -15,4 +17,4 @@ Cleaner and better use of energy is central our plans to tackle climate change. 
 
 [Transport](https://www.mot.gov.sg/news-centre/news/Detail/written-reply-by-minister-for-transport-ong-ye-kung-to-parliamentary-question-on-update-on-plan-to-provide-28-000-electric-vehicle-charging-points-by-2030/){:target="_blank"}
 - Our 2040 vision is to phase out internal combustion engine vehicles, and have all vehicles run on cleaner energy.
-- To support the growth of electric vehicles, we will more than double our EV charger targets—from 28,000 to 60,000 by 2030.
+- To support the growth of electric vehicles (EV), we will more than double our EV charger targets—from 28,000 to 60,000 by 2030.

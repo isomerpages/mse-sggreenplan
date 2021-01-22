@@ -6,7 +6,7 @@ permalink: /sgp30-framework/green-economy/
 
 ### Green Economy
 
-#### A Greener Economy
+![Green Economy](/images/framework/framework_greeneconomy.jpg)
 
 Our aim is to be a leading centre for Green Finance in Asia and globally.
 

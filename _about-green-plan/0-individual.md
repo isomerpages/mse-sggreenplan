@@ -6,6 +6,8 @@ permalink: /about-green-plan/individuals/
 
 ### The Green Plan for Individuals
 
+![The Green Plan For Individuals](/images/greenplan/gp_individual.jpg)
+
 Everyone can play a part to fight climate change by adopting sustainable lifestyles. Here are 3 simple ways you can reduce your energy usage and carbon emissions.
 
 1. [Good personal habits](https://www.mse.gov.sg/take-action/individuals){:target="_blank"}

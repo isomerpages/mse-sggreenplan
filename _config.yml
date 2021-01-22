@@ -4,8 +4,8 @@ favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#00a68a'
-  secondary-color: '#00a68a'
+  primary-color: '#00725c'
+  secondary-color: '#00725c'
   media-colors:
     - title: media-color-one
       color: '#0d67b1'
@@ -23,8 +23,6 @@ collections:
   about-green-plan:
     output: true
   sgp30-framework:
-    output: true
-  take-action:
     output: true
 resources_name: media
 
