@@ -13,7 +13,7 @@ Sustainability is about us, and the way we live. From water to waste, we will be
 A Circular Economy
 - Water consumption per household will be further reduced by 10% to 130 litres per capita per day.
 - Incinerated waste will be turned into [NEWSand](https://www.nea.gov.sg/media/news/news/index/newsand-a-key-to-closing-singapore-waste-loop){:target="_blank"}, and used for construction.
-- A Good Samaritan law will be introduced to promote food redistribution.
+- We will also put in place regulations to promote redistribution of food that is still safe to eat.
 - [Waste-to-landfill](https://www.towardszerowaste.sg/zero-waste-nation/){:target="_blank"} will be reduced by 30%, achieving a 20% reduction by 2026.
 
 Public Transport
