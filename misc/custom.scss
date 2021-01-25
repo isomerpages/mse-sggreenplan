@@ -345,3 +345,7 @@ $desktop: 960px + (2 * $gap) !default;
     color: #00a68a !important;
   }
 }
+
+.bp-hero .bp-button:hover {
+  background-color: #00a68a !important;
+}

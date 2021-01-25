@@ -41,7 +41,7 @@ sections:
         title: See How the Green Plan Will Transform Our City
         description: The Singapore Green Plan 2030 is a living plan that will touch every dimension of our lives.
         button: Discover more
-        url: /core-values/
+        url: /sgp30-framework/city-in-nature/
         image: /images/index/how-it-transforms.jpg
         alt: Transform Our City
     - resources:
