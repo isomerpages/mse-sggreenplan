@@ -336,6 +336,12 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-.tribal-dummy-variable {
-  display: none;
+.external-link {
+  color: #00725c !important;
+  &:after{
+    display: none !important;
+  }
+  &:hover{
+    color: #00a68a !important;
+  }
 }

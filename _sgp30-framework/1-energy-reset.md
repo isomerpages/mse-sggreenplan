@@ -10,11 +10,11 @@ permalink: /sgp30-framework/energy-reset/
 
 Cleaner and better use of energy is central our plans to tackle climate change. We will increase our solar power capacity, and reduce our carbon emissions. 
 
-[Housing](https://www.mnd.gov.sg/our-work/greening-our-home/hdb-green-towns-programme){:target="_blank"}
+[Housing](https://www.mnd.gov.sg/our-work/greening-our-home/hdb-green-towns-programme){:class="external-link" target="_blank"}
 - Our solar energy deployment will quadruple by 2025, including covering the rooftops of HDB blocks with solar Photovoltaic Systems. By 2030, solar energy deployed will be five times that of today, with at least 2 gigawatt-peak, capable of powering over 350,000 households a year. 
 - HDB towns will use 15% less energy through measures like the widespread use of smart LED lights and solar energy.
 - Beyond HDB towns, we will green 80% of all buildings over the next decade. 
 
-[Transport](https://www.mot.gov.sg/news-centre/news/Detail/written-reply-by-minister-for-transport-ong-ye-kung-to-parliamentary-question-on-update-on-plan-to-provide-28-000-electric-vehicle-charging-points-by-2030/){:target="_blank"}
+[Transport](https://www.mot.gov.sg/news-centre/news/Detail/written-reply-by-minister-for-transport-ong-ye-kung-to-parliamentary-question-on-update-on-plan-to-provide-28-000-electric-vehicle-charging-points-by-2030/){:class="external-link" target="_blank"}
 - Our 2040 vision is to phase out internal combustion engine vehicles, and have all vehicles run on cleaner energy.
 - To support the growth of electric vehicles (EV), we will more than double our EV charger targets—from 28,000 to 60,000 by 2030.

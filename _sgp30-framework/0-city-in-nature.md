@@ -12,5 +12,5 @@ permalink: /sgp30-framework/city-in-nature/
 
 Singapore will be an even greener and beautiful City in Nature, with every household living just a 10-minute walk away from a park.
 
-- By 2030, we will set aside 50% more land—around 200 hectares—for [nature parks](https://www.mnd.gov.sg/our-work/greening-our-home/greenery){:target="_blank"}.
+- By 2030, we will set aside 50% more land—around 200 hectares—for [nature parks](https://www.mnd.gov.sg/our-work/greening-our-home/greenery){:class="external-link" target="_blank"}.
 - We will plant one million more trees across our island, which will sequester another 78,000 tonnes of CO2.

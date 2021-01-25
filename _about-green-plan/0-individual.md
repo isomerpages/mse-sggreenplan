@@ -10,7 +10,7 @@ permalink: /about-green-plan/individuals/
 
 Everyone can play a part to fight climate change by adopting sustainable lifestyles. Here are 3 simple ways you can reduce your energy usage and carbon emissions.
 
-1. [Good personal habits](https://www.mse.gov.sg/take-action/individuals){:target="_blank"}
+1. [Good personal habits](https://www.mse.gov.sg/take-action/individuals){:class="external-link" target="_blank"}
 	- Save energy
 	- Save water
 	- Go local
@@ -18,4 +18,4 @@ Everyone can play a part to fight climate change by adopting sustainable lifesty
 	- Bring your own bag
 	- Volunteer with NEA and other organisations for sustainability projects
 3. Be an influencer in your community
-	- View [our resources](https://www.mse.gov.sg/resources/){:target="_blank"} to help you kickstart your own sustainability projects 
+	- View [our resources](https://www.mse.gov.sg/resources/){:class="external-link" target="_blank"} to help you kickstart your own sustainability projects 
