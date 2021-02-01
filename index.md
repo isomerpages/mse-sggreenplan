@@ -22,7 +22,7 @@ sections:
         alt: Why Green Plan
     - infopic:
         title: What Is Climate Change? 
-        description: </p><p>Climate change refers to significant variations in global weather patterns that persist over an extended period of time.</p><video class="mse-infopic-media-right" autoplay="" muted="" playsinline="" loop="" poster="/images/index/what-is-climate-change.jpg" id="bannerVideo"><source src="https://www.mse.gov.sg/images/banner-video.mp4" type="video/webm"></video><p class="mse-none">
+        description: </p><p>Climate change refers to significant variations in global weather patterns that persist over an extended period of time.</p><video class="mse-infopic-media-right" controls playsinline="" poster="/images/index/what-is-climate-change.jpg" id="bannerVideo"><source src="https://www.mse.gov.sg/images/banner-video.mp4" type="video/webm"></video><p class="mse-none">
         image: http://placehold.it/628x285
         alt: Climate Change
     - infopic:
