@@ -10,7 +10,7 @@ sections:
         background: /images/index/mse-global-city-of-sustainability.jpg
     - infopic:
         title: Introducing The Singapore Green Plan 2030
-        description: </p><p>Watch how Singapore will transform into a greener and more sustainable city by 2030. </p><video class="mse-infopic-media-right" controls playsinline="" poster="/images/index/video.jpg" id="bannerVideo"><source src="https://www.mse.gov.sg/images/banner-video.mp4" type="video/webm"></video><p class="mse-none">
+        description: </p><p>Watch how Singapore will transform into a greener and more sustainable city by 2030. </p><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/z52hV4RkAG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p class="mse-none">
         image: http://placehold.it/628x285
         alt: Climate Change
     - infopic:
