@@ -19,3 +19,6 @@ Everyone can play a part to fight climate change by adopting sustainable lifesty
 	- Volunteer with NEA and other organisations for sustainability projects
 3. Be an influencer in your community
 	- View [our resources](https://www.mse.gov.sg/resources/){:class="external-link" target="_blank"} to help you kickstart your own sustainability projects 
+4. [Adapt and Grow](https://www.mti.gov.sg/Transforming-Industries/For-Individual){:class="external-link" target="_blank"}
+	- Continuously deepen and refresh your skills to stay relevant and take advantage of new opportunities.
+

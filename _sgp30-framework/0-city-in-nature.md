@@ -8,9 +8,9 @@ permalink: /sgp30-framework/city-in-nature/
 
 ![City in Nature](/images/framework/framework_cityinnature.jpg)
 
-#### Greenery for All
+Our **City In Nature** is where we will create a green, livable, and sustainable home for Singaporeans. We will also build up our carbon sinks by extending nature all around our island. 
 
-Singapore will be an even greener and beautiful City in Nature, with every household living just a 10-minute walk away from a park.
-
-- By 2030, we will set aside 50% more land—around 200 hectares—for [nature parks](https://www.mnd.gov.sg/our-work/greening-our-home/greenery){:class="external-link" target="_blank"}.
-- We will plant one million more trees across our island, which will sequester another 78,000 tonnes of CO2.
+**Key Initiatives**  
+- 50% more land—around 200 hectares—for [nature parks](https://www.mnd.gov.sg/our-work/greening-our-home/greenery){:class="external-link" target="_blank"}, meaning every household will live just a 10-minute walk from a park. 
+- One million more trees will be planted across our island, which will sequester another 78,000 tonnes of CO2, providing cleaner air and more shade.
+- Working with communities and NGOs to develop programmes to allow people and wildlife to live in harmony.

@@ -8,15 +8,22 @@ permalink: /sgp30-framework/sustainable-living/
 
 ![Sustainable Living](/images/framework/framework_sustainableliving.jpg)
 
-Sustainability is about us, and the way we live. From water to waste, we will become a circular economy, with a high rate of recycling and reuse. 
+**Sustainable Living** means we will reduce carbon emissions, keep our environment clean, and make saving resources and energy a way of life in Singapore. 
 
-A Circular Economy
-- Water consumption per household will be further reduced by 10% to 130 litres per capita per day.
-- Incinerated waste will be turned into [NEWSand](https://www.nea.gov.sg/media/news/news/index/newsand-a-key-to-closing-singapore-waste-loop){:class="external-link" target="_blank"}, and used for construction.
-- We will also put in place regulations to promote redistribution of food that is still safe to eat.
-- [Waste-to-landfill](https://www.towardszerowaste.sg/zero-waste-nation/){:class="external-link" target="_blank"} will be reduced by 30%, achieving a 20% reduction by 2026.
+**Eco-Stewardship Programme**  
+This will involve all MOE schools from Kindergarten to Pre-University. MOE will strengthen school curricula and programmes on sustainability. Our aim is to achieve a two-third reduction of net carbon emissions from the schools sector by 2030, with at least 20% of schools to be carbon neutral by 2030. 
 
-Public Transport
-- Our MRT network will be comparable in coverage to major cities like London and New York City.
-- New town concepts, such as [Tengah](https://www.hdb.gov.sg/cs/infoweb/about-us/history/hdb-towns-your-home/tengah){:class="external-link" target="_blank"}, will have the first car-free HDB town centre, with roads constructed underground, freeing up surface spaces for public transport, activities, and green spaces.
-- The cycling network will be expanded from 460 km today to around 1,300 km by 2030.
+**Green Commutes**  
+We are making good progress towards achieving our goal of bringing 8 out of 10 households to being within a 10 minute walk of a train station by the 2030s. In the coming years, new stations and lines will be opened almost every year. The rail network will grow from around 230 km today to 360 km by the early 2030s.
+
+**[BCA Green Mark](https://www1.bca.gov.sg/buildsg/sustainability/green-mark-certification-scheme){:class="external-link" target="_blank"}**  
+The BCA Green Mark Scheme is an initiative to create a more sustainable built environment in Singapore by promoting sustainable design, construction and operating practices in buildings.
+
+#### Initiatives For Schools And Students
+
+**[The Environment Fund for Schools](https://www.cgs.gov.sg/docs/default-source/Resources/efs-web-page-contenta34c09d515f061ce946dff0000c37214.pdf){:class="external-link" target="_blank"} (EFS)**  
+The EFS encourages MOE schools to champion environmental ownership and a pro-environment mind-set amongst students and the community by leading and organising environmental initiatives. 
+
+**[School Green Awards](https://sec.org.sg/our-programmes/environmental-awards/){:class="external-link" target="_blank"} (SGA)**
+The SGA serves as a platform for students to develop and showcase their environmental efforts, through customised activities which will help them gain a better understanding of the environment.
+

@@ -44,3 +44,17 @@ Environmentally-friendly actions can start small. Here’s how consistently redu
 	<span>LEARN MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
+
+#### Empowering Businesses
+The government is proactively seeking feedback from businesses to continuously improve our rules and licensing framework, speed up processes and facilitate new business ideas.  
+<a href="https://www.mti.gov.sg/Transforming-Industries/For-Enterprises" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>LEARN MORE</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+</a>
+
+#### SG Eco Fund  
+The $50 million SG Eco Fund supports ground-up projects that involve the community and advance environmental sustainability in Singapore.  
+<a href="https://www.sgeco.gov.sg/about/" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>LEARN MORE</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+</a>

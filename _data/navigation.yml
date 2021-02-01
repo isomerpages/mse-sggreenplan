@@ -7,9 +7,9 @@
 logo: /images/logo_sog.png
 
 links:
-  - title: About
-    collection: about-green-plan
-  - title: SGP30 Framework
+  - title: The Green Plan Framework
     collection: sgp30-framework
+  - title: Take Action
+    collection: about-green-plan
   - title: Press
     url: /press
