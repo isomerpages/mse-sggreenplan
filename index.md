@@ -44,6 +44,13 @@ sections:
         url: /sgp30-framework/city-in-nature/
         image: /images/index/how-it-transforms.jpg
         alt: Transform Our City
+    - infopic:
+        title: Ministries
+        description: Lorem Ipsum
+        button: Lorem Ipsum
+        url: /sgp30-framework/city-in-nature/
+        image: /images/index/ministry-logos.jpg
+        alt: Lorem Ipsum
     - resources:
         title: Press
         subtitle: Read about the Green Plan and our efforts in the news.
