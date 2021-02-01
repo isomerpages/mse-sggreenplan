@@ -36,14 +36,14 @@ sections:
         title: How Will We Achieve These Key Targets?
         description: </p><p>The Green Plan comprises 5 pillars that will touch all aspects of our lives:<ul><li>- Sustainable Living</li><li>- City In Nature</li><li>- Energy Reset</li><li>- Green Economy</li><li>- Resilient Future</li></ul></p><img class="mse-infopic-media-left" src="/images/index/about-sgp30.jpg" alt="Lorem Ipsum" /><p class="mse-none">
         button: Find out more
-        url: /take-action/individuals/
+        url: /green-plan-overview/city-in-nature/
         image: /images/index/about-sgp30.jpg
         alt: About Green Plan
     - infopic:
         title: You Can Help Transform Our City
         description: </p><p>Everyone can play a part in ensuring the Green Plan becomes a reality, transforming Singapore into a sustainable city.</p><img class="mse-infopic-media-right" src="/images/index/how-it-transforms.jpg" alt="Lorem Ipsum" /><p class="mse-none">
         button: Discover more
-        url: /green-plan-overview/city-in-nature/
+        url: /take-action/individuals/
         image: /images/index/how-it-transforms.jpg
         alt: Transform Our City
     - infopic:
