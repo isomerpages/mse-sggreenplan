@@ -1,7 +1,7 @@
 ---
 title: The Green Plan for Individuals
 description: You can play a part to fight climate change by adopting a sustainable lifestyle and habits. Learn how you can help with the Green Plan for Individuals. 
-permalink: /about-green-plan/individuals/
+permalink: /take-action/individuals/
 ---
 
 ### The Green Plan for Individuals

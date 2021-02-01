@@ -20,9 +20,9 @@ colors:
 
 
 collections:
-  about-green-plan:
+  take-action:
     output: true
-  sgp30-framework:
+  green-plan-framework:
     output: true
 resources_name: media
 

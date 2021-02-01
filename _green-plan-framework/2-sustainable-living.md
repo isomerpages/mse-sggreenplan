@@ -1,7 +1,7 @@
 ---
 title: Sustainable Living
 description: We are aiming to be a circular economy, with a high rate of recycling and reuse. From recycling food to NEWSand, learn how the Singapore Green Plan 2030 will help us become a circular economy. 
-permalink: /sgp30-framework/sustainable-living/
+permalink: /green-plan-framework/sustainable-living/
 ---
 
 ### Sustainable Living

@@ -1,7 +1,7 @@
 ---
 title: Green Economy
 description: Learn how the Singapore Green Plan 2030 will make sustainability a key competitive advantage for us, and present new opportunities for growth and job creation.
-permalink: /sgp30-framework/green-economy/
+permalink: /green-plan-framework/green-economy/
 ---
 
 ### Green Economy

@@ -1,7 +1,7 @@
 ---
 title: Energy Reset
 description: Cleaner and better use of energy is core to any plan to tackle climate change. Learn how we will increase our solar capacity, and our aim to shift from internal combustion engine vehicles to electric vehicles by 2040. 
-permalink: /sgp30-framework/energy-reset/
+permalink: /green-plan-framework/energy-reset/
 ---
 
 ### Energy Reset

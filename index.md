@@ -7,10 +7,7 @@ permalink: /
 sections:
     - hero:
         title: Introducing The Singapore Green Plan 2030
-        subtitle: Watch how Singapore will transform into a greener and more sustainable city by 2030. 
         background: /images/index/mse-global-city-of-sustainability.jpg
-        button: Watch Now
-        url: /contact-us/
     - infopic:
         title: Introducing The Singapore Green Plan 2030
         description: </p><p>Watch how Singapore will transform into a greener and more sustainable city by 2030. </p><video class="mse-infopic-media-right" controls playsinline="" poster="/images/index/video.jpg" id="bannerVideo"><source src="https://www.mse.gov.sg/images/banner-video.mp4" type="video/webm"></video><p class="mse-none">
