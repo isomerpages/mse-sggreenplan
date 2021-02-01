@@ -46,7 +46,7 @@ sections:
         alt: Transform Our City
     - infopic:
         title: Ministries
-        description: Lorem Ipsum
+        description: </p><p>Lorem Ipsum</p><img class="mse-infopic-media-right" src="/images/index/ministry-logos.jpg" alt="Lorem Ipsum" /><p class="mse-none"> 
         button: Lorem Ipsum
         url: /sgp30-framework/city-in-nature/
         image: /images/index/ministry-logos.jpg
