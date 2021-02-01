@@ -22,7 +22,7 @@ colors:
 collections:
   take-action:
     output: true
-  green-plan-framework:
+  green-plan-overview:
     output: true
 resources_name: media
 

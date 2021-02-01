@@ -7,11 +7,11 @@
 logo: /images/logo_sog.png
 
 links:
-  - title: The Green Plan Framework
-    collection: green-plan-framework
+  - title: The Green Plan Overview
+    collection: green-plan-overview
   - title: Take Action
     collection: take-action
-  - title: Press
+  - title: Resources
     url: /press
   - title: Contact
     url: /contact-us

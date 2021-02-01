@@ -1,7 +1,7 @@
 ---
 title: City in Nature
 description: By 2030, Singapore will be a green and beautiful City in Nature. Learn how we will live, work, and play closer to nature.  
-permalink: /green-plan-framework/city-in-nature/
+permalink: /green-plan-overview/city-in-nature/
 ---
 
 ### City in Nature
