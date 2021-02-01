@@ -346,6 +346,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+<<<<<<< Updated upstream
 .front-page-cta {
   text-decoration: none !important;
   color: #00725c !important;
@@ -354,5 +355,47 @@ $desktop: 960px + (2 * $gap) !default;
   }
   &:hover{
     color: #00a68a !important;
+  }
+}
+
+#main-content .bp-container {
+  .is-hidden-desktop .is-half {
+    @media screen and (max-width: 767.98px) {
+      img, video {
+        margin-top: 1.5rem;
+      }
+
+      img:first-child {
+        display: none;
+      }
+    }
+  }
+
+  .is-hidden-mobile .is-half {
+    @media screen and (min-width: 768px) {
+      img:first-child {
+        opacity: 0;
+      }
+
+      .mse-infopic-media-left,
+      .mse-infopic-media-right {
+        position: absolute;
+        top: calc(0% + 4rem);
+        width: calc(50% - 1.5rem);
+        // transform: translate(0, -50%);
+      }
+
+      .mse-infopic-media-left {
+        left: calc(0% + .75rem)
+      }
+      
+      .mse-infopic-media-right {
+        left: calc(50% + .75rem)
+      }
+    }
+  }  
+
+  .mse-none {
+    display: none !important;
   }
 }
