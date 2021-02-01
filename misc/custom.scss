@@ -346,6 +346,13 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-.bp-hero .bp-button:hover {
-  background-color: #00a68a !important;
+.front-page-cta {
+  text-decoration: none !important;
+  color: #00725c !important;
+  &:after{
+    display: none !important;
+  }
+  &:hover{
+    color: #00a68a !important;
+  }
 }
