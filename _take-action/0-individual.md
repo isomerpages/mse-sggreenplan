@@ -8,10 +8,11 @@ permalink: /take-action/individuals/
 
 ![The Green Plan For Individuals](/images/greenplan/gp_individual.jpg)
 
-**Everyone can play a part to fight climate change by adopting sustainable lifestyles. Here’s are some ways you can play a part:**
+**Everyone can play a part to fight climate change by adopting sustainable lifestyles. Here are some ways you can play a part:**
 
-- Adopt [Good personal habits](https://www.mse.gov.sg/take-action/individuals){:class="external-link" target="_blank"}
-- [Volunteer and participate with NEA](https://www.nea.gov.sg/programmes-grants/volunteering){:class="external-link" target="_blank"}
+- Adopt [good personal habits](https://www.mse.gov.sg/take-action/individuals){:class="external-link" target="_blank"}
+- [Volunteer and participate](https://www.nea.gov.sg/programmes-grants/volunteering){:class="external-link" target="_blank"}
+- Get funding for your project with the [SG Eco Fund](https://www.sgeco.gov.sg/)
 - Reduce water wastage and use water-efficient appliances  
 - Reduce, Reuse and Recycle Right  
 - Buy, order, use only what you need  
