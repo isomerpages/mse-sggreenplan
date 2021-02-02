@@ -14,7 +14,7 @@ sections:
         alt: Climate Change
     - infopic:
         title: What Is The Singapore Green Plan 2030?
-        description: </p><p>The Singapore Green Plan 2030, or the Green Plan, is our ambitious national plan and commitment to specific sustainability strategies over the next 10 years.</p><img class="mse-infopic-media-left" src="/images/index/what-is-sgp30.jpg" alt="SGP30" /><p class="mse-none">
+        description: </p><p>The Singapore Green Plan 2030, or the Green Plan, is our ambitious national plan and commitment to sustainability strategies over the next 10 years.</p><img class="mse-infopic-media-left" src="/images/index/what-is-sgp30.jpg" alt="SGP30" /><p class="mse-none">
         image: /images/index/what-is-sgp30.jpg
         alt: SGP30
     - infopic:
@@ -24,7 +24,7 @@ sections:
         alt: Why Green Plan
     - infopic:
         title: Why Is The Green Plan Important?
-        description: </p><p>Climate change is an urgent global problem. Singapore is taking firm action to build a more sustainable future for our future generations. After all, sustainable development is a part of our DNA—we have always emphasised environmental protection and social inclusion, even as we pursue economic prosperity for our people.</p><img class="mse-infopic-media-left" src="/images/index/what-is-climate-change.jpg" alt="Climate Change" /><p class="mse-none">
+        description: </p><p>Climate change is an urgent global problem, and Singapore continues to take firm action to build a more sustainable future for our future generations.</p><img class="mse-infopic-media-left" src="/images/index/what-is-climate-change.jpg" alt="Climate Change" /><p class="mse-none">
         image: http://placehold.it/628x285
         alt: Climate Change
     - infopic:
@@ -54,6 +54,5 @@ sections:
     - resources:
         title: Press
         subtitle: Read about the Green Plan and our efforts in the news.
-        button: View More
 ---
 
