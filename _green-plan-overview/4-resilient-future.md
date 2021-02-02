@@ -8,8 +8,6 @@ permalink: /green-plan-overview/resilient-future/
 
 ![Resilient Future](/images/framework/framework_resilientfuture.jpg)
 
-#### Staying Nimble and Adaptable 
-
 Our campaign to deal with climate change will continue into the next century, and our efforts have already begun–from physical defences protecting our coastlines from rising sea levels, to increasing local food production. 
 
 - Against rising sea levels, we are developing new solutions and better understanding of our coastlines.
