@@ -10,6 +10,9 @@ permalink: /green-plan-overview/sustainable-living/
 
 **Sustainable Living** means we will reduce carbon emissions, keep our environment clean, and make saving resources and energy a way of life in Singapore. 
 
+**Circular Economy**  
+We aim to be a Zero Waste nation powered by a circular economy, with a high rate of recycling so that our precious resources can be used many times over. We have closed our water loop by recycling our used water to make NEWater, and will make a similar strong push towards circularity in waste materials to transform trash to treasure. We will also turn incinerated waste into NEWSand, to be used for construction.
+
 **Eco-Stewardship Programme**  
 This will involve all MOE schools from Kindergarten to Pre-University. MOE will strengthen school curricula and programmes on sustainability. Our aim is to achieve a two-third reduction of net carbon emissions from the schools sector by 2030, with at least 20% of schools to be carbon neutral by 2030. 
 
