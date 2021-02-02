@@ -25,7 +25,7 @@ sections:
     - infopic:
         title: Why Is The Green Plan Important?
         description: </p><p>Climate change is an urgent global problem, and Singapore continues to take firm action to build a more sustainable future for our future generations.</p><img class="mse-infopic-media-left" src="/images/index/what-is-climate-change.jpg" alt="Climate Change" /><p class="mse-none">
-        image: http://placehold.it/628x285
+        image: /images/index/what-is-climate-change.jpg
         alt: Climate Change
     - infopic:
         title: What Are The Green Plan’s Key Targets?
