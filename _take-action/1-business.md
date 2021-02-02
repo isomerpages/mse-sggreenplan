@@ -10,9 +10,9 @@ permalink: /take-action/businesses/
 
 Sustainability will be a key competitive advantage for us, and present new growth opportunities, as we develop our Green Economy. 
 
-#### Green Finance Masterplan  
-By building up financial system resilience to environmental risks, developing green finance solutions and markets, and leveraging innovation and technology, we can become a leading centre for Green Finance in Asia, and around the world.  
-<a href="https://www.mas.gov.sg/who-we-are/annual-reports/annual-report-2019-2020/greening-the-financial-system" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+#### Ministry of Sustainability and the Environment Schemes  
+Environmentally-friendly actions can start small. Here’s how consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference.  
+<a href="https://www.mse.gov.sg/take-action/organisations/" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
 	<span>LEARN MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
@@ -24,9 +24,16 @@ Projected to be a multi-billion dollar industry, this includes green finance, su
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
 
-#### Research, Innovation and Enterprise (RIE) 2025  
-We are promoting homegrown innovation under RIE 2025, and attracting companies to anchor their R&D activities in Singapore to develop new sustainability solutions such as carbon capture, utilisation and storage, low-carbon hydrogen, energy efficient materials, and solutions for the circular economy, amongst others.  
-<a href="https://www.nrf.gov.sg/about-nrf/rie-ecosystem" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+#### Empowering Businesses
+The government is proactively seeking feedback from businesses to continuously improve our rules and licensing framework, speed up processes and facilitate new business ideas.  
+<a href="https://www.mti.gov.sg/Transforming-Industries/For-Enterprises" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>LEARN MORE</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+</a>
+
+#### Green Finance Masterplan  
+By building up financial system resilience to environmental risks, developing green finance solutions and markets, and leveraging innovation and technology, we can become a leading centre for Green Finance in Asia, and around the world.  
+<a href="https://www.mas.gov.sg/who-we-are/annual-reports/annual-report-2019-2020/greening-the-financial-system" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
 	<span>LEARN MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
@@ -38,16 +45,9 @@ The first of its kind globally, the GSLS seeks to support corporates of all size
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
 
-#### Ministry of Sustainability and the Environment Schemes  
-Environmentally-friendly actions can start small. Here’s how consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference.  
-<a href="https://www.mse.gov.sg/take-action/organisations/" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
-	<span>LEARN MORE</span>
-	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
-</a>
-
-#### Empowering Businesses
-The government is proactively seeking feedback from businesses to continuously improve our rules and licensing framework, speed up processes and facilitate new business ideas.  
-<a href="https://www.mti.gov.sg/Transforming-Industries/For-Enterprises" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+#### Research, Innovation and Enterprise (RIE) 2025  
+We are promoting homegrown innovation under RIE 2025, and attracting companies to anchor their R&D activities in Singapore to develop new sustainability solutions such as carbon capture, utilisation and storage, low-carbon hydrogen, energy efficient materials, and solutions for the circular economy, amongst others.  
+<a href="https://www.nrf.gov.sg/about-nrf/rie-ecosystem" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
 	<span>LEARN MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
