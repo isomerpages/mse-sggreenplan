@@ -51,6 +51,9 @@ We are promoting homegrown innovation under RIE 2025, and attracting companies t
 	<span>LEARN MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
+<a href="https://form.gov.sg/6013d365bedd790011bb9c86" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>Share them with us!</span>
+</a>
 
 #### BCA Green Mark  
 The BCA Green Mark Scheme is an initiative to create a more sustainable built environment in Singapore by promoting sustainable design, construction and operating practices in buildings.  
@@ -59,6 +62,3 @@ The BCA Green Mark Scheme is an initiative to create a more sustainable built en
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
 
-<a href="https://form.gov.sg/6013d365bedd790011bb9c86" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
-	<span>Share them with us!</span>
-</a>
