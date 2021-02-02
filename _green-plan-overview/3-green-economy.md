@@ -21,3 +21,9 @@ Homegrown innovation will be promoted under the RIE2025 Plan, and attract compan
 **[The Jurong Island Economy Study](https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter2/sustainable-production/){:class="external-link" target="_blank"}**  
 The study seeks to bring about environmental and economic gains for companies by mapping out the current water, energy, and waste flows on Jurong Island, and to identify further synergies and reduce resource use at the systems level.
 
+**Do you have ideas or suggestions on the Green Plan?**
+
+<a href="https://form.gov.sg/6013d365bedd790011bb9c86" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>Share them with us!</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+</a>
