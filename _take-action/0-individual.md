@@ -12,7 +12,7 @@ permalink: /take-action/individuals/
 
 - Adopt [good personal habits](https://www.mse.gov.sg/take-action/individuals){:class="external-link" target="_blank"}
 - [Volunteer and participate](https://www.nea.gov.sg/programmes-grants/volunteering){:class="external-link" target="_blank"}
-- Get funding for your project with the [SG Eco Fund](https://www.sgeco.gov.sg/)
+- Get funding for your project with the [SG Eco Fund](https://www.sgeco.gov.sg/){:class="external-link" target="_blank"}
 - Reduce water wastage and use water-efficient appliances  
 - Reduce, Reuse and Recycle Right  
 - Buy, order, use only what you need  
