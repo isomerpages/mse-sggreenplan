@@ -14,4 +14,13 @@ Our **City In Nature** is where we will create a green, livable, and sustainable
 - One million more trees will be planted across our island, which will sequester another 78,000 tonnes of CO2, providing cleaner air and more shade.
 - Working with communities and NGOs to develop programmes to allow people and wildlife to live in harmony.
 
-[Share your ideas for the Green Plan with us!](https://form.gov.sg/6013d365bedd790011bb9c86)
+**Do you have ideas or suggestions on the Green Plan?**
+
+<a href="https://form.gov.sg/6013d365bedd790011bb9c86" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>Share them with us!</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+</a>
+
+<!-- FORM EMBED
+<iframe id="iframe" src="https://form.gov.sg/6013d365bedd790011bb9c86" style="width:100%;height:500px"></iframe>
+<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div> -->
