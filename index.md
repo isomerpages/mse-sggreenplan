@@ -54,8 +54,5 @@ sections:
         description: </p><p>The Green Plan is a multi-agency effort led by 5 Ministries.</p><img class="mse-infopic-media-left" src="/images/index/ministries.png" alt="Ministries" /><p class="mse-none">
         image: /images/index/ministries.png
         alt: Ministries
-    - resources:
-        title: Press
-        subtitle: Read about the Green Plan and our efforts in the news.
 ---
 

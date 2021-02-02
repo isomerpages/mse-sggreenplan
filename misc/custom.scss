@@ -433,3 +433,7 @@ $desktop: 960px + (2 * $gap) !default;
     padding-top: percentage(9/16);
   }
 }
+
+.sgds-icon-download:before {
+  display: none !important;
+}
