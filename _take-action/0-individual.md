@@ -8,17 +8,26 @@ permalink: /take-action/individuals/
 
 ![The Green Plan For Individuals](/images/greenplan/gp_individual.jpg)
 
-Everyone can play a part to fight climate change by adopting sustainable lifestyles. Here are 3 simple ways you can reduce your energy usage and carbon emissions.
+**Everyone can play a part to fight climate change by adopting sustainable lifestyles. Here’s are some ways you can play a part:**
 
-1. [Good personal habits](https://www.mse.gov.sg/take-action/individuals){:class="external-link" target="_blank"}
-	- Save energy
-	- Save water
-	- Go local
-2. Volunteer and participate
-	- Bring your own bag
-	- Volunteer with NEA and other organisations for sustainability projects
-3. Be an influencer in your community
-	- View [our resources](https://www.mse.gov.sg/resources/){:class="external-link" target="_blank"} to help you kickstart your own sustainability projects 
-4. [Adapt and Grow](https://www.mti.gov.sg/Transforming-Industries/For-Individual){:class="external-link" target="_blank"}
-	- Continuously deepen and refresh your skills to stay relevant and take advantage of new opportunities.
+- Adopt [Good personal habits](https://www.mse.gov.sg/take-action/individuals){:class="external-link" target="_blank"}    
+- Reduce water wastage and use water-efficient appliances  
+- Reduce, Reuse and Recycle Right  
+- Buy, order, use only what you need  
+- BYO bag, container, etc  
+- Repair instead of buying new items  
+- Switch off electrical appliances at the socket  
+- Use fan instead of air-con  
+- Set air-con at 25 degrees  
+- Use energy-efficient appliances  
+- Take public transport, walk or cycle, instead of driving  
+- If you need to drive, consider an electric vehicle when the COE expires  
+- Support local produce  
+- Grow edibles in own/community/allotment gardens  
+- Organise or participate in tree planting and habitat enhancement programmes 
+- Use [our resources](https://www.mse.gov.sg/resources/){:class="external-link" target="_blank"} to help you kickstart your own sustainability projects  
 
+<a href="https://form.gov.sg/6013d365bedd790011bb9c86" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>Share them with us!</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+</a>
