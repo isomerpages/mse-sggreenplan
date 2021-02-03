@@ -57,7 +57,7 @@ sections:
         image: /images/index/ministries.png
         alt: Ministries
     - resources:
-        title: Press
+        title: Latest News
         subtitle: Read about the Green Plan and our efforts in the news.
 ---
 
