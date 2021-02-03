@@ -56,6 +56,6 @@ sections:
         alt: Ministries
     - resources:
         title: Latest News
-        subtitle: Read about the Green Plan and our efforts in the news.
+        # subtitle: Read about the Green Plan and our efforts in the news.
 ---
 

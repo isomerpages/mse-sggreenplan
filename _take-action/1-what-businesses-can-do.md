@@ -6,7 +6,7 @@ permalink: /take-action/what-businesses-can-do/
 
 ### What Businesses Can Do
 
-![The Green Plan For Individuals](/images/greenplan/gp_business.jpg)
+![The Green Plan For Businesses](/images/greenplan/gp_business.jpg)
 
 Sustainability will be a key competitive advantage for us, and present new growth opportunities, as we develop our Green Economy. 
 
@@ -14,6 +14,15 @@ Sustainability will be a key competitive advantage for us, and present new growt
 Environmentally-friendly actions can start small. Consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference.  
 <a href="https://www.mse.gov.sg/take-action/organisations/" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
 	<span>LEARN MORE</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+</a>
+
+#### Utilize the SG Eco Fund
+
+The $50 million SG Eco Fund was announced in March 2020 to support projects that involve the community and advance environmental sustainability in Singapore.
+
+<a href="https://www.sgeco.gov.sg/" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>FIND OUT MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
 
