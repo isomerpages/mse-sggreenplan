@@ -33,6 +33,8 @@ sections:
     - infopic:
         title: What Are The Green Plan’s Key Targets?
         description: </p><p><ul><li>- Plant 1 Million trees</li><li>- Quadruple solar energy deployment by 2025</li><li>- Become a Zero Waste nation</li><li>- Expand our cycling tracks to 1,300 km</li><li>- All vehicles to run on cleaner energy by 2040</li><li>- Be a leader of the green economy</li></ul></p><img class="mse-infopic-media-right" src="/images/index/impacts-of-climate-change.jpg" alt="Impact" /><p class="mse-none">
+        button: View more
+        url: /green-plan-overview/overview/
         image: /images/index/impacts-of-climate-change.jpg
         alt: Impact
     - infopic:
@@ -46,7 +48,7 @@ sections:
         title: You Can Help Transform Our City
         description: </p><p>Everyone can play a part in ensuring the Green Plan becomes a reality, transforming Singapore into a sustainable city.</p><img class="mse-infopic-media-right" src="/images/index/how-it-transforms.jpg" alt="Transform Our City" /><p class="mse-none">
         button: Get Involved
-        url: /take-action/individuals/
+        url: /take-action/what-you-can-do/
         image: /images/index/how-it-transforms.jpg
         alt: Transform Our City
     - infopic:

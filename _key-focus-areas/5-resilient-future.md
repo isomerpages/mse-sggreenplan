@@ -1,7 +1,7 @@
 ---
 title: Resilient Future
 description: The Singapore Green Plan 2030 is our campaign to deal with climate change, which will last into the next century. Learn how we are starting our preparations to build a Resilient Future for Singapore. 
-permalink: /green-plan-overview/resilient-future/
+permalink: /key-focus-areas/resilient-future/
 ---
 
 ### Resilient Future

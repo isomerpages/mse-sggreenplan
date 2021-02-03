@@ -22,7 +22,7 @@ colors:
 collections:
   take-action:
     output: true
-  green-plan-overview:
+  key-focus-areas:
     output: true
 resources_name: resources
 google-tag-manager: G-90ZK0G5DNN

@@ -1,10 +1,10 @@
 ---
-title: The Green Plan for Businesses
+title: What Businesses Can Do
 description: Sustainability will be a key competitive advantage for Singapore, and present new growth opportunities for businesses as we develop our Green Economy. Learn more about the Green Plan for Businesses. 
-permalink: /take-action/businesses/
+permalink: /take-action/what-businesses-can-do/
 ---
 
-### The Green Plan for Businesses
+### What Businesses Can Do
 
 ![The Green Plan For Individuals](/images/greenplan/gp_business.jpg)
 
@@ -51,9 +51,6 @@ We are promoting homegrown innovation under RIE 2025, and attracting companies t
 	<span>LEARN MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
-<a href="https://form.gov.sg/6013d365bedd790011bb9c86" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
-	<span>Share them with us!</span>
-</a>
 
 #### BCA Green Mark  
 The BCA Green Mark Scheme is an initiative to create a more sustainable built environment in Singapore by promoting sustainable design, construction and operating practices in buildings.  
@@ -62,3 +59,8 @@ The BCA Green Mark Scheme is an initiative to create a more sustainable built en
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
 
+**Do you have ideas or suggestions on the Green Plan?**  
+<a href="https://form.gov.sg/6013d365bedd790011bb9c86" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>Share them with us!</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+</a>
