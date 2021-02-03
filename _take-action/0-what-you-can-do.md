@@ -4,9 +4,9 @@ description: You can play a part to fight climate change by adopting a sustainab
 permalink: /take-action/what-you-can-do/
 ---
 
-### The Green Plan for Individuals
+### What You Can Do
 
-![The Green Plan For Individuals](/images/greenplan/gp_individual.jpg)
+![What You Can Do](/images/greenplan/gp_individual.jpg)
 
 **Everyone can play a part to fight climate change by adopting sustainable lifestyles. Here are some ways you can play a part:**
 
