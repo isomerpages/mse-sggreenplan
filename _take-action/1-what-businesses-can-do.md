@@ -1,6 +1,6 @@
 ---
 title: What Businesses Can Do
-description: Sustainability will be a key competitive advantage for Singapore, and present new growth opportunities for businesses as we develop our Green Economy. Learn more about the Green Plan for Businesses. 
+description: Sustainability will be a key competitive advantage for Singapore, and present new growth opportunities for businesses as we develop our Green Economy. Learn more about what businesses can do. 
 permalink: /take-action/what-businesses-can-do/
 ---
 
@@ -10,8 +10,8 @@ permalink: /take-action/what-businesses-can-do/
 
 Sustainability will be a key competitive advantage for us, and present new growth opportunities, as we develop our Green Economy. 
 
-#### Ministry of Sustainability and the Environment Schemes  
-Environmentally-friendly actions can start small. Here’s how consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference.  
+#### Adopt Environmentally Friendly Habits 
+Environmentally-friendly actions can start small. Consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference.  
 <a href="https://www.mse.gov.sg/take-action/organisations/" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
 	<span>LEARN MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
