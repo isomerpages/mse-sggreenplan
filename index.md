@@ -34,14 +34,14 @@ sections:
         title: What Are The Green Plan’s Key Targets?
         description: </p><p><ul><li>- Plant 1 Million trees</li><li>- Quadruple solar energy deployment by 2025</li><li>- Become a Zero Waste nation</li><li>- Expand our cycling tracks to 1,300 km</li><li>- All vehicles to run on cleaner energy by 2040</li><li>- Be a leader of the green economy</li></ul></p><img class="mse-infopic-media-right" src="/images/index/impacts-of-climate-change.jpg" alt="Impact" /><p class="mse-none">
         button: View more
-        url: /green-plan-overview/overview/
+        url: /key-focus-areas/overview/
         image: /images/index/impacts-of-climate-change.jpg
         alt: Impact
     - infopic:
         title: How Will We Achieve These Key Targets?
         description: </p><p>The Green Plan comprises 5 pillars that will touch all aspects of our lives:<ul><li>- Sustainable Living</li><li>- City In Nature</li><li>- Energy Reset</li><li>- Green Economy</li><li>- Resilient Future</li></ul></p><img class="mse-infopic-media-left" src="/images/index/about-sgp30.jpg" alt="About Green Plan" /><p class="mse-none">
         button: Find out more
-        url: /green-plan-overview/city-in-nature/
+        url: /key-focus-areas/city-in-nature/
         image: /images/index/about-sgp30.jpg
         alt: About Green Plan
     - infopic:
