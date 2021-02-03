@@ -11,7 +11,7 @@ permalink: /key-focus-areas/overview/
 - Plant 1 million trees.
 - Quadruple solar energy deployment by 2025.
 - Become a zero waste nation.
-- Expand cycling tracks to 1,320km. 
+- Expand cycling tracks to 1,320 km. 
 - All vehicles to run on cleaner energy by 2040.
 - Be a leader of the green economy. 
 - Reduce the waste sent to our landfills by 30%.
