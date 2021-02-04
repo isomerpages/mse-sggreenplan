@@ -12,6 +12,12 @@ permalink: /key-focus-areas/green-economy/
 
 We can be a leading carbon trading and services hub, which is projected to be a multi-billion dollar industry. We will also create new and diverse job opportunities in sectors such as green finance, sustainability consultancy, verification, credits trading and risk management.
 
+**Key Targets:**
+1. Introduce Enterprise Sustainability Programme, to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area.
+2. Create new and diverse job opportunities in sectors such as green finance, sustainability consultancy, verification, credits trading and risk management.
+3. Be a leading centre for Green Finance in Asia and globally, by building up the financial sector’s resilience to environmental risks, developing green financial solutions, build knowledge and capabilities, and leveraging innovation and technology.
+4. Promote homegrown innovation under the Research and Innovation & Enterprise Plan 2025, and attract companies to anchor their R&D activities in Singapore to develop new sustainability solutions.
+
 **[Green Finance Masterplan](https://www.mas.gov.sg/who-we-are/annual-reports/annual-report-2019-2020/greening-the-financial-system){:class="external-link" target="_blank"}**  
 By building up financial system resilience to environmental risks, developing green finance solutions and markets, and leveraging innovation and technology, we can become a leading centre for Green Finance in Asia, and around the world.
 
@@ -23,6 +29,21 @@ We are promoting homegrown innovation under RIE 2025, and attracting companies t
 
 **Enterprise Sustainability Programme**  
 This programme will help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area. We will build up the financial sector’s resilience to environmental risks, develop green finance solutions and markets, build knowledge and capabilities, and leverage innovation and technology.  
+
+#### Script
+
+<div>
+	<input type="checkbox" id="title1"  /><label for="title1">Green Economy</label>
+	<div class="accordion-content">
+		<p><i><strong>Chan Chun Sing</strong></i><br/>
+			<i>Minister for Trade and Industry</i><br/><br/>
+			As sustainability grows in importance, and consumers pivot towards greener and more sustainable products and services, it can become a key competitive advantage for us, and present new opportunities for growth and job creation.<br/><br/>
+			The Government will introduce a new Enterprise Sustainability Programme, to help enterprises embrace sustainability and develop new capabilities in this area.<br/><br/>
+			We will also promote homegrown innovation, and attract companies to anchor their R&D activities in Singapore to develop new sustainability solutions for Asia and the world.<br/><br/>
+			We can be a leading carbon trading and services hub, which is projected to be a multi-billion dollar industry. We will create new and diverse job opportunities and our vision is to be a leading centre for Green Finance in Asia and globally.
+		</p>
+	</div>
+</div>
 
 **Do you have ideas or suggestions on the Green Plan?**
 

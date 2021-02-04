@@ -21,6 +21,26 @@ permalink: /key-focus-areas/energy-reset/
 - All newly-registered cars to be cleaner-energy models by 2030.
 - To support the growth of electric vehicles (EV), we will more than double our EV charger targets—from 28,000 to 60,000 by 2030.
 
+#### Script
+
+<div>
+	<input type="checkbox" id="title1"  /><label for="title1">Clean Energy</label>
+	<div class="accordion-content">
+		<p><i><strong>Chan Chun Sing</strong></i><br/>
+			<i>Minister for Trade and Industry</i><br/><br/>
+			We will strive to use cleaner energy, and become more energy efficient.<br/><br/>
+			We will quadruple our solar energy deployment by 2025, such as by covering the rooftops of HDB blocks with solar panels. We already host the largest biodiesel plant in the world, which is being further expanded.<br/><br/>
+			<i><strong>Ong Ye Kung</strong></i><br/>
+			<i>Minister for Transport</i><br/><br/>
+			We can also use 15% less energy in HDB towns by 2030, through measures such as the widespread use of smart LED lights and solar energy.<br/><br/>
+			<i><strong>Chan Chun Sing</strong></i><br/>
+			<i>Minister for Trade and Industry</i><br/><br/>
+			We will invest in water research and development, to halve the energy required to produce desalinated water. Our waste treatment facilities, such as Tuas Nexus, will generate more energy than they consume.<br/><br/>
+			This metropolis of ours will be a bright green spark, inspiring the world and our future generations.
+		</p>
+	</div>
+</div>
+
 **Do you have ideas or suggestions on the Green Plan?**
 
 <a href="https://form.gov.sg/6013d365bedd790011bb9c86" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">

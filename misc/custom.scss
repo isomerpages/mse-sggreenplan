@@ -437,3 +437,45 @@ $desktop: 960px + (2 * $gap) !default;
 .sgds-icon-download:before {
   display: none !important;
 }
+
+//Accordion
+
+input {
+  display: none;
+}
+label {
+  display: block;
+  padding: 8px 22px;
+  margin: 0 0 5px 0;
+  cursor: pointer;
+  background: #F0F4F6;
+  border-radius: 3px;
+  color: #484848;
+  transition: ease .5s;
+  font-size: 1.5em;
+}
+
+label:hover {
+  background: #4a96b0;
+  color: #FFF;
+}
+
+.accordion-content {
+  /* background: #E2E5F6; */
+  padding: 10px 0px 30px 30px;
+  /* border: 1px solid #484848; */
+  margin: 0 0 1px 0;
+  border-radius: 3px;
+}
+
+input + label + .accordion-content {
+  display: none;
+}
+
+input:checked + label + .accordion-content {
+  display: none;
+}
+
+input:checked + label + .accordion-content {
+  display: block;
+}
