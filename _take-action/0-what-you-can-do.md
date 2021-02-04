@@ -4,29 +4,28 @@ description: You can play a part to fight climate change by adopting a sustainab
 permalink: /take-action/what-you-can-do/
 ---
 
-### What You Can Do
+### Be a Part of the Green Plan as an Individual
 
 ![What You Can Do](/images/greenplan/gp_individual.jpg)
 
-**Everyone can play a part to fight climate change by adopting sustainable lifestyles. Here are some ways you can play a part:**
+**Here are some ways you can contribute to the Green Plan - click on the links to learn more!**
 
 - Adopt [good personal habits](https://www.mse.gov.sg/take-action/individuals){:class="external-link" target="_blank"}
 - [Volunteer and participate](https://www.nea.gov.sg/programmes-grants/volunteering){:class="external-link" target="_blank"}
 - Get funding for your project with the [SG Eco Fund](https://www.sgeco.gov.sg/){:class="external-link" target="_blank"}
-- Reduce water wastage and use water-efficient appliances  
-- Reduce, Reuse and Recycle Right  
-- Buy, order, use only what you need  
-- BYO bag, container, etc  
-- Repair instead of buying new items  
+- [Reduce water wastage](https://www.pub.gov.sg/savewater){:class="external-link" target="_blank"} and use water-efficient appliances  
+- [Reduce, Reuse and Recycle](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling){:class="external-link" target="_blank"} Right
+- Buy, order, use only what you need
+- [BYO bag, container](https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter3/packaging/){:class="external-link" target="_blank"}, etc
+- Repair/upcycle instead of buying new items  
 - Switch off electrical appliances at the socket  
-- Use fan instead of air-con  
-- Set air-con at 25 degrees  
-- Use energy-efficient appliances  
-- Take public transport, walk or cycle, instead of driving  
-- If you need to drive, consider an electric vehicle when the COE expires  
-- Support local produce  
+- Use a fan instead of the air-con, or set it at 25 degrees  
+- Adopt an [energy-efficient lifestyle](https://www.ema.gov.sg/industry-energy-efficiency.aspx){:class="external-link" target="_blank"} and use [energy-efficient appliances](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/household-sector/the-energy-label){:class="external-link" target="_blank"}
+- Take [public transport, walk or cycle, instead of driving](https://www.mot.gov.sg/about-mot/land-transport/sustainable-transport){:class="external-link" target="_blank"}
+- If you need to drive, consider an [electric vehicle](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles.html){:class="external-link" target="_blank"} when the COE expires  
+- [Support local produce](https://www.sfa.gov.sg/food-farming/sgfoodstory/supporting-local-produce){:class="external-link" target="_blank"}
 - Grow edibles in own/community/allotment gardens  
-- Organise or participate in tree planting and habitat enhancement programmes 
+- Organise or participate in [tree planting and habitat enhancement programmes](https://www.nparks.gov.sg/treessg/one-million-trees-movement){:class="external-link" target="_blank"}
 - Use [our resources](https://www.mse.gov.sg/resources/){:class="external-link" target="_blank"} to help you kickstart your own sustainability projects  
 
 **Do you have ideas or suggestions on the Green Plan?**
