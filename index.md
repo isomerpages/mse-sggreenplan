@@ -5,7 +5,7 @@ description: Learn how Singapore will transform into a global city of sustainabi
 permalink: /
 sections:
     - hero:
-        title: Introducing<br/>The Singapore Green Plan 2030
+        title: Introducing<br/>The Green Plan
         background: /images/index/mse-global-city-of-sustainability.jpg
     - infopic:
         title: Our Sustainable City
