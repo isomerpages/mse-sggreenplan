@@ -5,7 +5,7 @@ description: Learn how Singapore will transform into a global city of sustainabi
 permalink: /
 sections:
     - hero:
-        title: Introducing The Singapore Green Plan 2030
+        title: Introducing<br/>The Singapore Green Plan 2030
         background: /images/index/mse-global-city-of-sustainability.jpg
     - infopic:
         title: Our Sustainable City
@@ -24,7 +24,7 @@ sections:
         alt: Why Green Plan
     - infopic:
         title: Why Is The Green Plan Important?
-        description: </p><p>Climate change is an urgent global problem, and Singapore continues to take firm action to build a more sustainable future for our future generations.</p><img class="mse-infopic-media-left" src="/images/index/what-is-climate-change.jpg" alt="Climate Change" /><p class="mse-none">
+        description: </p><p>Climate change is an urgent global problem, and Singapore continues to take firm action to build a sustainable home for our future generations.</p><img class="mse-infopic-media-left" src="/images/index/what-is-climate-change.jpg" alt="Climate Change" /><p class="mse-none">
         image: /images/index/what-is-climate-change.jpg
         alt: Climate Change
     - infopic:
@@ -36,7 +36,7 @@ sections:
         alt: Impact
     - infopic:
         title: How Will We Achieve These Key Targets?
-        description: </p><p>The Green Plan comprises 5 pillars that will touch all aspects of our lives:<ul><li>- City in Nature</li><li>- Energy Reset</li><li>- Sustainable Living</li><li>- Green Economy</li><li>- Resilient Future</li></ul></p><img class="mse-infopic-media-left" src="/images/index/about-sgp30.jpg" alt="About Green Plan" /><p class="mse-none">
+        description: </p><p>The Green Plan comprises 5 pillars that will touch all aspects of our lives:<ul><li>1. City in Nature</li><li>2. Energy Reset</li><li>3. Sustainable Living</li><li>4. Green Economy</li><li>5. Resilient Future</li></ul></p><img class="mse-infopic-media-left" src="/images/index/about-sgp30.jpg" alt="About Green Plan" /><p class="mse-none">
         button: Find out more
         url: /key-focus-areas/city-in-nature/
         image: /images/index/about-sgp30.jpg
@@ -50,7 +50,7 @@ sections:
         alt: Transform Our City
     - infopic:
         title: A Whole-of-Nation Sustainability Movement
-        description: </p><p>The Green Plan is a multi-agency effort led by 5 Ministries.</p><img class="mse-infopic-media-left" src="/images/index/ministries.png" alt="Ministries" /><p class="mse-none">
+        description: </p><p>The Green Plan is a multi-agency effort led by 5 ministries:<ul><li>- Ministry of Sustainability and the Environmen</li><li>- Ministry of Trade and Industry</li><li>- Ministry of Transport</li><li>- Ministry of National Development</li><li>- Ministry of Education</li></ul></p><img class="mse-infopic-media-left" src="/images/index/ministries.png" alt="Ministries" /><p class="mse-none">
         image: /images/index/ministries.png
         alt: Ministries
     - resources:

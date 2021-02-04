@@ -10,6 +10,7 @@ permalink: /key-focus-areas/overview/
 
 The Green Plan is a whole-of-nation sustainable development agenda, with firm action plans touching almost every dimension of our lives. This is an opportunity for us to be pioneers in technological and policy solutions for sustainable development. Singapore will be a living laboratory which other cities around the world can pick up ideas from.
 
+The Green Plan will cover the following: 
 - Plant <a href="../city-in-nature/#:~:text=One%20million%20more%20trees%20will%20be%20planted%20across%20our%20island">1 million trees.</a>
 - <a href="../energy-reset/#:~:text=Our%20solar%20energy%20deployment%20will%20quadruple%20by%202025">Quadruple</a> solar energy deployment by 2025.
 - Become a <a href="../sustainable-living/#:~:text=zero%20waste%20nation">zero waste nation</a>.

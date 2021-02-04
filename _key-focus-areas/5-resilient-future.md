@@ -8,7 +8,7 @@ permalink: /key-focus-areas/resilient-future/
 
 ![Resilient Future](/images/framework/framework_resilientfuture.jpg)
 
-#### We will mitigate and adapt to climate change – our efforts have already begun. 
+#### Our efforts to mitigate and adapt to climate change have already begun. 
 
 - Against rising sea levels, we are developing new solutions and better understanding of our coastlines.
 - We will put in place the physical defences to protect our coastlines along East Coast, around Lim Chu Kang, Sungei Kadut, and Jurong Island. 
