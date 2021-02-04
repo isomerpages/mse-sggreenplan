@@ -27,7 +27,7 @@ The EFS encourages MOE schools to champion environmental ownership and a pro-env
 **[School Green Awards](https://sec.org.sg/our-programmes/environmental-awards/){:class="external-link" target="_blank"} (SGA)**
 The SGA serves as a platform for students to develop and showcase their environmental efforts, through customised activities which will help them gain a better understanding of the environment.
 
-#### Script
+#### Complete Narrative
 
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Reducing Waste for Sustainable Living</label>

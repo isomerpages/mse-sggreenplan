@@ -19,7 +19,7 @@ permalink: /key-focus-areas/resilient-future/
 
 - The Green Plan is very much aligned with the SDGs and the 2030 Agenda for Sustainable Development (2030 Agenda) adopted by all countries at the United Nations in 2015. Our targets demonstrate Singapore's commitment to sutainable development, in sync with international efforts and the global agenda to build a more resilient future.
 
-#### Script
+#### Complete Narrative
 
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Resilient Future</label>

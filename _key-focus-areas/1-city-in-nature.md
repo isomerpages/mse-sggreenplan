@@ -14,7 +14,7 @@ permalink: /key-focus-areas/city-in-nature/
 - One million more trees will be planted across our island, which will sequester another 78,000 tonnes of CO2, providing cleaner air and more shade.
 - Working with communities and NGOs to develop programmes to allow people and wildlife to live in harmony.
 
-#### Script
+#### Complete Narrative
 
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">City in Nature</label>

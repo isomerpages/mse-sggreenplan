@@ -21,7 +21,7 @@ permalink: /key-focus-areas/energy-reset/
 - All newly-registered cars to be cleaner-energy models by 2030.
 - To support the growth of electric vehicles (EV), we will more than double our EV charger targets—from 28,000 to 60,000 by 2030.
 
-#### Script
+#### Complete Narrative
 
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Clean Energy</label>

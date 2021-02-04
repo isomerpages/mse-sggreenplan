@@ -30,7 +30,7 @@ We are promoting homegrown innovation under RIE 2025, and attracting companies t
 **Enterprise Sustainability Programme**  
 This programme will help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area. We will build up the financial sector’s resilience to environmental risks, develop green finance solutions and markets, build knowledge and capabilities, and leverage innovation and technology.  
 
-#### Script
+#### Complete Narrative
 
 <div>
 	<input type="checkbox" id="title1"  /><label for="title1">Green Economy</label>
