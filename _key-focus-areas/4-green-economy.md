@@ -8,7 +8,7 @@ permalink: /key-focus-areas/green-economy/
 
 ![Green Economy](/images/framework/framework_greeneconomy.jpg)
 
-The **Green Economy** is where we will seek green growth to create new jobs, transform our industries and harness sustainability as a competitive advantage.
+#### We will seek green growth to create new jobs, transform our industries and harness sustainability as a competitive advantage.
 
 We can be a leading carbon trading and services hub, which is projected to be a multi-billion dollar industry. We will also create new and diverse job opportunities in sectors such as green finance, sustainability consultancy, verification, credits trading and risk management.
 

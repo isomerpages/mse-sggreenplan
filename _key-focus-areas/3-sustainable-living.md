@@ -8,7 +8,7 @@ permalink: /key-focus-areas/sustainable-living/
 
 ![Sustainable Living](/images/framework/framework_sustainableliving.jpg)
 
-**Sustainable Living** means we will reduce carbon emissions, keep our environment clean, and make saving resources and energy a way of life in Singapore. 
+#### We will reduce carbon emissions, keep our environment clean, and make saving resources and energy a way of life in Singapore. 
 
 **Circular Economy**  
 We aim to be a zero waste nation powered by a circular economy, with a high rate of recycling so that our precious resources can be used many times over. We have closed our water loop by recycling our used water to make NEWater, and will make a similar strong push towards circularity in waste materials to transform trash to treasure. We will also turn incinerated waste into NEWSand, to be used for construction.

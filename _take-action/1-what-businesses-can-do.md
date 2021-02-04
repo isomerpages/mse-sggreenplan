@@ -8,7 +8,7 @@ permalink: /take-action/what-businesses-can-do/
 
 ![The Green Plan For Businesses](/images/greenplan/gp_business.jpg)
 
-Sustainability will be a key competitive advantage for us, and present new growth opportunities, as we develop our Green Economy. 
+**Sustainability will be a key competitive advantage for us, and present new growth opportunities, as we develop our Green Economy.**
 
 #### Adopt Environmentally Friendly Habits 
 Environmentally-friendly actions can start small. Consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference.  

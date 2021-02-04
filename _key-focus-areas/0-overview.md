@@ -23,4 +23,3 @@ permalink: /key-focus-areas/overview/
 - <a href="../energy-reset/#:~:text=Housing">Green 80% of all buildings</a> over the next decade.
 - <a href="../sustainable-living/#:~:text=reduce%caron%20emissions">Reduce domestic greenhouse emissions</a> by at least 3 million tonnes per year by 2030.
 - Produce <a href="../resilient-future/#:~:text=30-by-30 target">30%</a> of our nutritional needs by 2030 locally (30-by-30 target).
-

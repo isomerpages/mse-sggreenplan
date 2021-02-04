@@ -8,7 +8,7 @@ permalink: /key-focus-areas/energy-reset/
 
 ![Energy Reset](/images/framework/framework_energyreset.jpg)
 
-Our **Energy Reset** will see Singapore using cleaner energy and increase our energy efficiency to lower our carbon footprint. 
+#### We will use cleaner energy and increase our energy efficiency to lower our carbon footprint. 
 
 **[Housing](https://www.mnd.gov.sg/our-work/greening-our-home/hdb-green-towns-programme){:class="external-link" target="_blank"}**
 - Our solar energy deployment will quadruple by 2025, including covering the rooftops of HDB blocks with solar panels. By 2030, solar energy deployed will be five times that of today, with at least 2 gigawatt-peak, capable of powering over 350,000 households a year. 
