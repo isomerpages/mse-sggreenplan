@@ -9,7 +9,7 @@ permalink: /key-focus-areas/overview/
 <!-- This is an opportunity for us to be pioneers in technological and policy solutions for sustainable development. Singapore will be a living laboratory which other cities around the world can pick up ideas from. -->
 
 
-<!-- ![Overview](/images/framework/framework_overview.jpg) -->
+![Overview](/images/framework/framework_overview.jpg)
 
 #### Our Key Targets for the Green Plan
 - Plant [1 million trees.](../city-in-nature/#:~:text=One%20million%20more%20trees%20will%20be%20planted%20across%20our%20island){:class="external-link"}
@@ -28,15 +28,14 @@ permalink: /key-focus-areas/overview/
 - [Reduce domestic greenhouse emissions](../sustainable-living/#:~:text=reduce%caron%20emissions){:class="external-link"} by at least 3 million tonnes per year by 2030.
 - Produce [30%](../resilient-future/#:~:text=30-by-30 target){:class="external-link"} of our nutritional needs by 2030 locally (30-by-30 target).
 
-<br>
 
-Our nation is rooted in a few core beliefs – that we must uphold the rule of law, ensure non-corruptibility and meritocracy, foster racial harmony and a fair and just society, and always think long term for future generations. 
+#### Our nation is rooted in a few core beliefs – that we must uphold the rule of law, ensure non-corruptibility and meritocracy, foster racial harmony and a fair and just society, and always think long term for future generations. 
 
 These beliefs have kept us together and taken us forward. They led to many national priorities, policies and programmes that benefitted generations of Singaporeans.  
 
 Today, after more than 50 years of nation-building, one imperative is growing in importance, and that is sustainable development.    
 
-Sustainable Development – A Core Belief 
+**Sustainable Development – A Core Belief**
 
 Sustainable development is growing in importance because climate change is an existential threat of our times.  Climate change has brought rising sea levels and extreme weather patterns. Around the world, millions of lives and livelihoods are in danger. Singapore, as a low-lying island state, is particularly vulnerable.
 
@@ -54,7 +53,7 @@ We had significantly moved away from coal-generated power decisively many years 
 
 We will build upon what we have already done and launch a sustainable development movement for a better and greener future. This will strengthen ongoing efforts to implement our commitments under the United Nation’s 2030 Development Agenda. This ten-year plan is called the Singapore Green Plan 2030, or the Green Plan. 
 
-The Green Plan
+**The Green Plan**
 
 The Green Plan is a whole-of-nation sustainable development agenda, with firm action plans, touching on almost every dimension of our lives. 
 
@@ -74,7 +73,7 @@ That way, we can punch above our weight, and have an environmental impact way be
 
 In this video, we present to you the key programmes of the Green Plan.  Some of the initiatives will be familiar to you; others will be new.  
 
-First, City in Nature 
+**First, City in Nature** 
 
 By 2030, Singapore will be a green and beautiful City in Nature. We will set aside 50% more land – around 200 hectares – for nature parks. Every household will live within a 10-minute walk of a park.  
 
@@ -84,7 +83,7 @@ The BBC documentary ‘Wild City’ showcased our biodiversity. Indeed, with mor
 
 But some animals like wild boar and monkeys may get into conflict with people too. We will work with communities and NGOs to develop programmes to allow humans and wildlife to live in harmony. 
 
-Second, Energy Reset 
+**Second, Energy Reset**
 
 Cleaner and better use of energy is core to any plan to tackle climate change. 
 
@@ -116,7 +115,7 @@ To support the growth of EVs, we will more than double our EV charging point tar
 
 All these efforts, in industries, residential estates, commercial buildings and private transport, will reduce our energy consumption by more than 8 million megawatt hours per year. This amount of energy is sufficient to power almost all our households’ annual energy use in 2030.  This will in turn reduce domestic greenhouse gas emissions by at least 3 million tonnes per year by 2030. 
 
-Third, Sustainable Living
+**Third, Sustainable Living**
 
  Sustainability is also about you and me, and the way we live. We aim to be a circular economy, with a high rate of recycling so that our precious resources can be used many times over. . 
 
@@ -156,7 +155,7 @@ All these will expand the scope of our Values-In-Action education with sustainab
 
 We want every student to understand sustainability and climate change, and feel empowered to take individual actions that will make a difference. 
 
-Fourth, Green Economy 
+**Fourth, Green Economy** 
 
 Tackling climate change cannot be at the expense of livelihoods and jobs.  On the contrary, as sustainability becomes a global issue of concern, and consumers pivot towards greener and more sustainable products and services, it can become a key competitive advantage, and present new opportunities for growth and job creation. 
 
@@ -180,7 +179,7 @@ These include decarbonisation technologies such as carbon capture, utilisation a
 
 Jurong Island will be a model for the adoption of such solutions as it transforms into a sustainable energy and chemicals park that improves efficiency, uses carbon capture technologies and reduces sulphur dioxide emissions.
 
-Finally, Resilient Future
+**Finally, Resilient Future**
 
 Our campaign to deal with climate change will last into the next century, and we are starting our preparations now.
 
@@ -195,7 +194,7 @@ Urban heat is all around us, for example, the kind that you feel while standing 
 We are increasing local food production, to make our food supply more resilient. We have announced our 30-by-30 target – to produce 30% of our nutritional needs by 2030 locally. We will do this in partnership with a vibrant agri-food industry and our communities.
   
 
-Pledge to Our Next Generation
+**Pledge to Our Next Generation**
 
 The Green Plan is a living plan, which will evolve as we engage Singaporeans through Singapore Together to harness more ideas and put them into action. Every one of us can play a part, and help seize the moment to transform our nation. 
 
