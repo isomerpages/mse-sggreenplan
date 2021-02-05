@@ -480,6 +480,11 @@ input:checked + label + .accordion-content {
   display: block;
 }
 
+input:checked + label {
+  background: #00725c;
+  color: #FFF;
+}
+
 // Remove PDF icon before links
 a[href$=".pdf"]:before {
   content: none;

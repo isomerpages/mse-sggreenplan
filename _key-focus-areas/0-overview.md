@@ -55,6 +55,8 @@ We will build upon what we have already done and launch a sustainable developmen
 
 **The Green Plan**
 
+![The Green Plan](/images/framework/overview_00.jpg)
+
 The Green Plan is a whole-of-nation sustainable development agenda, with firm action plans, touching on almost every dimension of our lives. 
 
 But we recognise our limitations and challenges. 
@@ -73,128 +75,95 @@ That way, we can punch above our weight, and have an environmental impact way be
 
 In this video, we present to you the key programmes of the Green Plan.  Some of the initiatives will be familiar to you; others will be new.  
 
-**First, City in Nature** 
-
-By 2030, Singapore will be a green and beautiful City in Nature. We will set aside 50% more land – around 200 hectares – for nature parks. Every household will live within a 10-minute walk of a park.  
-
-We will plant one million more trees across our island, which will sequester another 78,000 tonnes of CO2. Singaporeans will enjoy cleaner air, and cooler shade. 
-
-The BBC documentary ‘Wild City’ showcased our biodiversity. Indeed, with more green spaces, there will be more wildlife amongst us – from migratory birds and hornbills, to otters and mousedeer.  
-
-But some animals like wild boar and monkeys may get into conflict with people too. We will work with communities and NGOs to develop programmes to allow humans and wildlife to live in harmony. 
-
-**Second, Energy Reset**
-
-Cleaner and better use of energy is core to any plan to tackle climate change. 
-
-Geographical constraints limit our options for renewable energy. We do not have great rivers for hydro power. We have neither land nor sea space for large solar or wind farms. Despite these challenges, we will strive to use cleaner energy, and become more energy efficient. 
-
-We have shifted to using natural gas, which is the cleanest fossil fuel. We will quadruple our solar energy deployment by 2025, including covering the roof tops of HDB blocks with solar panels. By 2030, solar energy deployed will be five times that of today. With at least 2 gigawatt-peak, it can power more than 350,000 households a year. 
-
-We are also looking to tap green energy sources from the ASEAN region and beyond, through electricity imports and hydrogen. 
-
-We will invest in water research and development, to halve the energy required to produce desalinated water.  By this year, with floating solar panels on reservoirs, all our local waterworks will be powered by solar energy.  Our waste treatment facilities, such as Tuas Nexus, will be energy-positive.
-
-We already host the largest bio-diesel plant in the world, which is being expanded. As an aviation and maritime hub, Singapore will play active and important roles in fulfilling two international aspirational goals:  
-
-In aviation – 2% fuel efficiency improvement every year, from now to 2050, and carbon neutral growth from 2020.  
-
-In maritime – to reduce greenhouse gas emissions from international shipping by at least 50% by 2050 compared to 2008 levels.
-
-In HDB towns, through measures like the widespread use of smart LED lights and solar energy, we can use 15% less energy by 2030. 
-
-Beyond HDB towns, we will green 80% of all buildings over the next decade. 
-
-We will develop eco-friendly districts as demonstration projects that we can scale up. Jurong Lake District will be a model sustainable mixed-use district, with district cooling, solar power deployment and super low-energy buildings.  
-
-We can make vehicles cleaner. All new public buses are already hybrid or electric. We can do the same for private cars. 
-
-Singapore’s urban environment makes us an ideal city for adopting electric vehicles or EVs. We have declared our 2040 vision: to phase out internal combustion engine vehicles, and have all vehicles run on cleaner energy. To get there, we will require all newly-registered cars to be cleaner- energy models by 2030. 
-
-To support the growth of EVs, we will more than double our EV charging point targets – from 28,000 to 60,000 by 2030. We will tap the capabilities of the private sector to build up this infrastructure. We will also revise the vehicle tax structure to make it easier to buy and own EVs.
-
-All these efforts, in industries, residential estates, commercial buildings and private transport, will reduce our energy consumption by more than 8 million megawatt hours per year. This amount of energy is sufficient to power almost all our households’ annual energy use in 2030.  This will in turn reduce domestic greenhouse gas emissions by at least 3 million tonnes per year by 2030. 
-
-**Third, Sustainable Living**
-
- Sustainability is also about you and me, and the way we live. We aim to be a circular economy, with a high rate of recycling so that our precious resources can be used many times over. . 
-
-We have already achieved that for water use, by recycling our used water to make NEWater. We will further reduce water consumption per household by 10% to 130 litres per capita per day, by 2030, by inculcating good usage habits, using smart meters and efficient fittings. 
-
-We will make a similar strong push towards circularity in waste materials to transform trash to treasure. We will turn incinerated waste into NEWSand, and use this for construction. 
-
-We will build up Singapore’s recycling capabilities, by sorting better and reducing contamination. We will also put in place regulations to promote redistribution of food that is still safe to eat.
-
-By 2030, we aim to reduce the waste sent to our landfill by 30%. We will front-load our efforts over the next 5 years to achieve a 20% reduction by 2026.
-
-Another important sustainability habit is to use public transport as much as possible.  
-
-We are investing heavily in public transport. By 2030, our MRT network will be comparable in coverage to major cities like London and New York City. 
-
-In addition, we will develop new town concepts, such as Tengah, which will have the first car-free HDB town centre, with roads constructed underground, freeing up surface spaces for public transport, activities, and green spaces. 
-
-At the same time, we will encourage walking, cycling and active mobility, to complete the first and last mile of journeys on public transport. 
-
-We have announced plans to expand the cycling network from 460 km today to around 1,300 km by 2030. We will actively do more to repurpose roads, and implement pedestrianisation where possible.  
-
-Today, of all trips taken, 64% are on mass public transport, i.e. bus and MRT. All these efforts will raise this modal share to 75% by 2030.
-
-These environmentally friendly habits will take time to take root in our society. We must inculcate them early in our young through education.
-
-We will start an Eco Stewardship Programme, involving all schools, from Primary to Pre-U.  As part of the Programme, we aim to reduce carbon emissions from the schools sector significantly.  
-
-We will get some of our schools to be carbon neutral by 2030, with the rest to follow thereafter. 
-
-We are achieving this not just through green power or buildings, but more fundamentally by instilling lifestyle changes and values. 
-
-We will help our students learn how to reduce their carbon footprint, make responsible decisions, and create a ripple effect on their families and friends. 
-
-We will also use the new Science Centre at Jurong Lake District to bring lessons on sustainability to life. 
-
-All these will expand the scope of our Values-In-Action education with sustainability as a key part of the curriculum.  
-
-We want every student to understand sustainability and climate change, and feel empowered to take individual actions that will make a difference. 
-
-**Fourth, Green Economy** 
-
-Tackling climate change cannot be at the expense of livelihoods and jobs.  On the contrary, as sustainability becomes a global issue of concern, and consumers pivot towards greener and more sustainable products and services, it can become a key competitive advantage, and present new opportunities for growth and job creation. 
-
-We are therefore seeking new investments that are among the best-in-class in terms of carbon or energy efficiency.
-
-We have introduced a broad-based carbon tax in 2019. Whatever we collect will be invested and used to support worthwhile projects to help enterprises reduce their greenhouse gas emissions. 
-
-To continue to grow our economy, we will anchor new investments and grow local businesses to ride the green wave. 
-
-The Government will introduce a new Enterprise Sustainability Programme, to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area. 
-
-We can be a leading carbon trading and services hub, which is projected to be a multi-billion-dollar industry. This includes green finance, sustainability consultancy, verification, credits trading and risk management. 
-
-We are making good progress in green finance. It enables us to drive climate action by mobilising global capital and channelling it to areas such as renewable energy, battery technology, smart grids and other green businesses. 
-
-Our vision is to be a leading centre for Green Finance in Asia and globally, by building up the financial sector’s resilience to environmental risks, developing green finance solutions and markets, building knowledge and capabilities, and leveraging innovation and technology.  
-
-We will also promote home-grown innovation under the Research, Innovation & Enterprise Plan 2025, and attract companies to anchor their R&D activities in Singapore to develop new sustainability solutions for Asia and the world. 
-
-These include decarbonisation technologies such as carbon capture, utilisation and storage, low-carbon hydrogen, and solutions to enhance energy efficiency and enable a circular economy, amongst others. 
-
-Jurong Island will be a model for the adoption of such solutions as it transforms into a sustainable energy and chemicals park that improves efficiency, uses carbon capture technologies and reduces sulphur dioxide emissions.
-
-**Finally, Resilient Future**
-
-Our campaign to deal with climate change will last into the next century, and we are starting our preparations now.
-
-Against sea level rise, we are developing new solutions and better understanding of our coastlines. We will put in place the physical defences to protect our coastlines along City-East Coast, around Lim Chu Kang, Sungei Kadut, and Jurong Island. 
-
-We are building up our national resilience for the future. 
-
-Lying one degree north of the Equator, Singapore will always be hot and humid, but we don’t want temperatures to be unbearably high.  
-
-Urban heat is all around us, for example, the kind that you feel while standing behind an air-conditioner. We will moderate the rise in urban heat by increasing greenery and piloting the use of cool paint on building facades.
-
-We are increasing local food production, to make our food supply more resilient. We have announced our 30-by-30 target – to produce 30% of our nutritional needs by 2030 locally. We will do this in partnership with a vibrant agri-food industry and our communities.
-  
+<div>
+	<input type="checkbox" id="title1"/><label for="title1">First, City in Nature</label>
+	<div class="accordion-content">
+		<p><img src="/images/framework/overview_01.jpg"/><br/>
+		By 2030, Singapore will be a green and beautiful City in Nature. We will set aside 50% more land – around 200 hectares – for nature parks. Every household will live within a 10-minute walk of a park.<br/><br/>
+		We will plant one million more trees across our island, which will sequester another 78,000 tonnes of CO2. Singaporeans will enjoy cleaner air, and cooler shade.<br/><br/>
+		The BBC documentary ‘Wild City’ showcased our biodiversity. Indeed, with more green spaces, there will be more wildlife amongst us – from migratory birds and hornbills, to otters and mousedeer.<br/><br/>
+		But some animals like wild boar and monkeys may get into conflict with people too. We will work with communities and NGOs to develop programmes to allow humans and wildlife to live in harmony.</p>
+	</div>
+</div>
+<div>
+	<input type="checkbox" id="title2"/><label for="title2">Second, Energy Reset</label>
+	<div class="accordion-content">
+		<p><img src="/images/framework/overview_02.jpg"/><br/>
+		Cleaner and better use of energy is core to any plan to tackle climate change.<br/><br/>
+		Geographical constraints limit our options for renewable energy. We do not have great rivers for hydro power. We have neither land nor sea space for large solar or wind farms. Despite these challenges, we will strive to use cleaner energy, and become more energy efficient.<br/><br/>
+		We have shifted to using natural gas, which is the cleanest fossil fuel. We will quadruple our solar energy deployment by 2025, including covering the roof tops of HDB blocks with solar panels. By 2030, solar energy deployed will be five times that of today. With at least 2 gigawatt-peak, it can power more than 350,000 households a year.<br/><br/>
+		We are also looking to tap green energy sources from the ASEAN region and beyond, through electricity imports and hydrogen.<br/><br/>
+		We will invest in water research and development, to halve the energy required to produce desalinated water.  By this year, with floating solar panels on reservoirs, all our local waterworks will be powered by solar energy.  Our waste treatment facilities, such as Tuas Nexus, will be energy-positive.<br/><br/>
+		We already host the largest bio-diesel plant in the world, which is being expanded. As an aviation and maritime hub, Singapore will play active and important roles in fulfilling two international aspirational goals:<br/><br/>
+		In aviation – 2% fuel efficiency improvement every year, from now to 2050, and carbon neutral growth from 2020.<br/><br/>
+		In maritime – to reduce greenhouse gas emissions from international shipping by at least 50% by 2050 compared to 2008 levels.<br/><br/>
+		In HDB towns, through measures like the widespread use of smart LED lights and solar energy, we can use 15% less energy by 2030.<br/><br/>
+		Beyond HDB towns, we will green 80% of all buildings over the next decade.<br/><br/>
+		We will develop eco-friendly districts as demonstration projects that we can scale up. Jurong Lake District will be a model sustainable mixed-use district, with district cooling, solar power deployment and super low-energy buildings.<br/><br/>
+		We can make vehicles cleaner. All new public buses are already hybrid or electric. We can do the same for private cars.<br/><br/>
+		Singapore’s urban environment makes us an ideal city for adopting electric vehicles or EVs. We have declared our 2040 vision: to phase out internal combustion engine vehicles, and have all vehicles run on cleaner energy. To get there, we will require all newly-registered cars to be cleaner- energy models by 2030.<br/><br/>
+		To support the growth of EVs, we will more than double our EV charging point targets – from 28,000 to 60,000 by 2030. We will tap the capabilities of the private sector to build up this infrastructure. We will also revise the vehicle tax structure to make it easier to buy and own EVs.<br/><br/>
+		All these efforts, in industries, residential estates, commercial buildings and private transport, will reduce our energy consumption by more than 8 million megawatt hours per year. This amount of energy is sufficient to power almost all our households’ annual energy use in 2030.  This will in turn reduce domestic greenhouse gas emissions by at least 3 million tonnes per year by 2030.</p>
+	</div>
+</div>
+<div>
+	<input type="checkbox" id="title3"/><label for="title3">Third, Sustainable Living</label>
+	<div class="accordion-content">
+		<p><img src="/images/framework/overview_03.jpg"/><br/>
+		Sustainability is also about you and me, and the way we live. We aim to be a circular economy, with a high rate of recycling so that our precious resources can be used many times over.<br/><br/>
+		We have already achieved that for water use, by recycling our used water to make NEWater. We will further reduce water consumption per household by 10% to 130 litres per capita per day, by 2030, by inculcating good usage habits, using smart meters and efficient fittings.<br/><br/>
+		We will make a similar strong push towards circularity in waste materials to transform trash to treasure. We will turn incinerated waste into NEWSand, and use this for construction.<br/><br/>
+		We will build up Singapore’s recycling capabilities, by sorting better and reducing contamination. We will also put in place regulations to promote redistribution of food that is still safe to eat.<br/><br/>
+		By 2030, we aim to reduce the waste sent to our landfill by 30%. We will front-load our efforts over the next 5 years to achieve a 20% reduction by 2026.<br/><br/>
+		Another important sustainability habit is to use public transport as much as possible.<br/><br/>
+		We are investing heavily in public transport. By 2030, our MRT network will be comparable in coverage to major cities like London and New York City.<br/><br/>
+		In addition, we will develop new town concepts, such as Tengah, which will have the first car-free HDB town centre, with roads constructed underground, freeing up surface spaces for public transport, activities, and green spaces.<br/><br/>
+		At the same time, we will encourage walking, cycling and active mobility, to complete the first and last mile of journeys on public transport.<br/><br/>
+		We have announced plans to expand the cycling network from 460 km today to around 1,300 km by 2030. We will actively do more to repurpose roads, and implement pedestrianisation where possible.<br/><br/>
+		Today, of all trips taken, 64% are on mass public transport, i.e. bus and MRT. All these efforts will raise this modal share to 75% by 2030.<br/><br/>
+		These environmentally friendly habits will take time to take root in our society. We must inculcate them early in our young through education.<br/><br/>
+		We will start an Eco Stewardship Programme, involving all schools, from Primary to Pre-U.  As part of the Programme, we aim to reduce carbon emissions from the schools sector significantly.<br/><br/>
+		We will get some of our schools to be carbon neutral by 2030, with the rest to follow thereafter.<br/><br/>
+		We are achieving this not just through green power or buildings, but more fundamentally by instilling lifestyle changes and values.<br/><br/>
+		We will help our students learn how to reduce their carbon footprint, make responsible decisions, and create a ripple effect on their families and friends.<br/><br/>
+		We will also use the new Science Centre at Jurong Lake District to bring lessons on sustainability to life.<br/><br/>
+		All these will expand the scope of our Values-In-Action education with sustainability as a key part of the curriculum.<br/><br/>
+		We want every student to understand sustainability and climate change, and feel empowered to take individual actions that will make a difference. </p>
+	</div>
+</div>
+<div>
+	<input type="checkbox" id="title4"/><label for="title4">Fourth, Green Economy</label>
+	<div class="accordion-content">
+		<p><img src="/images/framework/overview_04.jpg"/><br/>
+		Tackling climate change cannot be at the expense of livelihoods and jobs.  On the contrary, as sustainability becomes a global issue of concern, and consumers pivot towards greener and more sustainable products and services, it can become a key competitive advantage, and present new opportunities for growth and job creation.<br/><br/>
+		We are therefore seeking new investments that are among the best-in-class in terms of carbon or energy efficiency.<br/><br/>
+		We have introduced a broad-based carbon tax in 2019. Whatever we collect will be invested and used to support worthwhile projects to help enterprises reduce their greenhouse gas emissions.<br/><br/>
+		To continue to grow our economy, we will anchor new investments and grow local businesses to ride the green wave.<br/><br/>
+		The Government will introduce a new Enterprise Sustainability Programme, to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area.<br/><br/>
+		We can be a leading carbon trading and services hub, which is projected to be a multi-billion-dollar industry. This includes green finance, sustainability consultancy, verification, credits trading and risk management.<br/><br/>
+		We are making good progress in green finance. It enables us to drive climate action by mobilising global capital and channelling it to areas such as renewable energy, battery technology, smart grids and other green businesses.<br/><br/>
+		Our vision is to be a leading centre for Green Finance in Asia and globally, by building up the financial sector’s resilience to environmental risks, developing green finance solutions and markets, building knowledge and capabilities, and leveraging innovation and technology.<br/><br/>
+		We will also promote home-grown innovation under the Research, Innovation & Enterprise Plan 2025, and attract companies to anchor their R&D activities in Singapore to develop new sustainability solutions for Asia and the world.<br/><br/>
+		These include decarbonisation technologies such as carbon capture, utilisation and storage, low-carbon hydrogen, and solutions to enhance energy efficiency and enable a circular economy, amongst others.<br/><br/>
+		Jurong Island will be a model for the adoption of such solutions as it transforms into a sustainable energy and chemicals park that improves efficiency, uses carbon capture technologies and reduces sulphur dioxide emissions.</p>
+	</div>
+</div>
+<div>
+	<input type="checkbox" id="title5"/><label for="title5">Finally, Resilient Future</label>
+	<div class="accordion-content">
+		<p><img src="/images/framework/overview_05.jpg"/><br/>
+		Our campaign to deal with climate change will last into the next century, and we are starting our preparations now.<br/><br/>
+		Against sea level rise, we are developing new solutions and better understanding of our coastlines. We will put in place the physical defences to protect our coastlines along City-East Coast, around Lim Chu Kang, Sungei Kadut, and Jurong Island.<br/><br/>
+		We are building up our national resilience for the future.<br/><br/>
+		Lying one degree north of the Equator, Singapore will always be hot and humid, but we don’t want temperatures to be unbearably high.<br/><br/>
+		Urban heat is all around us, for example, the kind that you feel while standing behind an air-conditioner. We will moderate the rise in urban heat by increasing greenery and piloting the use of cool paint on building facades.<br/><br/>
+		We are increasing local food production, to make our food supply more resilient. We have announced our 30-by-30 target – to produce 30% of our nutritional needs by 2030 locally. We will do this in partnership with a vibrant agri-food industry and our communities.</p>
+	</div>
+</div>
 
 **Pledge to Our Next Generation**
+
+![Pledge to Our Next Generation](/images/framework/overview_06.jpg)
 
 The Green Plan is a living plan, which will evolve as we engage Singaporeans through Singapore Together to harness more ideas and put them into action. Every one of us can play a part, and help seize the moment to transform our nation. 
 
