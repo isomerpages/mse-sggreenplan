@@ -480,6 +480,15 @@ input:checked + label + .accordion-content {
   display: block;
 }
 
+// Remove PDF icon before links
+a[href$=".pdf"]:before {
+  content: none;
+}
+
+a[href$=".pdf"]{
+  margin-left: 0;
+}
+
 //custom blockquote styling
 
 blockquote {
@@ -499,7 +508,7 @@ blockquote:before {
   margin-right: 0.25em;
   vertical-align: -0.4em;
 }
-blockquote:after {
+blockquote > p:after {
   color: #335C54;
   content: close-quote;
   font-size: 4em;
@@ -510,4 +519,8 @@ blockquote:after {
 blockquote p {
   display: inline;
   font-size: 22px !important;
+}
+.author {
+  display: block;
+  text-align: right;
 }

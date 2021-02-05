@@ -6,9 +6,10 @@ permalink: /key-focus-areas/sustainable-living/
 
 ### Sustainable Living
 
-> We are the only country in the world to freeze the growth of our vehicle population. We are one of a few countries to have closed its water loop and to reuse every last drop of water. 
-
-**Ong Ye Kung, Minister for Transport**
+<blockquote>
+  <p>We are the only country in the world to freeze the growth of our vehicle population. We are one of a few countries to have closed its water loop and to reuse every last drop of water.</p>
+  <span class="author">Ong Ye Kung, Minister for Transport</span>
+</blockquote>
 
 #### We will reduce carbon emissions, keep our environment clean, and make saving resources and energy a way of life in Singapore. 
 

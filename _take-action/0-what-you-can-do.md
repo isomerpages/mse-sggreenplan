@@ -4,7 +4,10 @@ description: You can play a part to fight climate change by adopting a sustainab
 permalink: /take-action/what-you-can-do/
 ---
 
-### Be a Part of the Green Plan as an Individual
+### Over the years, Singapore has spared no effort in our mission for sustainable development.  
+From designating 2018 as the [Year of Climate Action](https://www.mse.gov.sg/resource-room/category/2018-12-14-newsletter-year-of-climate-action-key-initiatives/){:class="external-link" target="_blank"} to our annual [Climate Action Week](mse.gov.sg/resource-room/category/2020-08-14-press-release-on-singapore-climate-action-week/){:class="external-link" target="_blank"}, we have made significant progress in sustaining our home for [future generations](https://www.singaporebudget.gov.sg/budget_2020/budget-speech/d-sustaining-singapores-success-for-our-future-generations){:class="external-link" target="_blank"}. In 2020, we started various initiatives, from the [Alliances for Action](https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/11/EST-Press-Release---19-Nov-2020.pdf){:class="external-link" target="_blank"}, to [Citizen Workgroups](https://www.mse.gov.sg/resource-room/category/2020-09-26-speech-on-reducing-excessive-consumption-of-disposables/){:class="external-link" target="_blank"}, as well as conversations and networks to [emerge stronger](https://emergingstronger.sg/){:class="external-link" target="_blank"} together with citizens, businesses, and [NGOs](https://www.towardszerowaste.gov.sg/green-groups-in-singapore/){:class="external-link" target="_blank"}. 
+
+### Here is **what you can do** to be a Part of the Green Plan:
 
 ![What You Can Do](/images/greenplan/gp_individual.jpg)
 

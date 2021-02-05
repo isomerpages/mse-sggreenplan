@@ -1,8 +1,11 @@
 contact_us: /contact-us/
-show_reach: true
+show_reach: false
 feedback: 
 social_media:
     facebook: https://www.facebook.com/MSEsingapore/
     twitter: https://twitter.com/MSEsingapore/
     youtube: https://www.youtube.com/channel/UCAY0e59sglqfb8AWKYe7UPw/
     instagram: https://www.instagram.com/msesingapore/
+links:
+  - title: About our Logo
+    url: /logo
