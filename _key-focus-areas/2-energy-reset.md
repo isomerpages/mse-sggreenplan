@@ -6,6 +6,10 @@ permalink: /key-focus-areas/energy-reset/
 
 ### Energy Reset
 
+> Depending on the results of our collective actions, and that of the international community, we will review our current carbon emission commitments, and seek to achieve net zero emissions as soon as we can. That way, we can punch above our weight, and have a positive environmental impact well beyond our shores.
+
+**Lawrence Wong, Minister for Education**
+
 #### We will use cleaner energy and increase our energy efficiency to lower our carbon footprint. 
 
 ![Energy Reset](/images/framework/framework_energyreset.jpg)

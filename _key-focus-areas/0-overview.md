@@ -26,3 +26,9 @@ The Green Plan will cover the following:
 - [Green 80% of all buildings](../energy-reset/#:~:text=Housing){:class="external-link"} over the next decade.
 - [Reduce domestic greenhouse emissions](../sustainable-living/#:~:text=reduce%caron%20emissions){:class="external-link"} by at least 3 million tonnes per year by 2030.
 - Produce [30%](../resilient-future/#:~:text=30-by-30 target){:class="external-link"} of our nutritional needs by 2030 locally (30-by-30 target).
+
+[![City in Nature](/images/framework/tile_cityinnature.png)](/key-focus-areas/city-in-nature)
+[![Energy Reset](/images/framework/tile_energyreset.png)](/key-focus-areas/energy-reset)
+[![Sustainable Living](/images/framework/tile_sustainableliving.png)](/key-focus-areas/sustainable-living)
+[![Green Economy](/images/framework/tile_greeneconomy.png)](/key-focus-areas/green-economy)
+[![Resilient Future](/images/framework/tile_resilientfuture.png)](/key-focus-areas/resilient-future)

@@ -479,3 +479,35 @@ input:checked + label + .accordion-content {
 input:checked + label + .accordion-content {
   display: block;
 }
+
+//custom blockquote styling
+
+blockquote {
+  color: #335C54;
+  font-style: italic;
+  background-color: #f7f7f7 !important;
+  border-left: none !important;
+  margin: 1.5em 10px;
+  padding: 2em 1em !important;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #335C54;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote:after {
+  color: #335C54;
+  content: close-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+  font-size: 22px !important;
+}
