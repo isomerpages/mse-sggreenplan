@@ -204,6 +204,8 @@ In 1965, shortly after Singapore became an independent nation, Mr Lee Kuan Yew s
 
 Having come from mudflats, to metropolis, we will turn our metropolis into a global city of sustainability. This metropolis of ours, will be a bright green spark, inspiring the world and our future generations. Let’s work together for a brighter and greener future. 
 
+#### Explore the 5 pillars
+
 <div class="tile-container">
 	<a class="tile-item" href="/key-focus-areas/city-in-nature"><img src="/images/framework/tile_cityinnature.png" alt="City in Nature" /></a>
 	<a class="tile-item" href="/key-focus-areas/energy-reset"><img src="/images/framework/tile_energyreset.png" alt="Energy Reset" /></a>

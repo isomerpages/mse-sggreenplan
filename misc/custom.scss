@@ -493,8 +493,6 @@ a[href$=".pdf"]{
 
 blockquote {
   color: #335C54;
-  font-style: italic;
-  background-color: #f7f7f7 !important;
   border-left: none !important;
   margin: 1.5em 10px;
   padding: 2em 1em !important;
@@ -503,15 +501,7 @@ blockquote {
 blockquote:before {
   color: #335C54;
   content: open-quote;
-  font-size: 4em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
-}
-blockquote > p:after {
-  color: #335C54;
-  content: close-quote;
-  font-size: 4em;
+  font-size: 4rem;
   line-height: 0.1em;
   margin-right: 0.25em;
   vertical-align: -0.4em;
@@ -519,7 +509,17 @@ blockquote > p:after {
 blockquote p {
   display: inline;
   font-size: 22px !important;
+  font-style: italic;
 }
+blockquote > p:after {
+  color: #335C54;
+  content: close-quote;
+  font-size: 4rem;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
 .author {
   display: block;
   text-align: right;

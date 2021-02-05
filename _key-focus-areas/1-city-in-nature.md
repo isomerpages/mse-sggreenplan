@@ -6,11 +6,6 @@ permalink: /key-focus-areas/city-in-nature/
 
 ### City in Nature
 
-<blockquote>
-  <p>Today, Singapore is a City in a Garden, and is one of the greenest cities in the world. We set aside large nature reserves, with about a third of our island covered by trees.</p>
-  <span class="author">Desmond Lee, Minister for National Development</span>
-</blockquote>
-
 #### We will create a green, liveable and sustainable home for Singaporeans.
 
 ![City in Nature](/images/framework/framework_cityinnature.jpg)
@@ -18,6 +13,11 @@ permalink: /key-focus-areas/city-in-nature/
 - 50% more land—around 200 hectares—for **[nature parks](https://www.mnd.gov.sg/our-work/greening-our-home/greenery){:class="external-link" target="_blank"}**, meaning every household will live just a 10-minute walk from a park. 
 - One million more trees will be planted across our island, which will sequester another 78,000 tonnes of CO2, providing cleaner air and more shade.
 - Working with communities and NGOs to develop programmes to allow people and wildlife to live in harmony.
+
+<blockquote>
+  <p>Today, Singapore is a City in a Garden, and is one of the greenest cities in the world. We set aside large nature reserves, with about a third of our island covered by trees.</p>
+  <span class="author">Desmond Lee, Minister for National Development</span>
+</blockquote>
 
 [![Ideas](/images/framework/framework_ideas.jpg)](https://form.gov.sg/6013d365bedd790011bb9c86)
 

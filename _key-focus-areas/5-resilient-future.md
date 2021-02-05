@@ -19,4 +19,9 @@ permalink: /key-focus-areas/resilient-future/
 
 - The Green Plan is very much aligned with the SDGs and the 2030 Agenda for Sustainable Development (2030 Agenda) adopted by all countries at the United Nations in 2015. Our targets demonstrate Singapore's commitment to sutainable development, in sync with international efforts and the global agenda to build a more resilient future.
 
+<blockquote>
+  <p>After more than 50 years of nation-building, one imperative is growing in importance, and that is sustainable development.</p>
+  <span class="author">Grace Fu, Minister for Sustainability and the Environment</span>
+</blockquote>
+
 [![Ideas](/images/framework/framework_ideas.jpg)](https://form.gov.sg/6013d365bedd790011bb9c86)
