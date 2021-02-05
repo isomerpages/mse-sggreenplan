@@ -68,8 +68,4 @@ The BCA Green Mark Scheme is an initiative to create a more sustainable built en
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
 
-**Do you have ideas or suggestions on the Green Plan?**  
-<a href="https://form.gov.sg/6013d365bedd790011bb9c86" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
-	<span>Share them with us!</span>
-	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
-</a>
+[![Ideas](/images/framework/framework_ideas.jpg)](https://form.gov.sg/6013d365bedd790011bb9c86)

@@ -28,8 +28,4 @@ permalink: /take-action/what-you-can-do/
 - Organise or participate in [tree planting and habitat enhancement programmes](https://www.nparks.gov.sg/treessg/one-million-trees-movement){:class="external-link" target="_blank"}
 - Use [our resources](https://www.mse.gov.sg/resources/){:class="external-link" target="_blank"} to help you kickstart your own sustainability projects  
 
-**Do you have ideas or suggestions on the Green Plan?**
-<a href="https://form.gov.sg/6013d365bedd790011bb9c86" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
-	<span>Share them with us!</span>
-	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
-</a>
+[![Ideas](/images/framework/framework_ideas.jpg)](https://form.gov.sg/6013d365bedd790011bb9c86)
