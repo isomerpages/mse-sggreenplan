@@ -6,9 +6,9 @@ permalink: /key-focus-areas/overview/
 
 ### Our Key Targets
 
-![Overview](/images/framework/framework_overview.jpg)
-
 The Green Plan is a whole-of-nation sustainable development agenda, with firm action plans touching almost every dimension of our lives. This is an opportunity for us to be pioneers in technological and policy solutions for sustainable development. Singapore will be a living laboratory which other cities around the world can pick up ideas from.
+
+![Overview](/images/framework/framework_overview.jpg)
 
 The Green Plan will cover the following: 
 - Plant [1 million trees.](../city-in-nature/#:~:text=One%20million%20more%20trees%20will%20be%20planted%20across%20our%20island){:class="external-link"}
