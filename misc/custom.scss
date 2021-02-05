@@ -479,3 +479,12 @@ input:checked + label + .accordion-content {
 input:checked + label + .accordion-content {
   display: block;
 }
+
+// Remove PDF icon before links
+a[href$=".pdf"]:before {
+  content: none;
+}
+
+a[href$=".pdf"]{
+  margin-left: 0;
+}
