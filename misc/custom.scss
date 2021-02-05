@@ -524,3 +524,12 @@ blockquote p {
   display: block;
   text-align: right;
 }
+
+//flex tiles
+.tile-container{
+  display: flex;
+}
+
+.tile-item{
+  flex-basis: 33%;
+}

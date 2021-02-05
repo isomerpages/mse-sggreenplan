@@ -204,8 +204,12 @@ In 1965, shortly after Singapore became an independent nation, Mr Lee Kuan Yew s
 
 Having come from mudflats, to metropolis, we will turn our metropolis into a global city of sustainability. This metropolis of ours, will be a bright green spark, inspiring the world and our future generations. Let’s work together for a brighter and greener future. 
 
-[![City in Nature](/images/framework/tile_cityinnature.png)](/key-focus-areas/city-in-nature)
-[![Energy Reset](/images/framework/tile_energyreset.png)](/key-focus-areas/energy-reset)
-[![Sustainable Living](/images/framework/tile_sustainableliving.png)](/key-focus-areas/sustainable-living)
-[![Green Economy](/images/framework/tile_greeneconomy.png)](/key-focus-areas/green-economy)
-[![Resilient Future](/images/framework/tile_resilientfuture.png)](/key-focus-areas/resilient-future)
+<div class="tile-container">
+	<a class="tile-item" href="/key-focus-areas/city-in-nature"><img src="/images/framework/tile_cityinnature.png" alt="City in Nature" /></a>
+	<a class="tile-item" href="/key-focus-areas/energy-reset"><img src="/images/framework/tile_energyreset.png" alt="Energy Reset" /></a>
+	<a class="tile-item" href="/key-focus-areas/sustainable-living"><img src="/images/framework/tile_sustainableliving.png" alt="Sustainable Living" /></a>
+</div>
+<div class="tile-container">
+	<a class="tile-item" href="/key-focus-areas/green-economy"><img src="/images/framework/tile_greeneconomy.png" alt="Green Economy" /></a>
+	<a class="tile-item" href="/key-focus-areas/resilient-future"><img src="/images/framework/tile_resilientfuture.png" alt="Resilient Future" /></a>
+</div>
