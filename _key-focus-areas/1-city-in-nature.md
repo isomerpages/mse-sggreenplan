@@ -15,7 +15,7 @@ permalink: /key-focus-areas/city-in-nature/
 - Working with communities and NGOs to develop programmes to allow people and wildlife to live in harmony.
 
 <blockquote>
-  <p>Today, Singapore is a City in a Garden, and is one of the greenest cities in the world. We set aside large nature reserves, with about a third of our island covered by trees.</p>
+  <p>Today, Singapore is a City in a Garden, and is  one of the greenest cities in the world. We set aside large nature reserves, with about a third of our island covered by trees.</p>
   <span class="author">Desmond Lee, Minister for National Development</span>
 </blockquote>
 
