@@ -81,7 +81,7 @@ In this video, we present to you the key programmes of the Green Plan.  Some of 
 		<p><img src="/images/framework/overview_01.jpg"/><br/>
 		By 2030, Singapore will be a green and beautiful City in Nature. We will set aside 50% more land – around 200 hectares – for nature parks. Every household will live within a 10-minute walk of a park.<br/><br/>
 		We will plant one million more trees across our island, which will sequester another 78,000 tonnes of CO2. Singaporeans will enjoy cleaner air, and cooler shade.<br/><br/>
-		The BBC documentary ‘Wild City’ showcased our biodiversity. Indeed, with more green spaces, there will be more wildlife amongst us – from migratory birds and hornbills, to otters and mousedeer.<br/><br/>
+		With more green spaces, there will be more wildlife amongst us – from migratory birds and hornbills, to otters and mousedeer.<br/><br/>
 		But some animals like wild boar and monkeys may get into conflict with people too. We will work with communities and NGOs to develop programmes to allow humans and wildlife to live in harmony.</p>
 	</div>
 </div>
@@ -91,8 +91,8 @@ In this video, we present to you the key programmes of the Green Plan.  Some of 
 		<p><img src="/images/framework/overview_02.jpg"/><br/>
 		Cleaner and better use of energy is core to any plan to tackle climate change.<br/><br/>
 		Geographical constraints limit our options for renewable energy. We do not have great rivers for hydro power. We have neither land nor sea space for large solar or wind farms. Despite these challenges, we will strive to use cleaner energy, and become more energy efficient.<br/><br/>
-		We have shifted to using natural gas, which is the cleanest fossil fuel. We will quadruple our solar energy deployment by 2025, including covering the roof tops of HDB blocks with solar panels. By 2030, solar energy deployed will be five times that of today. With at least 2 gigawatt-peak, it can power more than 350,000 households a year.<br/><br/>
-		We are also looking to tap green energy sources from the ASEAN region and beyond, through electricity imports and hydrogen.<br/><br/>
+		We will quadruple our solar energy deployment by 2025, including covering the roof tops of HDB blocks with solar panels. By 2030, solar energy deployed will be five times that of today. With at least 2 gigawatt-peak, it can power more than 350,000 households a year.<br/><br/>
+		We are also looking to tap green energy sources from the ASEAN region and beyond, through electricity imports.<br/><br/>
 		We will invest in water research and development, to halve the energy required to produce desalinated water.  By this year, with floating solar panels on reservoirs, all our local waterworks will be powered by solar energy.  Our waste treatment facilities, such as Tuas Nexus, will be energy-positive.<br/><br/>
 		We already host the largest bio-diesel plant in the world, which is being expanded. As an aviation and maritime hub, Singapore will play active and important roles in fulfilling two international aspirational goals:<br/><br/>
 		In aviation – 2% fuel efficiency improvement every year, from now to 2050, and carbon neutral growth from 2020.<br/><br/>
@@ -101,7 +101,7 @@ In this video, we present to you the key programmes of the Green Plan.  Some of 
 		Beyond HDB towns, we will green 80% of all buildings over the next decade.<br/><br/>
 		We will develop eco-friendly districts as demonstration projects that we can scale up. Jurong Lake District will be a model sustainable mixed-use district, with district cooling, solar power deployment and super low-energy buildings.<br/><br/>
 		We can make vehicles cleaner. All new public buses are already hybrid or electric. We can do the same for private cars.<br/><br/>
-		Singapore’s urban environment makes us an ideal city for adopting electric vehicles or EVs. We have declared our 2040 vision: to phase out internal combustion engine vehicles, and have all vehicles run on cleaner energy. To get there, we will require all newly-registered cars to be cleaner- energy models by 2030.<br/><br/>
+		Singapore’s urban environment makes us an ideal city for adopting electric vehicles or EVs. We have declared our 2040 vision: to phase out internal combustion engine vehicles, and have all vehicles run on cleaner energy. To get there, we will require all newly-registered cars to be cleaner-energy models by 2030.<br/><br/>
 		To support the growth of EVs, we will more than double our EV charging point targets – from 28,000 to 60,000 by 2030. We will tap the capabilities of the private sector to build up this infrastructure. We will also revise the vehicle tax structure to make it easier to buy and own EVs.<br/><br/>
 		All these efforts, in industries, residential estates, commercial buildings and private transport, will reduce our energy consumption by more than 8 million megawatt hours per year. This amount of energy is sufficient to power almost all our households’ annual energy use in 2030.  This will in turn reduce domestic greenhouse gas emissions by at least 3 million tonnes per year by 2030.</p>
 	</div>
@@ -119,7 +119,7 @@ In this video, we present to you the key programmes of the Green Plan.  Some of 
 		We are investing heavily in public transport. By 2030, our MRT network will be comparable in coverage to major cities like London and New York City.<br/><br/>
 		In addition, we will develop new town concepts, such as Tengah, which will have the first car-free HDB town centre, with roads constructed underground, freeing up surface spaces for public transport, activities, and green spaces.<br/><br/>
 		At the same time, we will encourage walking, cycling and active mobility, to complete the first and last mile of journeys on public transport.<br/><br/>
-		We have announced plans to expand the cycling network from 460 km today to around 1,300 km by 2030. We will actively do more to repurpose roads, and implement pedestrianisation where possible.<br/><br/>
+		We have announced plans to expand the cycling network from 460 km today to around 1,320 km by 2030. We will actively do more to repurpose roads, and implement pedestrianisation where possible.<br/><br/>
 		Today, of all trips taken, 64% are on mass public transport, i.e. bus and MRT. All these efforts will raise this modal share to 75% by 2030.<br/><br/>
 		These environmentally friendly habits will take time to take root in our society. We must inculcate them early in our young through education.<br/><br/>
 		We will start an Eco Stewardship Programme, involving all schools, from Primary to Pre-U.  As part of the Programme, we aim to reduce carbon emissions from the schools sector significantly.<br/><br/>
@@ -135,7 +135,7 @@ In this video, we present to you the key programmes of the Green Plan.  Some of 
 	<input type="checkbox" id="title4"/><label for="title4">Fourth, Green Economy</label>
 	<div class="accordion-content">
 		<p><img src="/images/framework/overview_04.jpg"/><br/>
-		Tackling climate change cannot be at the expense of livelihoods and jobs.  On the contrary, as sustainability becomes a global issue of concern, and consumers pivot towards greener and more sustainable products and services, it can become a key competitive advantage, and present new opportunities for growth and job creation.<br/><br/>
+		As sustainability becomes a global issue of concern, and consumers pivot towards greener and more sustainable products and services, it can become a key competitive advantage, and present new opportunities for growth and job creation.<br/><br/>
 		We are therefore seeking new investments that are among the best-in-class in terms of carbon or energy efficiency.<br/><br/>
 		We have introduced a broad-based carbon tax in 2019. Whatever we collect will be invested and used to support worthwhile projects to help enterprises reduce their greenhouse gas emissions.<br/><br/>
 		To continue to grow our economy, we will anchor new investments and grow local businesses to ride the green wave.<br/><br/>
@@ -156,8 +156,9 @@ In this video, we present to you the key programmes of the Green Plan.  Some of 
 		Against sea level rise, we are developing new solutions and better understanding of our coastlines. We will put in place the physical defences to protect our coastlines along City-East Coast, around Lim Chu Kang, Sungei Kadut, and Jurong Island.<br/><br/>
 		We are building up our national resilience for the future.<br/><br/>
 		Lying one degree north of the Equator, Singapore will always be hot and humid, but we don’t want temperatures to be unbearably high.<br/><br/>
-		Urban heat is all around us, for example, the kind that you feel while standing behind an air-conditioner. We will moderate the rise in urban heat by increasing greenery and piloting the use of cool paint on building facades.<br/><br/>
-		We are increasing local food production, to make our food supply more resilient. We have announced our 30-by-30 target – to produce 30% of our nutritional needs by 2030 locally. We will do this in partnership with a vibrant agri-food industry and our communities.</p>
+		We will moderate temperature rise in Singapore through a science-based roadmap to mitigate the Urban Heat Island effect. We will work with researchers and industries. Besides increasing greenery, we will pilot the use of cool materials.<br/><br/>
+		We are increasing local food production, to make our food supply more resilient. We have announced our 30-by-30 target – to sustainably produce 30% of our nutritional needs by 2030 locally. We will do this in partnership with a vibrant agri-food industry and our communities.<br/><br/>
+		After COVID-19, Singaporeans have developed a strong interest to support local produce, and want to grow their own food in their homes and community farms.</p>
 	</div>
 </div>
 

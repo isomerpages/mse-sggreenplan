@@ -30,4 +30,9 @@ We are promoting homegrown innovation under RIE 2025, and attracting companies t
 **Enterprise Sustainability Programme**  
 This programme will help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area. We will build up the financial sector’s resilience to environmental risks, develop green finance solutions and markets, build knowledge and capabilities, and leverage innovation and technology.  
 
+<blockquote>
+  <p>As sustainability grows in importance, and consumers pivot towards greener and more sustainable products and services, it can become a key competitive advantage for us, and present new opportunities for growth and job creation.</p>
+  <span class="author">Chan Chun Sing, Minister for Trade and Industry</span>
+</blockquote>
+
 [![Ideas](/images/framework/framework_ideas.jpg)](https://form.gov.sg/6013d365bedd790011bb9c86)
