@@ -15,7 +15,7 @@ permalink: /key-focus-areas/overview/
 - Plant [1 million trees.](../city-in-nature/#:~:text=One%20million%20more%20trees%20will%20be%20planted%20across%20our%20island){:class="external-link"}
 - [Quadruple](../energy-reset/#:~:text=Our%20solar%20energy%20deployment%20will%20quadruple%20by%202025){:class="external-link"} solar energy deployment by 2025.
 - Become a [zero waste nation](../sustainable-living/#:~:text=zero%20waste%20nation){:class="external-link"}.
-- Expand [cycling](../sustainable-living/#:~:text=green%20commutes){:class="external-link"} tracks to 1,320 km.  
+- Expand [cycling](../sustainable-living/#:~:text=green%20commutes){:class="external-link"} tracks to 1,300 km.  
 - All [vehicles](../energy-reset/#:~:text=Transport){:class="external-link"} to run on cleaner energy by 2040.  
 - Be a leader of the [green economy](../green-economy/){:class="external-link"}.  
 - [Reduce the waste](../sustainable-living/#:~:text=Circular%20Economy){:class="external-link"} sent to our landfills by 30%. 
@@ -119,7 +119,7 @@ In this video, we present to you the key programmes of the Green Plan.  Some of 
 		We are investing heavily in public transport. By 2030, our MRT network will be comparable in coverage to major cities like London and New York City.<br/><br/>
 		In addition, we will develop new town concepts, such as Tengah, which will have the first car-free HDB town centre, with roads constructed underground, freeing up surface spaces for public transport, activities, and green spaces.<br/><br/>
 		At the same time, we will encourage walking, cycling and active mobility, to complete the first and last mile of journeys on public transport.<br/><br/>
-		We have announced plans to expand the cycling network from 460 km today to around 1,320 km by 2030. We will actively do more to repurpose roads, and implement pedestrianisation where possible.<br/><br/>
+		We have announced plans to expand the cycling network from 460 km today to around 1,300 km by 2030. We will actively do more to repurpose roads, and implement pedestrianisation where possible.<br/><br/>
 		Today, of all trips taken, 64% are on mass public transport, i.e. bus and MRT. All these efforts will raise this modal share to 75% by 2030.<br/><br/>
 		These environmentally friendly habits will take time to take root in our society. We must inculcate them early in our young through education.<br/><br/>
 		We will start an Eco Stewardship Programme, involving all schools, from Primary to Pre-U.  As part of the Programme, we aim to reduce carbon emissions from the schools sector significantly.<br/><br/>
