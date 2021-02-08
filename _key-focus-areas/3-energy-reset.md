@@ -19,7 +19,7 @@ permalink: /key-focus-areas/energy-reset/
 **[Transport](https://www.mot.gov.sg/news-centre/news/Detail/written-reply-by-minister-for-transport-ong-ye-kung-to-parliamentary-question-on-update-on-plan-to-provide-28-000-electric-vehicle-charging-points-by-2030/){:class="external-link" target="_blank"}**
 - Our 2040 vision is to phase out internal combustion engine vehicles, and have all vehicles run on cleaner energy.
 - All newly-registered cars to be cleaner-energy models by 2030.
-- To support the growth of electric vehicles (EV), we will more than double our EV charger targets—from 28,000 to 60,000 by 2030.
+- To support the growth of electric vehicles (EV), we will more than double our EV charging points target—from 28,000 to 60,000 by 2030.
 
 <blockquote>
   <p>Depending on the results of our collective actions, and that of the international community, we will review our current carbon emission commitments, and seek to achieve net zero emissions as soon as we can. That way, we can punch above our weight, and have a positive environmental impact well beyond our shores.</p>

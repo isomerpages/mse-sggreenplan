@@ -16,9 +16,9 @@ We knew public cleanliness and hygiene were important to prevent diseases in our
 
 We are the only country in the world to freeze the growth of the vehicle population. We are one of a few countries to have closed the water loop and to reuse every last drop of water repeatedly. We don&#39;t subsidise the use of fossil fuel, and we tax the emission of carbon.
 
-We will build upon what we have already done and launch a sustainable development movement for a better and greener future. This will strengthen ongoing efforts to implement our commitments under the United Nation&#39;s 2030 Development Agenda.
+We will build upon what we have already done and launch a sustainable development movement for a better and greener future. This will strengthen ongoing efforts to implement our commitments under the [United Nation&#39;s 2030 Development Agenda](https://www.un.org/sustainabledevelopment/development-agenda/).
 
-We have put together a ten-year plan called the Singapore Green Plan 2030. The Green Plan is a whole-of-nation sustainable development agenda, with firm action plans, touching on almost every dimension of our lives.
+We have put together a ten-year plan called the **Singapore Green Plan 2030**. The Green Plan is a whole-of-nation sustainable development agenda, with firm action plans, touching on almost every dimension of our lives.
 
 **Achieving net zero emissions as soon as we can**
 
@@ -35,9 +35,8 @@ Depending on the results of our collective actions, as well as future developmen
 	<input type="checkbox" id="title1"/><label for="title1">Pillar 1: City in Nature</label>
 	<div class="accordion-content">
 		By 2030, Singapore will be a green and beautiful City in Nature. We will set aside <b>50% more land – around 200 hectares – for nature parks. Every household will live within a 10-minute walk of a park.</b><br><br>
-		We will plant <b>one million more trees across our island, which will sequester another 78,000 tonnes of CO2</b>. Singaporeans will enjoy cleaner air, and cooler shade.<br><br>
-		The documentary &#39;Wild City&#39; showcased our biodiversity. Indeed, with more green spaces, there will be more wildlife amongst us – from migratory birds and hornbills, to otters and mousedeer.<br><br>
-		But some animals like wild boar and monkeys may get into conflict with people too. We will work with communities and non-governmental organisations (NGOs) to develop programmes to allow humans and wildlife to live in harmony.<br><br>
+		We will plant one million more trees across our island, which will sequester another 78,000 tonnes of CO2. Singaporeans will enjoy cleaner air, and cooler shade.<br><br>
+		With more green spaces, there will be more wildlife amongst us – from migratory birds and hornbills, to otters and mousedeer. But some animals like wild boar and monkeys may get into conflict with people too. We will work with communities and non-governmental organisations (NGOs) to develop programmes to allow humans and wildlife to live in harmony.<br><br>
 	</div>
 </div>
 
@@ -55,8 +54,9 @@ Depending on the results of our collective actions, as well as future developmen
 		To support the growth of EVs, we will <b>more than double our EV charging point targets</b> – from 28,000 to 60,000 by 2030. We will tap the capabilities of the private sector to build up this infrastructure. We will also revise the vehicle tax structure to <b>make it easier to buy and own EVs</b>.<br><br>
 		All these efforts, in industries, residential estates, commercial buildings and private transport, will reduce our energy consumption by more than 8 million megawatt hours per year. This amount of energy is sufficient to power almost all our households&#39; annual energy use in 2030. This will in turn <b>reduce domestic greenhouse gas emissions by at least 3 million tonnes per year by 2030</b>.<br><br>
 		As a responsible global citizen, Singapore will play our part as part of a larger international solution. We already host the largest bio-diesel plant in the world, which is being expanded. As an aviation and maritime hub, Singapore will play active and important roles in fulfilling two international aspirational goals:<br><br>
-		- In aviation – 2% fuel efficiency improvement every year, from now to 2050, and carbon neutral growth from 2020;<br><br>
-		- In maritime – to reduce greenhouse gas emissions from international shipping by at least 50% by 2050 compared to 2008 levels.<br><br>
+		In Aviation: 3% improvement in fuel efficiency every year from now to 2050.<br><br>
+		In Maritime: reduce greenhouse gas emissions from international shipping by at least 50% by 2050, compared to 2008 levels.<br><br>
+		These are international goals - singapore alone - with our green plan - cannot achieve these aviation and maritime goals.<br>
 	</div>
 </div>
 
