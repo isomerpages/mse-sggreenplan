@@ -18,8 +18,8 @@ This will involve all MOE schools from Primary to Pre-University. MOE will stren
 
 **Green Commutes**  
 We are making good progress towards achieving our goal of bringing 8 out of 10 households to being within a 10-minute walk of a train station by the 2030s. In the coming years, new stations and lines will be opened almost every year. The rail network will grow from around 230 km today to 360 km by the early 2030s.
-<!-- 
-#### Initiatives For Schools And Students
+
+<!-- #### Initiatives For Schools And Students
 
 **[The Environment Fund for Schools](https://www.cgs.gov.sg/docs/default-source/Resources/efs-web-page-contenta34c09d515f061ce946dff0000c37214.pdf){:class="external-link" target="_blank"} (EFS)**  
 The EFS encourages MOE schools to champion environmental ownership and a pro-environment mind-set amongst students and the community by leading and organising environmental initiatives. 
