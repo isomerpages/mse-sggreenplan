@@ -23,24 +23,24 @@ agency_name: us for general enquiries and feedback
 contacts:
   - title: Ministry of National Development
     content:
-    - other: For our city in nature; creating a liveable and sustainable home; parks
+    - other: For feedback about parks, tree, natures, biodiversity
     # - phone: +65 6123 4567
     - email: mnd_hq@mnd.gov.sg
   - title: Ministry of Education
     content:
-    - other: For making sustainable living a way of life for everyone; school programmes
+    - other: For feedback about greener education in schools
     - email: https://www.moe.gov.sg/feedback
   - title: Ministry of Transport
     content:
-    - other: For using cleaner energy in our transport; electric vehicles
+    - other: For feedback about public transport, sustainable transport, clean vehicles, electric vehicles
     - email: mot@mot.gov.sg
   - title: Ministry of Sustainability and the Environment
     content:
-    - other: For a more resilient future to mitigate and adapt to climate change; food security
+    - other: For feedback about climate change adaptation and mitigation plans, food security, waste and recycling
     - email: https://www.mse.gov.sg/contact-us/
   - title: Ministry of Trade and Industry
     content:
-    - other: For transforming the economy sustainably through green growth
+    - other: For feedback about green growth, green economy
     - email: mti_email@mti.gov.sg
 ---
 <!-- Please contact mti_email@mti.gov.sg
