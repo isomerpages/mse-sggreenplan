@@ -54,7 +54,7 @@ Depending on the results of our collective actions, as well as future developmen
 		To support the growth of EVs, we will <b>more than double our EV charging point targets</b> – from 28,000 to 60,000 by 2030. We will tap the capabilities of the private sector to build up this infrastructure. We will also revise the vehicle tax structure to <b>make it easier to buy and own EVs</b>.<br><br>
 		All these efforts, in industries, residential estates, commercial buildings and private transport, will reduce our energy consumption by more than 8 million megawatt hours per year. This amount of energy is sufficient to power almost all our households&#39; annual energy use in 2030. This will in turn <b>reduce domestic greenhouse gas emissions by at least 3 million tonnes per year by 2030</b>.<br><br>
 		As a responsible global citizen, Singapore will play our part as part of a larger international solution. We already host the largest bio-diesel plant in the world, which is being expanded. As an aviation and maritime hub, Singapore will play active and important roles in fulfilling two international aspirational goals:<br><br>
-		In Aviation: 3% improvement in fuel efficiency every year from now to 2050.<br><br>
+		In Aviation: 2% improvement in fuel efficiency every year until 2050, and carbon-neutral growth from 2020.<br><br>
 		In Maritime: reduce greenhouse gas emissions from international shipping by at least 50% by 2050, compared to 2008 levels.<br><br>
 		These are international goals - singapore alone - with our green plan - cannot achieve these aviation and maritime goals.<br>
 	</div>

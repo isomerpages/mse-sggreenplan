@@ -21,7 +21,7 @@ permalink: /key-focus-areas/overview/
 - [Reduce the waste](../sustainable-living/#:~:text=Circular%20Economy){:class="external-link"} sent to our landfills by 30%. 
 - Increase modal share of all the trips taken on [mass public transport](../energy-reset/#:~:text=Transport){:class="external-link"} from 64% to 75% by 2030. 
 - Some [schools](../sustainable-living/#:~:text=20%%20of%20schools%20to%20be%20carbon%20neutral%20by%202030){:class="external-link"} to be carbon neutral by 2030. 
-- [Aviation](../energy-reset/#:~:text=Transport){:class="external-link"}: 3% improvement in fuel efficiency every year from now to 2050. 
+- [Aviation](../energy-reset/#:~:text=Transport){:class="external-link"}: 2% improvement in fuel efficiency every year until 2050, and carbon-neutral growth from 2020. 
 - [Maritime](../energy-reset/#:~:text=Transport){:class="external-link"}: reduce greenhouse gas emissions from international shipping by at least 50% by 2050, compared to 2008 levels.
 - Use 15% [less energy in HDB towns](../energy-reset/#:~:text=Housing){:class="external-link"} by 2030.
 - [Green 80% of all buildings](../energy-reset/#:~:text=Housing){:class="external-link"} over the next decade.
