@@ -26,13 +26,6 @@ The $50 million SG Eco Fund was announced in March 2020 to support projects that
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
 
-#### Becoming a Leading Carbon Trading and Services Hub  
-Projected to be a multi-billion dollar industry, this includes green finance, sustainability consultancy, verification, credits trading and risk management.  
-<a href="https://www.nccs.gov.sg/singapores-climate-action/carbon-services-and-climate-finance/" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
-	<span>LEARN MORE</span>
-	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
-</a>
-
 #### Empowering Businesses
 The government is proactively seeking feedback from businesses to continuously improve our rules and licensing framework, speed up processes and facilitate new business ideas.  
 <a href="https://www.mti.gov.sg/Transforming-Industries/For-Enterprises" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
