@@ -15,7 +15,7 @@ permalink: /key-focus-areas/overview/
 - Plant [1 million more trees.](../city-in-nature/#:~:text=One%20million%20more%20trees%20will%20be%20planted%20across%20our%20island){:class="external-link"}
 - [Quadruple](../energy-reset/#:~:text=Our%20solar%20energy%20deployment%20will%20quadruple%20by%202025){:class="external-link"} solar energy deployment by 2025.
 - Become a [zero waste nation](../sustainable-living/#:~:text=zero%20waste%20nation){:class="external-link"}.
-- Expand [cycling](../sustainable-living/#:~:text=green%20commutes){:class="external-link"} tracks to 1,320 km.  
+- Expand [cycling network](../sustainable-living/#:~:text=green%20commutes){:class="external-link"} to 1,320km by 2030.  
 - All [vehicles](../energy-reset/#:~:text=Transport){:class="external-link"} to run on cleaner energy by 2040.  
 - Be a leader of the [green economy](../green-economy/){:class="external-link"}.  
 - [Reduce the waste](../sustainable-living/#:~:text=Circular%20Economy){:class="external-link"} sent to our landfills by 30%. 
