@@ -1,7 +1,7 @@
 ---
-title: The Green Plan Manifesto
+title: Our Vision
 description:  
-permalink: /key-focus-areas/manifesto/
+permalink: /key-focus-areas/vision/
 ---
 
 **Sustainable Development – A Core Belief**

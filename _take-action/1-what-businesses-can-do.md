@@ -17,7 +17,7 @@ Environmentally-friendly actions can start small. Consistently reducing the amou
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 </a>
 
-#### Utilize the SG Eco Fund
+#### Utilise the SG Eco Fund
 
 The $50 million SG Eco Fund was announced in March 2020 to support projects that involve the community and advance environmental sustainability in Singapore.
 

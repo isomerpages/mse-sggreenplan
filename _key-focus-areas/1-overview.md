@@ -13,7 +13,8 @@ permalink: /key-focus-areas/overview/
 
 #### Our Key Targets for the Green Plan
 - Plant [1 million more trees.](../city-in-nature/#:~:text=One%20million%20more%20trees%20will%20be%20planted%20across%20our%20island){:class="external-link"}
-- [Quadruple](../energy-reset/#:~:text=Our%20solar%20energy%20deployment%20will%20quadruple%20by%202025){:class="external-link"} solar energy deployment by 2025.
+- Increase [solar deployment](../energy-reset/#:~:text=Our%20solar%20energy%20deployment%20will%20quadruple%20by%202025){:class="external-link"} to 1.5 giga-watt peak (GWp) by 2035, and at least 2 GWp by 2030.
+<!-- - [Quadruple](../energy-reset/#:~:text=Our%20solar%20energy%20deployment%20will%20quadruple%20by%202025){:class="external-link"} solar energy deployment by 2025. -->
 <!-- - Become a [zero waste nation](../sustainable-living/#:~:text=zero%20waste%20nation){:class="external-link"}. -->
 - Expand [cycling network](../sustainable-living/#:~:text=green%20commutes){:class="external-link"} to 1,320km by 2030.  
 - Increase rail network to 360km by early 2030s.
@@ -28,7 +29,7 @@ permalink: /key-focus-areas/overview/
 - [Green 80% of all buildings](../energy-reset/#:~:text=Housing){:class="external-link"} over the next decade.
 <!-- - [Reduce domestic greenhouse emissions](../sustainable-living/#:~:text=reduce%caron%20emissions){:class="external-link"} by at least 3 million tonnes per year by 2030. -->
 - Produce [30%](../resilient-future/#:~:text=30-by-30%20target){:class="external-link"} of our nutritional needs by 2030 locally (30-by-30 target).
-- Introduce Enterprise Sustainability Programme, to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area.
+- Introduce an Enterprise Sustainability Programme, to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area.
 - Create new and diverse job opportunities in sectors such as green finance, sustainability consultancy, verification, credits trading and risk management.
 - Be a leading centre for [Green Finance](../green-economy/#:~:text=Green%20Finance%20Masterplan){:class="external-link"} in Asia and globally, by building up the financial sector’s resilience to environmental risks, developing green financial solutions, build knowledge and capabilities, and leveraging innovation and technology.
 - Promote homegrown innovation under the [Research and Innovation & Enterprise Plan 2025](../green-economy/#:~:text=%28RIE2025%29){:class="external-link"}, and attract companies to anchor their R&D activities in Singapore to develop new sustainability solutions.
