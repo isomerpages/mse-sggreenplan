@@ -1,7 +1,7 @@
 ---
-title: Overview of Targets
-description: Overview of Targets
-permalink: /key-focus-areas/overview/
+title: Our Targets
+description: Our Targets
+permalink: /key-focus-areas/our-targets/
 ---
 
 
