@@ -50,7 +50,7 @@ sections:
         alt: Transform Our City
     - infopic:
         title: A Whole-of-Nation Sustainability Movement
-        description: </p><p>The Green Plan is a multi-agency effort led by 5 ministries:<ul><li>- Ministry of Education</li><li>- Ministry of National Development</li><li>- Ministry of Sustainability and the Environment</li><li>- Ministry of Trade and Industry</li><li>- Ministry of Transport</li></ul></p><img class="mse-infopic-media-right" src="/images/index/ministries.png" alt="Ministries" /><p class="mse-none">
+        description: </p><p>The Green Plan is a multi-agency effort spearheaded by 5 ministries:<ul><li>- Ministry of Education</li><li>- Ministry of National Development</li><li>- Ministry of Sustainability and the Environment</li><li>- Ministry of Trade and Industry</li><li>- Ministry of Transport</li></ul></p><img class="mse-infopic-media-right" src="/images/index/ministries.png" alt="Ministries" /><p class="mse-none">
         image: /images/index/ministries.png
         alt: Ministries
     - resources:

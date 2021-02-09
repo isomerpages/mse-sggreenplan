@@ -35,11 +35,12 @@ Improving energy efficiency in households and industries is good for the environ
 
   
 - **[Take public transport, walk or cycle, instead of driving](https://www.mot.gov.sg/about-mot/land-transport/sustainable-transport){:class="external-link" target="_blank"}**  
-Using cleaner transport options reduces our carbon footprint, and also keeps our air quality clean. If you need to drive, consider an electric vehivle (EV) when the COE expires.  
+Using cleaner transport options reduces our carbon footprint, and also keeps our air quality clean. If you need to drive, consider an electric vehicle (EV) when the COE expires.  
  
   
 - **[Support local produce](https://www.sfa.gov.sg/food-farming/sgfoodstory/supporting-local-produce){:class="external-link" target="_blank"}**  
-With increasing demand for food supply, and climate change causing rising temperatures, loss of arable land, and increased frequencies of erratic weather patterns, we need to ensure steady supplies of food here in Singapore.      
+By supporting local produce, in addition to boosting Singapore’s food security and economy, consumers can also making environmentally sustainable choices in their everyday food consumption. Local produce is safe, fresher and lasts longer. Local produce also results in less spoilage, food waste, and a lower carbon footprint, as the produce does not need to travel for long periods of time before reaching the consumer.
+      
 <!-- Grow edibles in own/community/allotment gardens, or participate in tree planting and habitat enhancement [programmes](https://www.nparks.gov.sg/treessg/one-million-trees-movement){:class="external-link" target="_blank"} organised by NParks. -->
 
 <!-- Use [our resources](https://www.mse.gov.sg/resources/){:class="external-link" target="_blank"} to help you kickstart your own sustainability projects   -->
