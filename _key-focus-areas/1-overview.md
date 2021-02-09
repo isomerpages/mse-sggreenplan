@@ -28,6 +28,10 @@ permalink: /key-focus-areas/overview/
 - [Green 80% of all buildings](../energy-reset/#:~:text=Housing){:class="external-link"} over the next decade.
 - [Reduce domestic greenhouse emissions](../sustainable-living/#:~:text=reduce%caron%20emissions){:class="external-link"} by at least 3 million tonnes per year by 2030.
 - Produce [30%](../resilient-future/#:~:text=30-by-30 target){:class="external-link"} of our nutritional needs by 2030 locally (30-by-30 target).
+- Introduce Enterprise Sustainability Programme, to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area
+- Create new and diverse job opportunities in sectors such as green finance, sustainability consultancy, verification, credits trading and risk management.
+- Be a leading centre for Green Finance in Asia and globally, by building up the financial sector’s resilience to environmental risks, developing green financial solutions, build knowledge and capabilities, and leveraging innovation and technology
+- Promote homegrown innovation under the Research and Innovation & Enterprise Plan 2025, and attract companies to anchor their R&D activities in Singapore to develop new sustainability solutions
 
 
 #### Explore the 5 pillars
