@@ -22,7 +22,7 @@ permalink: /key-focus-areas/energy-reset/
 - To support the growth of electric vehicles (EVs), we will more than double our EV charging point target—from 28,000 to 60,000 by 2030.
 
 <blockquote>
-  <p>Depending on the results of our collective actions, and that of the international community, we will review our current carbon emission commitments, and seek to achieve net zero emissions as soon as we can. That way, we can punch above our weight, and have a positive environmental impact well beyond our shores.</p>
+  <p>Depending on the results of our collective actions, and that of the international community, we will review our climate commitments, and seek to achieve net zero emissions as soon as we can. That way, we can punch above our weight, and have a positive environmental impact well beyond our shores.</p>
   <span class="author">Lawrence Wong, Minister for Education</span>
 </blockquote>
 

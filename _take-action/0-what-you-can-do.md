@@ -31,7 +31,7 @@ Have a idea or project you want to start? Why not get financial support and crea
 <!-- - Switch off electrical appliances at the socket  
 <!-- - Use a fan instead of the air-con, or set it at 25 degrees   -->
 - **[Adopt an energy-efficient lifestyle](https://www.ema.gov.sg/industry-energy-efficiency.aspx){:class="external-link" target="_blank"} and use [energy-efficient appliances](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/household-sector/the-energy-label){:class="external-link" target="_blank"}**  
-Improving energy efficiency in households and industries is good for the environment. It is vital to energy conservation, which minimises energy wastages, and supports Singapore's aim to create a more sustainable, reliable and affordable energy future.  
+Improving energy efficiency in households and industries is good for the environment. Doing so conserves energy and supports Singapore's aim to create a more sustainable, reliable and affordable energy future.  
 
   
 - **[Take public transport, walk or cycle, instead of driving](https://www.mot.gov.sg/about-mot/land-transport/sustainable-transport){:class="external-link" target="_blank"}**  
