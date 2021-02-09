@@ -17,7 +17,7 @@ The [circular economy](https://www.towardszerowaste.gov.sg/zero-waste-masterplan
 This will involve all MOE schools from Primary to Pre-University. MOE will strengthen the curriculum and school programmes on sustainability. **We will work towards a two-thirds reduction of net carbon emissions from the schools sector by 2030, and aim for at least 20% of schools to be carbon neutral by 2030.** 
 
 **Green Commutes**  
-We are making good progress towards achieving our goal of bringing 8 out of 10 households to being within a 10-minute walk of a train station by the 2030s. In the coming years, new stations and lines will be opened almost every year. The rail network will grow from around 230 km today to 360 km by the early 2030s.
+We are making good progress towards achieving our goal of bringing 8 in 10 households within a 10-minute walk of a train station by the 2030s. The rail network will grow from around 230 km today to 360 km by the early 2030s. We have announced plans to expand the cycling network from 460 km today to around 1,320 km by 2030. We will also do more to repurpose roads, and implement pedestrianisation where possible.  
 
 <!-- #### Initiatives For Schools And Students
 

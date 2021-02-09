@@ -16,10 +16,11 @@ permalink: /key-focus-areas/overview/
 - [Quadruple](../energy-reset/#:~:text=Our%20solar%20energy%20deployment%20will%20quadruple%20by%202025){:class="external-link"} solar energy deployment by 2025.
 - Become a [zero waste nation](../sustainable-living/#:~:text=zero%20waste%20nation){:class="external-link"}.
 - Expand [cycling network](../sustainable-living/#:~:text=green%20commutes){:class="external-link"} to 1,320km by 2030.  
-- All [vehicles](../energy-reset/#:~:text=Transport){:class="external-link"} to run on cleaner energy by 2040.  
+- Increase rail network to 360km by early 2030s.
+- All newly registered cars to be [cleaner-energy models](../energy-reset/#:~:text=Transport){:class="external-link"} from 2030.
 - Be a leader of the [green economy](../green-economy/){:class="external-link"}.  
 - [Reduce the waste](../sustainable-living/#:~:text=Circular%20Economy){:class="external-link"} sent to our landfills by 30%. 
-- Increase modal share of all the trips taken on [mass public transport](../energy-reset/#:~:text=Transport){:class="external-link"} from 64% to 75% by 2030. 
+- Increase share of trips taken on [mass public transport](../energy-reset/#:~:text=Transport){:class="external-link"} to 75% by 2030
 - Some [schools](../sustainable-living/#:~:text=20%%20of%20schools%20to%20be%20carbon%20neutral%20by%202030){:class="external-link"} to be carbon neutral by 2030. 
 - [Aviation](../energy-reset/#:~:text=Transport){:class="external-link"}: 2% improvement in fuel efficiency every year until 2050, and carbon-neutral growth from 2020. 
 - [Maritime](../energy-reset/#:~:text=Transport){:class="external-link"}: reduce greenhouse gas emissions from international shipping by at least 50% by 2050, compared to 2008 levels.

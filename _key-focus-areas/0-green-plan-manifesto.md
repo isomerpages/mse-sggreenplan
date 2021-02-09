@@ -24,7 +24,7 @@ We have put together a ten-year plan called the **Singapore Green Plan 2030**. T
 
 We recognise our limitations and challenges. Being both a city and a nation, we are in a very different situation compared to bigger countries. We need to provide for defence, industries, homes, critical infrastructure — all within our 728 square kilometres of land. We do not have the natural resources, land area and climatic conditions for the large-scale deployment of renewable energy sources.
 
-These make it extremely hard for us to achieve net zero-emissions in the same way that bigger countries can pledge to do.
+These make it extremely hard for us to achieve net zero emissions in the same way that bigger countries can pledge to do.
 
 However, just like the way we confronted many national challenges in the past, we can be pioneers in technological and policy solutions for sustainable development. We can be a living laboratory, which other cities around the world, facing similar challenges, can pick up ideas from. That way, we can punch above our weight, and have a positive environmental impact way beyond our shores.
 
