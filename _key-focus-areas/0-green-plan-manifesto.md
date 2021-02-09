@@ -55,8 +55,7 @@ Depending on the results of our collective actions, as well as future developmen
 		All these efforts, in industries, residential estates, commercial buildings and private transport, will reduce our energy consumption by more than 8 million megawatt hours per year. This amount of energy is sufficient to power almost all our households&#39; annual energy use in 2030. This will in turn <b>reduce domestic greenhouse gas emissions by at least 3 million tonnes per year by 2030</b>.<br><br>
 		As a responsible global citizen, Singapore will play our part as part of a larger international solution. We already host the largest bio-diesel plant in the world, which is being expanded. As an aviation and maritime hub, Singapore will play active and important roles in fulfilling two international aspirational goals:<br><br>
 		In Aviation: 2% improvement in fuel efficiency every year until 2050, and carbon-neutral growth from 2020.<br><br>
-		In Maritime: reduce greenhouse gas emissions from international shipping by at least 50% by 2050, compared to 2008 levels.<br><br>
-		These are international goals - singapore alone - with our green plan - cannot achieve these aviation and maritime goals.<br>
+		In Maritime: reduce greenhouse gas emissions from international shipping by at least 50% by 2050, compared to 2008 levels.<br>
 	</div>
 </div>
 
@@ -87,11 +86,11 @@ Depending on the results of our collective actions, as well as future developmen
 		Tackling climate change cannot be at the expense of livelihoods and jobs. On the contrary, as sustainability becomes a global issue of concern, and consumers pivot towards greener and more sustainable products and services, it can become a key competitive advantage, and present new opportunities for growth and job creation.<br><br>
 		We are therefore seeking new investments that are among the best-in-class in terms of carbon or energy efficiency.<br><br>
 		We have introduced a broad-based carbon tax in 2019. Whatever we collect will be invested and used to support worthwhile projects to help enterprises reduce their greenhouse gas emissions.<br><br>
-		1. To continue to grow our economy, we will anchor new investments and grow local businesses to ride the green wave. The Government will introduce a new <b>Enterprise Sustainability Programme</b> , to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area.<br><br>
+		To continue to grow our economy, we will anchor new investments and grow local businesses to ride the green wave. The Government will introduce a new <b>Enterprise Sustainability Programme</b> , to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area.<br><br>
 		We can be a <b>leading carbon trading and services hub</b> , which is projected to be a multi-billion-dollar industry. This includes green finance, sustainability consultancy, verification, credits trading and risk management.<br><br>
 		We are making good progress in green finance. It enables us to drive climate action by mobilising global capital and channelling it to areas such as renewable energy, battery technology, smart grids and other green businesses.<br><br>
 		Our vision is to be a <b>leading centre for Green Finance in Asia and globally</b> , by building up the financial sector&#39;s resilience to environmental risks, developing green finance solutions and markets, building knowledge and capabilities, and leveraging innovation and technology.<br><br>
-		2. We will also <b>promote home-grown innovation under the Research, Innovation &amp; Enterprise Plan 2025</b> , and attract companies to anchor their R&amp;D activities in Singapore to develop new sustainability solutions for Asia and the world. These include decarbonisation technologies such as carbon capture, utilisation and storage, low-carbon hydrogen, and solutions to enhance energy efficiency and enable a circular economy, amongst others.<br><br>
+		We will also <b>promote home-grown innovation under the Research, Innovation &amp; Enterprise Plan 2025</b> , and attract companies to anchor their R&amp;D activities in Singapore to develop new sustainability solutions for Asia and the world. These include decarbonisation technologies such as carbon capture, utilisation and storage, low-carbon hydrogen, and solutions to enhance energy efficiency and enable a circular economy, amongst others.<br><br>
 		Jurong Island will be a model for the adoption of such solutions as it transforms into a sustainable energy and chemicals park that improves efficiency, uses carbon capture technologies and reduces sulphur dioxide emissions.<br><br>
 	</div>
 </div>
@@ -101,7 +100,7 @@ Depending on the results of our collective actions, as well as future developmen
 	<div class="accordion-content">
 		Our campaign to deal with climate change will last into the next century, and we are starting our preparations now.<br><br>
 		Against sea level rise, we are developing new solutions and better understanding of our coastlines. We will put in place the <b>physical defences to protect our coastlines along City-East Coast, around Lim Chu Kang, Sungei Kadut, and Jurong Island</b>.<br><br>
-		We are building up our national resilience for the future. Lying one degree north of the Equator, Singapore will always be hot and humid, but we don&#39;t want temperatures to be unbearably high.<br><br>
+		We are building up our national resilience for the future. Lying one degree north of the equator, Singapore will always be hot and humid, but we don&#39;t want temperatures to be unbearably high.<br><br>
 		Urban heat is all around us, for example, the kind that you feel while standing behind an air-conditioner. We will moderate the rise in urban heat by increasing greenery and piloting the use of cool paint on building facades.<br><br>
 		We are increasing local food production, to make our food supply more resilient. We have announced our 30-by-30 target – by 2030, we aim to meet 30% of our nutritional needs through locally produced food. We will do this in partnership with a vibrant agri-food industry and our communities.<br><br>
 	</div>
@@ -114,7 +113,7 @@ The Green Plan is a living plan, which will evolve as we engage Singaporeans thr
 
 In 1965, shortly after Singapore became an independent nation, Mr Lee Kuan Yew said
 
-&#39;Over 100 years ago, this was a mud-flat, swamp. Today, this is a modern city. Ten years from now, this will be a metropolis. Never fear.&#39;
+> Over 100 years ago, this was a mud-flat, swamp. Today, this is a modern city. Ten years from now, this will be a metropolis. Never fear.
 
 Having come from mudflats, to metropolis, we will turn our metropolis into a global city of sustainability. This metropolis of ours, will be a bright green spark, inspiring the world and our future generations. Let&#39;s work together for a brighter and greener future.
 
