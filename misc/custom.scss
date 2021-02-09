@@ -335,3 +335,207 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+.external-link {
+  color: #00725c !important;
+  &:after{
+    display: none !important;
+  }
+  &:hover{
+    color: #00a68a !important;
+  }
+}
+
+.front-page-cta {
+  text-decoration: none !important;
+  color: #00725c !important;
+  &:after{
+    display: none !important;
+  }
+  &:hover{
+    color: #00a68a !important;
+  }
+}
+
+#main-content .bp-container {
+  .mse-infopic-media-left,
+  .mse-infopic-media-right {
+    max-width: 100%;
+  }
+
+  .is-hidden-desktop .is-half {
+    @media screen and (max-width: 767.98px) {
+      img, video, iframe {
+        margin-top: 1.5rem;
+      }
+
+      img:first-child {
+        display: none;
+      }
+    }
+  }
+
+  .is-hidden-mobile .is-half {    
+    @media screen and (min-width: 768px) {
+      img:first-child {
+        opacity: 0;
+      }
+
+      .mse-infopic-media-left,
+      .mse-infopic-media-right {
+        position: absolute;
+        top: calc(0% + 4rem);
+        width: calc(50% - 1.5rem);
+        z-index: 1;
+        // transform: translate(0, -50%);
+      }
+
+      .mse-infopic-media-left {
+        left: calc(0% + .75rem)
+      }
+      
+      .mse-infopic-media-right {
+        left: calc(50% + .75rem)
+      }
+    }
+  }  
+
+  .mse-none {
+    display: none !important;
+  }
+}
+
+.is-12by8, 
+.is-16by9 {
+  position: relative;
+
+  &:before {
+    position: relative;
+    content: "";
+    display: block;
+  }
+
+  iframe, img {
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    width: 100%; height: 100%;
+  }
+}
+
+.is-12by8 {
+  &:before {
+    padding-top: percentage(8/12);
+  }
+}
+
+.is-16by9 {
+  &:before {
+    padding-top: percentage(9/16);
+  }
+}
+
+.sgds-icon-download:before {
+  display: none !important;
+}
+
+//Accordion
+
+input {
+  display: none;
+}
+label {
+  display: block;
+  padding: 8px 22px;
+  margin: 0 0 5px 0;
+  cursor: pointer;
+  background: #F0F4F6;
+  border-radius: 3px;
+  color: #484848;
+  transition: ease .5s;
+  font-size: 1.5em;
+}
+
+label:hover {
+  background: #00725c;
+  color: #FFF;
+}
+
+.accordion-content {
+  /* background: #E2E5F6; */
+  padding: 10px 0px 30px 30px;
+  /* border: 1px solid #484848; */
+  margin: 0 0 1px 0;
+  border-radius: 3px;
+}
+
+input + label + .accordion-content {
+  display: none;
+}
+
+input:checked + label + .accordion-content {
+  display: none;
+}
+
+input:checked + label + .accordion-content {
+  display: block;
+}
+
+input:checked + label {
+  background: #00725c;
+  color: #FFF;
+}
+
+// Remove PDF icon before links
+a[href$=".pdf"]:before {
+  content: none;
+}
+
+a[href$=".pdf"]{
+  margin-left: 0;
+}
+
+//custom blockquote styling
+
+blockquote {
+  color: #335C54;
+  border-left: none !important;
+  margin: 1.5em 10px;
+  padding: 2em 1em !important;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #335C54;
+  content: open-quote;
+  font-size: 4rem;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+  font-style: italic;
+}
+blockquote p {
+  display: inline;
+  font-size: 22px !important;
+  font-style: italic;
+}
+blockquote > p:after {
+  color: #335C54;
+  content: close-quote;
+  font-size: 4rem;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+.author {
+  display: block;
+  text-align: right;
+}
+
+//flex tiles
+.tile-container{
+  display: flex;
+}
+
+.tile-item{
+  flex-basis: 50%;
+}

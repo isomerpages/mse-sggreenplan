@@ -1,28 +1,32 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+title: Singapore Green Plan 2030
+url: "https://www.greenplan.gov.sg" 
+favicon: /images/favicon.svg
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#00725c'
+  secondary-color: '#00725c'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#00725c'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#00725c'
     - title: media-color-three
-      color: '#00838f'
+      color: '#00725c'
     - title: media-color-four
       color: '#00838f'
     - title: media-color-five
-      color: '#00838f'
+      color: '#0d67b1'
 
 
 collections:
-  sgp30-framework:
+  take-action:
     output: true
-resources_name: media
+  key-focus-areas:
+    output: true
+resources_name: resources
+google-tag-manager: G-90ZK0G5DNN
+shareicon: /images/sharing.jpg
 
 description: An Isomer site of the Singapore Government
 

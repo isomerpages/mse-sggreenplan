@@ -4,14 +4,14 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/logo_sog.png
 
 links:
+  - title: Key Focus Areas
+    collection: key-focus-areas
+  - title: Take Action
+    collection: take-action
+  - title: Resources
+    url: /resources
   - title: Contact Us
-    url: /contact-us/
-  - title: About
-    url: /about/
-  - title: Sgp30 Framework
-    collection: sgp30-framework
-  - title: Media
-    resource_room: true
+    url: /contact-us
