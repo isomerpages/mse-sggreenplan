@@ -21,10 +21,9 @@ permalink: /key-focus-areas/our-targets/
 - All newly registered cars to be [cleaner-energy models](../energy-reset/#:~:text=Transport){:class="external-link"} from 2030.
 <!-- - Be a leader of the [green economy](../green-economy/){:class="external-link"}.   -->
 - [Reduce waste](../sustainable-living/#:~:text=Circular%20Economy){:class="external-link"} sent to our landfill per capita per day by 20% by 2026, with the goal of reaching 30% by 2030. 
-- Increase share of trips taken on [mass public transport](../energy-reset/#:~:text=Transport){:class="external-link"} to 75% by 2030
+- Increase share of trips taken on [mass public transport](../energy-reset/#:~:text=Transport){:class="external-link"} to 75% by 2030.
 - At least 20% of [schools](../sustainable-living/#:~:text=20%%20of%20schools%20to%20be%20carbon%20neutral%20by%202030){:class="external-link"} to be carbon neutral by 2030. 
-- [Aviation](../energy-reset/#:~:text=Transport){:class="external-link"}: 2% improvement in fuel efficiency every year until 2050, and carbon-neutral growth from 2020. 
-- [Maritime](../energy-reset/#:~:text=Transport){:class="external-link"}: reduce greenhouse gas emissions from international shipping by at least 50% by 2050, compared to 2008 levels.
+- Promote [sustainable fuels](../energy-reset/#:~:text=Transport){:class="external-link"} for international trade and travel.
 - Phase out [refrigeration and air-conditioning equipment that use high global warming potential (GWP) refrigerants](https://www.nea.gov.sg/media/news/news/index/nea-introduces-measures-to-reduce-greenhouse-gas-emissions-from-refrigeration-air-conditioning){:class="external-link" target="_blank"} from 4th quarter 2022.
 - Use 15% [less energy in HDB towns](../energy-reset/#:~:text=Housing){:class="external-link"} by 2030.
 - [Green 80% of all buildings](../energy-reset/#:~:text=Housing){:class="external-link"} over the next decade.
