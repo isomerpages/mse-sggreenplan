@@ -21,6 +21,10 @@ permalink: /key-focus-areas/energy-reset/
 - We will require all newly-registered cars to be cleaner-energy models from 2030.
 - To support the growth of electric vehicles (EVs), we will more than double our EV charging point target—from 28,000 to 60,000 by 2030.
 
+**Green Energy**
+- Tap green energy sources from the ASEAN region and beyond, through electricity imports
+- Increase efficiency with each new generation of gas-fired power plants to reduce emissions (such as through adopting new, advanced, combined-cycle gas turbines) 
+
 <blockquote>
   <p>Depending on the results of our collective actions, and that of the international community, we will review our climate commitments, and seek to achieve net zero emissions as soon as we can. That way, we can punch above our weight, and have a positive environmental impact well beyond our shores.</p>
   <span class="author">Lawrence Wong, Minister for Education</span>

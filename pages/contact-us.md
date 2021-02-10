@@ -23,7 +23,7 @@ agency_name: us for general enquiries and feedback
 contacts:
   - title: Ministry of National Development
     content:
-    - other: For feedback about parks, tree, natures, biodiversity
+    - other: For feedback about parks, trees, natures, biodiversity
     # - phone: +65 6123 4567
     - email: mnd_hq@mnd.gov.sg
   - title: Ministry of Education
