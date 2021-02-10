@@ -25,11 +25,12 @@ permalink: /key-focus-areas/our-targets/
 - At least 20% of [schools](../sustainable-living/#:~:text=20%%20of%20schools%20to%20be%20carbon%20neutral%20by%202030){:class="external-link"} to be carbon neutral by 2030. 
 - [Aviation](../energy-reset/#:~:text=Transport){:class="external-link"}: 2% improvement in fuel efficiency every year until 2050, and carbon-neutral growth from 2020. 
 - [Maritime](../energy-reset/#:~:text=Transport){:class="external-link"}: reduce greenhouse gas emissions from international shipping by at least 50% by 2050, compared to 2008 levels.
+- Phase out [refrigeration and air-conditioning equipment that use high global warming potential (GWP) refrigerants](https://www.nea.gov.sg/media/news/news/index/nea-introduces-measures-to-reduce-greenhouse-gas-emissions-from-refrigeration-air-conditioning){:class="external-link" target="_blank"} from 4th quarter 2022.
 - Use 15% [less energy in HDB towns](../energy-reset/#:~:text=Housing){:class="external-link"} by 2030.
 - [Green 80% of all buildings](../energy-reset/#:~:text=Housing){:class="external-link"} over the next decade.
 <!-- - [Reduce domestic greenhouse emissions](../sustainable-living/#:~:text=reduce%caron%20emissions){:class="external-link"} by at least 3 million tonnes per year by 2030. -->
 - Produce [30%](../resilient-future/#:~:text=30-by-30%20target){:class="external-link"} of our nutritional needs by 2030 locally (30-by-30 target).
-- Introduce an Enterprise Sustainability Programme, to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area.
+- Introduce an [Enterprise Sustainability Programme](../green-economy/#:~:text=This%20programme){:class="external-link"}, to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area.
 - Create new and diverse job opportunities in sectors such as green finance, sustainability consultancy, verification, credits trading and risk management.
 - Be a leading centre for [Green Finance](../green-economy/#:~:text=Green%20Finance%20Masterplan){:class="external-link"} in Asia and globally, by building up the financial sector’s resilience to environmental risks, developing green financial solutions, build knowledge and capabilities, and leveraging innovation and technology.
 - Promote homegrown innovation under the [Research and Innovation & Enterprise Plan 2025](../green-economy/#:~:text=%28RIE2025%29){:class="external-link"}, and attract companies to anchor their R&D activities in Singapore to develop new sustainability solutions.

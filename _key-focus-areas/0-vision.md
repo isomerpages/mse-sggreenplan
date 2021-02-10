@@ -18,7 +18,7 @@ We knew public cleanliness and hygiene were important to prevent diseases in our
 
 We are the only country in the world to freeze the growth of the vehicle population. We are one of a few countries to have closed the water loop and to reuse every last drop of water repeatedly. We don&#39;t subsidise the use of fossil fuel, and we tax the emission of carbon.
 
-We will build upon what we have already done and launch a sustainable development movement for a better and greener future. This will strengthen ongoing efforts to implement our commitments under the [United Nation&#39;s 2030 Development Agenda](https://www.un.org/sustainabledevelopment/development-agenda/).
+We will build upon what we have already done and launch a sustainable development movement for a better and greener future. This will strengthen ongoing efforts to implement our commitments under the [United Nation&#39;s 2030 Sustainable Development Agenda](https://www.un.org/sustainabledevelopment/development-agenda/).
 
 We have put together a ten-year plan called the **Singapore Green Plan 2030**. The Green Plan is a whole-of-nation sustainable development agenda, with firm action plans, touching on almost every dimension of our lives.
 

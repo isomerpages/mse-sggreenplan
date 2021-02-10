@@ -36,14 +36,14 @@ sections:
         alt: Impact
     - infopic:
         title: How Will We Achieve These Key Targets?
-        description: </p><p>The Green Plan comprises 5 pillars that will touch all aspects of our lives:<ul><li>1. City in Nature</li><li>2. Energy Reset</li><li>3. Sustainable Living</li><li>4. Green Economy</li><li>5. Resilient Future</li></ul></p><img class="mse-infopic-media-right" src="/images/index/about-sgp30.jpg" alt="About Green Plan" /><p class="mse-none">
+        description: </p><p>The Green Plan comprises 5 pillars that will influence all aspects of our lives:<ul><li>1. City in Nature</li><li>2. Energy Reset</li><li>3. Sustainable Living</li><li>4. Green Economy</li><li>5. Resilient Future</li></ul></p><img class="mse-infopic-media-right" src="/images/index/about-sgp30.jpg" alt="About Green Plan" /><p class="mse-none">
         button: Find out more
         url: /key-focus-areas/city-in-nature/
         image: /images/index/about-sgp30.jpg
         alt: About Green Plan
     - infopic:
         title: You Can Help Transform Our City
-        description: </p><p>OEveryone can play a part in making the Green Plan a reality. Let's build a greener and move liveable home together.</p><img class="mse-infopic-media-left" src="/images/index/how-it-transforms.jpg" alt="Transform Our City" /><p class="mse-none">
+        description: </p><p>Everyone can play a part in making the Green Plan a reality. Let's build a greener and move liveable home together.</p><img class="mse-infopic-media-left" src="/images/index/how-it-transforms.jpg" alt="Transform Our City" /><p class="mse-none">
         button: Get Involved
         url: /take-action/what-you-can-do/
         image: /images/index/how-it-transforms.jpg
