@@ -42,7 +42,7 @@ _(Please refer to_ _Annex A_ _for details on the initiatives and targets under t
 
 **Launch of Green Plan Video and Website**
 
-9 To mark the launch of the Green Plan, a video featuring the Ministers for Education, National Development, Sustainability and the Environment, Trade and Industry, and Transport has been released today, which outlines our sustainability vision. The video can be viewed on [YouTube](https://youtu.be/oNFeOl7pW9s) and Facebook.
+9 To mark the launch of the Green Plan, a video featuring the Ministers for Education, National Development, Sustainability and the Environment, Trade and Industry, and Transport has been released today, which outlines our sustainability vision. The video can be viewed on [YouTube](https://youtu.be/oNFeOl7pW9s) and [Facebook](https://www.facebook.com/MSEsingapore/posts/3941246942593165).
 
 10 The video and more details on the Green Plan can also be found at [https://www.greenplan.gov.sg](https://www.greenplan.gov.sg/).
 
