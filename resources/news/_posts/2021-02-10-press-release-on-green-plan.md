@@ -44,8 +44,10 @@ _(Please refer to_ _Annex A_ _for details on the initiatives and targets under t
 
 9 To mark the launch of the Green Plan, a video featuring the Ministers for Education, National Development, Sustainability and the Environment, Trade and Industry, and Transport has been released today, which outlines our sustainability vision. The video can be viewed on [YouTube](https://youtu.be/oNFeOl7pW9s) and Facebook.
 
-10 The video and more details on the Green Plan can also be found at[https://www.greenplan.gov.sg](https://www.greenplan.gov.sg/).
+10 The video and more details on the Green Plan can also be found at [https://www.greenplan.gov.sg](https://www.greenplan.gov.sg/).
 
 11 The Government will release more details on the Green Plan at the upcoming Budget 2021, and Committee of Supply Debate in Parliament.
 
-[View Annex](resources/media-release-annex.pdf)
+---
+
+**[View Annex](../resources/media-release-annex.pdf)**
