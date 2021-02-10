@@ -19,7 +19,7 @@ Being more sustainable starts with each and every one of us - there is no action
   
 
 - **[Volunteer and participate](https://www.nea.gov.sg/programmes-grants/volunteering){:class="external-link" target="_blank"}**  
-There are diverse opportunities to get involved with the community - from events that promote environmental awareness, to ground-up projects, as well as [tree planting](https://www.nparks.gov.sg/treessg/one-million-trees-movement) and [conserving our natural heritage](https://www.nparks.gov.sg/treessg/one-million-trees-movement).  
+There are diverse opportunities to get involved with the community - from events that promote environmental awareness, to ground-up projects, as well as [tree planting](https://www.nparks.gov.sg/treessg/one-million-trees-movement) and [conserving our natural heritage](https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative).  
   
 
 - **[Start your own project using the SG Eco Fund](https://www.sgeco.gov.sg/){:class="external-link" target="_blank"}**  
