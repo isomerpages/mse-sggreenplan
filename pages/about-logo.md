@@ -5,6 +5,6 @@ permalink: /logo/
 
 ![](/images/sgplogo.svg)
 
-**The Singapore Green Plan Logo is derived from the 'Singapore Mark' - a widely-recognisable red brand logo that is synonymous with the Singapore brand.**  
+**The Singapore Green Plan Logo is adapted from the ‘Singapore Mark’ - the widely-recognisable red emblem of Singapore.**  
 
-**The colour red has been changed to green to underscore our collective commitment to make Singapore a global city of sustainability.**
+**The colour of the Singapore Mark has been changed from our national red to green to signal our determination and collective commitment to make Singapore a global city of sustainability.**

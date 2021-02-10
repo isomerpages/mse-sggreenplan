@@ -11,7 +11,6 @@ permalink: /key-focus-areas/energy-reset/
 ![Energy Reset](/images/framework/framework_energyreset.jpg)
 
 **[Housing & Buildings](https://www.mnd.gov.sg/our-work/greening-our-home/hdb-green-towns-programme){:class="external-link" target="_blank"}**
-- Our solar energy deployment will quadruple by 2025, including covering the rooftops of HDB blocks with solar panels. By 2030, solar energy deployed will be five times that of today, with at least 2 gigawatt-peak, capable of powering over 350,000 households a year. 
 - HDB towns will use 15% less energy through measures like the widespread use of smart LED lights and solar energy.
 - Beyond HDB towns, we will green 80% of all buildings over the next decade. 
  
@@ -22,6 +21,7 @@ permalink: /key-focus-areas/energy-reset/
 - To support the growth of electric vehicles (EVs), we will more than double our EV charging point target—from 28,000 to 60,000 by 2030.
 
 **Green Energy**
+- Our solar energy deployment will quadruple by 2025, including covering the rooftops of HDB blocks with solar panels. By 2030, solar energy deployed will be five times that of today, with at least 2 gigawatt-peak, capable of powering over 350,000 households a year. 
 - Tap green energy sources from the ASEAN region and beyond, through electricity imports
 - Increase efficiency with each new generation of gas-fired power plants to reduce emissions (such as through adopting new, advanced, combined-cycle gas turbines) 
 
