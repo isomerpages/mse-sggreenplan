@@ -19,7 +19,7 @@ sections:
     #     alt: SGP30
     - infopic:
         title: What Does The Green Plan Seek To Achieve?
-        description: </p><p>The Green Plan charts ambitious and concrete targets over the next 10 years, strengthening Singapore’s commitments under the UN’s 2030 Sustainable Development Agenda and Paris Agreement, and positioning us to achieve our long-term net-zero emissions aspiration as soon as viable.</p><img class="mse-infopic-media-left" src="/images/index/why-sgp30.jpg" alt="Why Green Plan" /><p class="mse-none">
+        description: </p><p>The Green Plan charts ambitious and concrete targets over the next 10 years, strengthening Singapore’s commitments under the UN’s 2030 Sustainable Development Agenda and Paris Agreement, and positioning us to achieve our long-term net zero emissions aspiration as soon as viable.</p><img class="mse-infopic-media-left" src="/images/index/why-sgp30.jpg" alt="Why Green Plan" /><p class="mse-none">
         image: /images/index/why-sgp30.jpg
         alt: Why Green Plan
     - infopic:
