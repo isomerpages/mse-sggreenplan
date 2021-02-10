@@ -29,9 +29,9 @@ sections:
         alt: Climate Change
     - infopic:
         title: What Are The Green Plan’s Key Targets?
-        description: </p><p><ul><li>- Plant 1 Million more trees</li><li>- Quadruple solar energy deployment by 2025</li><li>- Expand our cycling tracks to 1,320 km</li><li>- All vehicles to run on cleaner energy by 2040</li><</ul></p><img class="mse-infopic-media-left" src="/images/index/impacts-of-climate-change.jpg" alt="Impact" /><p class="mse-none">
+        description: </p><p><ul><li>- Plant 1 Million more trees</li><li>- Quadruple solar energy deployment by 2025</li><li>- Expand our cycling tracks to 1,320 km</li><li>- All vehicles to run on cleaner energy by 2040</li></ul></p><img class="mse-infopic-media-left" src="/images/index/impacts-of-climate-change.jpg" alt="Impact" /><p class="mse-none">
         button: View more
-        url: /key-focus-areas/overview/
+        url: /key-focus-areas/our-targets/
         image: /images/index/impacts-of-climate-change.jpg
         alt: Impact
     - infopic:
