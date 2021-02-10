@@ -10,8 +10,6 @@ permalink: /key-focus-areas/green-economy/
 
 ![Green Economy](/images/framework/framework_greeneconomy.jpg)
 
-We can be a leading carbon trading and services hub, which is projected to be a multi-billion dollar industry. We will also create new and diverse job opportunities in sectors such as green finance, sustainability consultancy, verification, credits trading and risk management.
-
 **Key Targets:**
 1. Introduce an Enterprise Sustainability Programme, to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area.
 2. Create business and job opportunities in sectors such as green finance, sustainability consultancy, verification, credits trading and risk management.
@@ -25,7 +23,7 @@ By building up financial system resilience to environmental risks, developing gr
 Projected to be a multi-billion dollar industry, this includes green finance, sustainability consultancy, verification, credits trading and risk management. 
 
 **[Research, Innovation and Enterprise 2025 Plan](https://www.nrf.gov.sg/rie2025-plan){:class="external-link" target="_blank"} (RIE2025)**  
-We are promoting homegrown innovation under RIE 2025, and attracting companies to anchor their R&D activities in Singapore to develop new sustainability solutions such as carbon capture, utilisation and storage, low-carbon hydrogen, energy efficient materials, and solutions for the circular economy, amongst others. Jurong Island will be a model for the adoption of such solutions as it transforms into a sustainable energy and chemicals park.
+We are promoting homegrown innovation under RIE 2025, and attracting companies to anchor their R&D activities in Singapore to develop new sustainability solutions in areas such as carbon capture, utilisation and storage, low-carbon hydrogen, energy efficient materials, and solutions for the circular economy, amongst others. Jurong Island will be a model for the adoption of such solutions as it transforms into a sustainable energy and chemicals park.
 
 **Enterprise Sustainability Programme**  
 This programme will help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area. 

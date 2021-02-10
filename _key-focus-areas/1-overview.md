@@ -13,7 +13,7 @@ permalink: /key-focus-areas/our-targets/
 
 #### Our Key Targets for the Green Plan
 - Plant [1 million more trees.](../city-in-nature/#:~:text=One%20million%20more%20trees%20will%20be%20planted%20across%20our%20island){:class="external-link"}
-- Increase [solar deployment](../energy-reset/#:~:text=Our%20solar%20energy%20deployment%20will%20quadruple%20by%202025){:class="external-link"} to 1.5 giga-watt peak (GWp) by 2035, and at least 2 GWp by 2030.
+- Increase [solar deployment](../energy-reset/#:~:text=Our%20solar%20energy%20deployment%20will%20quadruple%20by%202025){:class="external-link"} to 1.5 giga-watt peak (GWp) by 2025, and at least 2 GWp by 2030.
 <!-- - [Quadruple](../energy-reset/#:~:text=Our%20solar%20energy%20deployment%20will%20quadruple%20by%202025){:class="external-link"} solar energy deployment by 2025. -->
 <!-- - Become a [zero waste nation](../sustainable-living/#:~:text=zero%20waste%20nation){:class="external-link"}. -->
 - Expand [cycling network](../sustainable-living/#:~:text=green%20commutes){:class="external-link"} to 1,320km by 2030.  
