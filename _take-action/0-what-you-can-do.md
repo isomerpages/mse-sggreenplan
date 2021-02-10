@@ -22,8 +22,8 @@ Being more sustainable starts with each and every one of us - there is no action
 There are diverse opportunities to get involved with the community - from events that promote environmental awareness, to beautifying our common spaces and garnering support for ground-up projects.  
   
 
-- **[Get funding using the SG Eco Fund](https://www.sgeco.gov.sg/){:class="external-link" target="_blank"}**  
-Have a idea or project you want to start? Why not get financial support and create more positive impact using our SG Eco Fund?  
+- **[Start your own project using the SG Eco Fund](https://www.sgeco.gov.sg/){:class="external-link" target="_blank"}**  
+Have a idea or project you want to start? Try applying for financial support to create more positive impact with our SG Eco Fund.   
 <!-- - [Reduce water wastage](https://www.pub.gov.sg/savewater){:class="external-link" target="_blank"} and use water-efficient appliances -->
 <!-- - [Reduce, Reuse and Recycle](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling){:class="external-link" target="_blank"} Right -->
 <!-- - Buy, order, use only what you need -->
