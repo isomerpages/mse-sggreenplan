@@ -25,8 +25,7 @@ collections:
   key-focus-areas:
     output: true
 resources_name: resources
-google-tag-manager: UA-183999332-2
-google-analytics: UA-183999332-2
+google_analytics: G-QGEF1B09N4
 shareicon: /images/sharing.jpg
 
 description: An Isomer site of the Singapore Government
