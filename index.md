@@ -9,7 +9,7 @@ sections:
         background: /images/index/mse-global-city-of-sustainability.jpg
     - infopic:
         title: What Is The Singapore Green Plan 2030?
-        description: </p><p>The Singapore Green Plan 2030, or the Green Plan, is a whole-of-nation movement to advance Singapore’s national agenda on sustainable development.</p><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/oNFeOl7pW9s?rel=0&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p class="mse-none">
+        description: </p><p>The Singapore Green Plan 2030, or the Green Plan, is a whole-of-nation movement to advance Singapore’s national agenda on sustainable development.</p><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/oNFeOl7pW9s?rel=0&autoplay=1&mute=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p class="mse-none">
         image: https://placehold.it/628x285
         alt: Climate Change
     # - infopic:
