@@ -10,6 +10,9 @@ permalink: /key-focus-areas/our-targets/
 
 
 ![Overview](/images/framework/framework_overview.jpg)
+<p style="text-align: center;">
+<a href="https://www.greenplan.gov.sg/resource-room/infographics" class="external-link">View our Infographics</a>
+</p>
 
 #### Our Key Targets for the Green Plan
 - Plant [1 million more trees.](../city-in-nature/#:~:text=One%20million%20more%20trees%20will%20be%20planted%20across%20our%20island){:class="external-link"}
