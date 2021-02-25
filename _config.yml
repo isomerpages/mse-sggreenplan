@@ -24,6 +24,8 @@ collections:
     output: true
   key-focus-areas:
     output: true
+  cos:
+    output: true
 resources_name: resources
 google_analytics: UA-183999332-2
 shareicon: /images/sharing.jpg
