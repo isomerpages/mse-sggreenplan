@@ -1,6 +1,6 @@
 ---
 title: COS
-permalink: /cos/home
+permalink: /cos
 ---
 
 <style>
@@ -10,7 +10,7 @@ blue #04B1DC
 brown #F4F0E5
 light blue #E9F4F4
 light green #DDEDD1
-dark green #34B249 */
+dark green #009885 */
 
 
 
