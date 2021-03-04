@@ -21,7 +21,7 @@ permalink: /key-focus-areas/energy-reset/
 <strong><p>(New) 2025 Targets:</p></strong>
 <ul>
   <li>New registrations of diesel cars and taxis to cease from 2025</li>
-  <li>7 EV-Ready Towns with chargers at all HDB carparks by 2025</li>
+  <li>8 EV-Ready Towns with chargers at all HDB carparks by 2025</li>
 </ul>
 <strong><p>(New) 2030 Targets:</p></strong>
 <ul>
