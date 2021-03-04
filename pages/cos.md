@@ -14,7 +14,7 @@ permalink: /cos/
 - [MND - Minister Desmond Lee: A City in Nature, a Greener Urban Environment](/resource-room/2021-03-04-mnd){:class="external-link" target="_blank"}  
 - [MOE - Minister Lawrence Wong: Nurturing Stewards of the Environment](/resource-room/2021-03-04-moe){:class="external-link" target="_blank"}
 - [MOT - Minister Ong Ye Kung: A New Drive](/resource-room/2021-03-04-mot){:class="external-link" target="_blank"}  
-<!-- - [MTI - Minister Tan See Leng: Energy Reset](){:class="external-link" target="_blank"}   -->
-<!-- - [MTI - Minister Chan Chun Sing: Becoming a Bright Green Spark - An Economy of Stewardship](){:class="external-link" target="_blank"}   -->
+- [MTI - Second Minister Tan See Leng: Energy Reset](/resource-room/2021-03-04-2-mti){:class="external-link" target="_blank"}  
+- [MTI - Minister Chan Chun Sing: Becoming a Bright Green Spark - An Economy of Stewardship](/resource-room/2021-03-04-1-mti){:class="external-link" target="_blank"}  
 
 
