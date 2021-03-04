@@ -16,6 +16,13 @@ permalink: /cos/
 - [MTI - Second Minister Tan See Leng: Energy Reset](/resource-room/2021-03-04-2-mti){:class="external-link" target="_blank"}  
 - [MTI - Minister Chan Chun Sing: Becoming a Bright Green Spark - An Economy of Stewardship](/resource-room/2021-03-04-1-mti){:class="external-link" target="_blank"}  
 
+### **Videos**
+
+
+<div class="bp-youtube">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLufsUwaI-DoGV6xhtyVKDTz-r1pr7ger3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ### **Press Releases and Factsheets**
 
