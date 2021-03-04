@@ -17,6 +17,11 @@ permalink: /cos/
 - [MTI - Minister Chan Chun Sing: Becoming a Bright Green Spark - An Economy of Stewardship](/resource-room/2021-03-04-1-mti){:class="external-link" target="_blank"}  
 
 
+<div class="bp-youtube">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLufsUwaI-DoGV6xhtyVKDTz-r1pr7ger3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ### **Press Releases and Factsheets**
 
 1. [Public Sector Leads The Way With Bold Targets Under Singapore Green Plan 2030](../resources/cos-sgp-factsheet.pdf){:class="external-link" target="_blank"}
