@@ -5,7 +5,12 @@ permalink: /cos/
 
 ![](../resources/cos-sgp-infographics.png) *[Download Infographic](../resources/cos-sgp-infographics.pdf){:class="external-link" target="_blank"}*
 
-### **[Factsheet](../resources/cos-sgp-factsheet.pdf){:class="external-link" target="_blank"}**  
+### **Press Releases**
+
+
+1. [Public Sector Leads The Way With Bold Targets Under Singapore Green Plan 2030](../resources/cos-sgp-factsheet.pdf){:class="external-link" target="_blank"}
+2. [Greengov.Sg: Public Sector Leads The Way Towards A Low-carbon And Sustainable Future](/resource-room/2021-03-04-press-release-on-green-government){:class="external-link" target="_blank"}
+3. [Sentosa To Transform Into Carbon-neutral Destination By 2030](/resources/sentosa-media-release.pdf){:class="external-link" target="_blank"}
 
 ### **Speeches:**
 

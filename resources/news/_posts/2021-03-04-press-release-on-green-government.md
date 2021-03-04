@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Press Release on GreenGov.SG"
+title: "Greengov.Sg: Public Sector Leads The Way Towards A Low-carbon And Sustainable Future"
 permalink: "/resource-room/2021-03-04-press-release-on-green-government"
 ---
 
-**GREENGOV.SG: PUBLIC SECTOR LEADS THE WAY TOWARDS A LOW-CARBON AND SUSTAINABLE FUTURE**
+**Greengov.Sg: Public Sector Leads The Way Towards A Low-carbon And Sustainable Future**
 
 _The Singapore Public Service will embed sustainability in everything we do_
 
