@@ -38,7 +38,7 @@ permalink: /key-focus-areas/our-targets/
 - Promote homegrown innovation under the [Research and Innovation & Enterprise Plan 2025](../green-economy/#:~:text=%28RIE2025%29){:class="external-link"}, and attract companies to anchor their R&D activities in Singapore to develop new sustainability solutions.
 
 
-#### Explore the 5 pillars
+#### Explore the pillars
 
 <div class="tile-container">
 	<a class="tile-item" href="/key-focus-areas/city-in-nature"><img src="/images/framework/tile_cityinnature.png" alt="City in Nature" /></a>
@@ -50,6 +50,7 @@ permalink: /key-focus-areas/our-targets/
 </div>
 <div class="tile-container">
 	<a class="tile-item" href="/key-focus-areas/resilient-future"><img src="/images/framework/tile_resilientfuture.png" alt="Resilient Future" /></a>
+	<!-- <a class="tile-item" href="/key-focus-areas/green-government"><img src="/images/cosgreengov2.jpg" alt="Green Government" /></a> -->
 </div>
 
 [![Ideas](/images/framework/framework_ideas.jpg)](https://form.gov.sg/6013d365bedd790011bb9c86)

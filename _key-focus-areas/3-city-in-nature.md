@@ -10,10 +10,17 @@ permalink: /key-focus-areas/city-in-nature/
 
 ![City in Nature](/images/framework/framework_cityinnature.jpg)
 
+<div style="background-color:#b2d4ce;">
+<ul><li><strong>(New)</strong> Develop over 130 ha of new parks, and enhance around 170 ha of existing parks with more lush vegetation and natural landscapes.</li></ul>
+</div>
+
 - Set aside 1000 hectares for green spaces, of which 200 hectares will be new **[nature parks](https://www.mnd.gov.sg/our-work/greening-our-home/greenery){:class="external-link" target="_blank"}**
 - Every household will live just a 10-minute walk from a park. 
 - **[One million more trees](https://www.nparks.gov.sg/treessg/one-million-trees-movement){:class="external-link" target="_blank"}** will be planted across our island, which will sequester another 78,000 tonnes of CO2, providing cleaner air and more shade.
 - Working with communities and NGOs to develop programmes to allow people and wildlife to live in harmony.
+- “80-80-80 in 2030” - Green 80% of Singapore’s buildings (by Gross Floor Area) by 2030, 80% of new buildings (by Gross Floor Area) to be SLE buildings from 2030, andBest-in-class green buildings to see an 80% improvement in energy efficiency (over 2005 levels) by 2030
+
+
 
 <blockquote>
   <p>Today, Singapore is a City in a Garden, and is  one of the greenest cities in the world. We set aside large nature reserves, with about a third of our island covered by trees.</p>

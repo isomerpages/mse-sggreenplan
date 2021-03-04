@@ -16,9 +16,24 @@ permalink: /key-focus-areas/energy-reset/
  
 
 **[Transport](https://www.mot.gov.sg/news-centre/news/Detail/written-reply-by-minister-for-transport-ong-ye-kung-to-parliamentary-question-on-update-on-plan-to-provide-28-000-electric-vehicle-charging-points-by-2030/){:class="external-link" target="_blank"}**
+
+<div style="background-color:#b2d4ce;">
+<strong><p>(New) 2025 Targets:</p></strong>
+<ul>
+  <li>New registrations of diesel cars and taxis to cease from 2025</li>
+  <li>7 EV-Ready Towns with chargers at all HDB carparks by 2025</li>
+</ul>
+<strong><p>(New) 2030 Targets:</p></strong>
+<ul>
+  <li>All new car and taxi registrations to be of cleaner-energy models from 2030</li>
+  <li>Target 60,000 charging points nationwide by 2030, including 40,000 in public carparks and 20,000 in private premises</li>
+</ul>
+</div>
+
+
 - Our 2040 vision is to phase out internal combustion engine vehicles, and have all vehicles run on cleaner energy.
-- We will require all newly-registered cars to be cleaner-energy models from 2030.
-- To support the growth of electric vehicles (EVs), we will more than double our EV charging point target—from 28,000 to 60,000 by 2030.
+<!-- We will require all newly-registered cars to be cleaner-energy models from 2030. 
+To support the growth of electric vehicles (EVs), we will more than double our EV charging point target—from 28,000 to 60,000 by 2030. -->
 
 **Green Energy**
 - Our solar energy deployment will quadruple by 2025, including covering the rooftops of HDB blocks with solar panels. By 2030, solar energy deployed will be five times that of today, with at least 2 gigawatt-peak, capable of powering over 350,000 households a year. 
