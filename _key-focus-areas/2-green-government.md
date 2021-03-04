@@ -1,0 +1,29 @@
+---
+title: Green Government
+description: 
+permalink: /key-focus-areas/green-government/
+---
+
+
+
+<!-- ### City in Nature
+
+#### We will create a green, liveable and sustainable home for Singaporeans.
+
+![City in Nature](/images/framework/framework_cityinnature.jpg)
+
+- Set aside 1000 hectares for green spaces, of which 200 hectares will be new **[nature parks](https://www.mnd.gov.sg/our-work/greening-our-home/greenery){:class="external-link" target="_blank"}**
+- Every household will live just a 10-minute walk from a park. 
+- **[One million more trees](https://www.nparks.gov.sg/treessg/one-million-trees-movement){:class="external-link" target="_blank"}** will be planted across our island, which will sequester another 78,000 tonnes of CO2, providing cleaner air and more shade.
+- Working with communities and NGOs to develop programmes to allow people and wildlife to live in harmony.
+
+<blockquote>
+  <p>Today, Singapore is a City in a Garden, and is  one of the greenest cities in the world. We set aside large nature reserves, with about a third of our island covered by trees.</p>
+  <span class="author">Desmond Lee, Minister for National Development</span>
+</blockquote>
+
+[![Ideas](/images/framework/framework_ideas.jpg)](https://form.gov.sg/6013d365bedd790011bb9c86) -->
+
+<!-- FORM EMBED
+<iframe id="iframe" src="https://form.gov.sg/6013d365bedd790011bb9c86" style="width:100%;height:500px"></iframe>
+<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div> -->

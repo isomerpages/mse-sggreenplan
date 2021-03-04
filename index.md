@@ -2,7 +2,7 @@
 layout: homepage
 title: Singapore Green Plan 2030
 description: Learn how Singapore will transform into a global city of sustainability with the Singapore Green Plan 2030. 
-notification: <a href="/cos/" style="text-decoration:none; font-weight:bold">Click here to access Committee of Supply (COS) materials for the Green Plan</a>
+notification: <a href="/cos/" style="text-decoration:none; font-weight:bold">CClick here to access materials about the Joint Segment on Sustainability (Committee of Supply 2021)</a>
 permalink: /
 sections:
     - hero:
