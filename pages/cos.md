@@ -21,7 +21,7 @@ permalink: /cos/
 
 1. [Public Sector Leads The Way With Bold Targets Under Singapore Green Plan 2030](../resources/cos-sgp-factsheet.pdf){:class="external-link" target="_blank"}
 2. [GreenGov.SG: Public Sector Leads The Way Towards A Low-carbon And Sustainable Future](/resource-room/2021-03-04-press-release-on-green-government){:class="external-link" target="_blank"}
-3. [Closing the packaging and plastic waste loop](https://www.nea.gov.sg/docs/default-source/media-files/cos2021/cos2021-media-factsheet-initiatives-to-close-the-packaging-and-plastic-waste-loop.pdf){:class="external-link" target="_blank"}
+3. [Closing the Packaging and Plastic Waste Loop](https://www.nea.gov.sg/docs/default-source/media-files/cos2021/cos2021-media-factsheet-initiatives-to-close-the-packaging-and-plastic-waste-loop.pdf){:class="external-link" target="_blank"}
 4. [Mandatory Food Waste Reporting Framework](https://www.nea.gov.sg/docs/default-source/media-files/cos2021/cos2021-media-factsheet-mandatory-framework-for-food-waste-reporting.pdf){:class="external-link" target="_blank"}
 6. [Nurturing Stewards of the Environment](https://www.moe.gov.sg/news/press-releases/20210304-learn-for-life-equipping-ourselves-for-a-changing-world-nurturing-stewards-of-the-environment){:class="external-link" target="_blank"}
 7. [Accelerating Nationwide Deployment of Electric Vehicle Charging Points](https://www.lta.gov.sg/content/ltagov/en/newsroom/2021/3/news-release/Accelerating_nationwide_deployment_of_electric_vehicle_charging_points.html){:class="external-link" target="_blank"}
