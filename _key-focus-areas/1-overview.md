@@ -19,7 +19,7 @@ permalink: /key-focus-areas/our-targets/
 <div style="background-color:#b2d4ce;">
 <em><p>New targets announced at the <a href="/cos">Joint Segment on Sustainability</a> (Committee of Supply 2021):</p></em>
 <ul>
-  <li>Develop over 130 ha of new parks, and enhance around 170 ha of existing parks with more lush vegetation and natural landscapes.</li>
+  <li>Develop over 130 ha of new parks, and enhance around 170 ha of existing parks with more lush vegetation and natural landscapes by end-2026.</li>
   <li>"80-80-80 by 2030" - Green 80% of all buildings</li>
   <li>New registrations of diesel cars and taxis to cease from 2025</li>
   <li>8 EV-Ready Towns with chargers at all HDB carparks by 2025</li>
