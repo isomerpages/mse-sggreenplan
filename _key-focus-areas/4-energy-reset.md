@@ -10,10 +10,13 @@ permalink: /key-focus-areas/energy-reset/
 
 ![Energy Reset](/images/framework/framework_energyreset.jpg)
 
-**[Housing & Buildings](https://www.mnd.gov.sg/our-work/greening-our-home/hdb-green-towns-programme){:class="external-link" target="_blank"}**
+**[Housing](https://www.mnd.gov.sg/our-work/greening-our-home/hdb-green-towns-programme){:class="external-link" target="_blank"}**
 - HDB towns will use 15% less energy through measures like the widespread use of smart LED lights and solar energy.
 - Beyond HDB towns, we will green 80% of all buildings over the next decade. 
  
+**Buildings**
+ - “80-80-80 in 2030” - Green 80% of Singapore’s buildings (by Gross Floor Area) by 2030, 80% of new buildings (by Gross Floor Area) to be SLE buildings from 2030, and best-in-class green buildings to see an 80% improvement in energy efficiency (over 2005 levels) by 2030
+
 
 **[Transport](https://www.mot.gov.sg/news-centre/news/Detail/written-reply-by-minister-for-transport-ong-ye-kung-to-parliamentary-question-on-update-on-plan-to-provide-28-000-electric-vehicle-charging-points-by-2030/){:class="external-link" target="_blank"}**
 

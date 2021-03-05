@@ -18,7 +18,6 @@ permalink: /key-focus-areas/city-in-nature/
 - Every household will live just a 10-minute walk from a park. 
 - **[One million more trees](https://www.nparks.gov.sg/treessg/one-million-trees-movement){:class="external-link" target="_blank"}** will be planted across our island, which will sequester another 78,000 tonnes of CO2, providing cleaner air and more shade.
 - Working with communities and NGOs to develop programmes to allow people and wildlife to live in harmony.
-- “80-80-80 in 2030” - Green 80% of Singapore’s buildings (by Gross Floor Area) by 2030, 80% of new buildings (by Gross Floor Area) to be SLE buildings from 2030, andBest-in-class green buildings to see an 80% improvement in energy efficiency (over 2005 levels) by 2030
 
 
 
