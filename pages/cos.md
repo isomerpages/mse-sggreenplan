@@ -35,3 +35,40 @@ permalink: /cos/
 8. [Encouraging the Adoption of Electric Cars for a More Sustainable Land Transport Sector](https://www.lta.gov.sg/content/ltagov/en/newsroom/2021/3/news-release/Encouraging_the_adoption_of_electric_cars.html){:class="external-link" target="_blank"}
 9. [Enterprise Sustainability Programme](https://www.mti.gov.sg/-/media/MTI/COS-2021/Factsheets/3-ESP_MTI-COS-2021-Media-Factsheet.pdf){:class="external-link" target="_blank"}
 10. [Sentosa to Transform into Carbon-neutral Destination by 2030](/resources/sentosa-media-release.pdf){:class="external-link" target="_blank"}
+
+### **Infographics for Social Media**
+
+[Download all infographics (zip)](/images/infographics-social-media-full.zip){:class="external-link" target="_blank"} 
+
+[City in Nature](/images/cityinnaturewa.png){:class="external-link" target="_blank"}  
+[City in Nature 1](/images/cityinnature1.png){:class="external-link" target="_blank"}  
+[City in Nature 2](/images/cityinnature2.png){:class="external-link" target="_blank"}  
+[City in Nature 3](/images/cityinnature3.png){:class="external-link" target="_blank"}  
+
+[Green Government 1](/images/greengov1.png){:class="external-link" target="_blank"}  
+[Green Government 2](/images/greengov2.png){:class="external-link" target="_blank"}  
+[Green Government 3](/images/greengov3.png){:class="external-link" target="_blank"}  
+
+[Sustainable Living 1](/images/sus1.png){:class="external-link" target="_blank"}  
+[Sustainable Living 2](/images/sus2.png){:class="external-link" target="_blank"}  
+[Sustainable Living 3](/images/sus3.png){:class="external-link" target="_blank"}  
+[Sustainable Living 4](/images/sus4.png){:class="external-link" target="_blank"}  
+[Sustainable Living 5](/images/sus5.png){:class="external-link" target="_blank"}  
+
+[Energy Reset 1](/images/energy1.png){:class="external-link" target="_blank"}  
+[Energy Reset 2](/images/energy2.png){:class="external-link" target="_blank"}  
+[Energy Reset 3](/images/energy3.png){:class="external-link" target="_blank"}  
+[Energy Reset 4](/images/energy4.png){:class="external-link" target="_blank"}  
+[Energy Reset 5](/images/energy5.png){:class="external-link" target="_blank"}  
+
+[Green Economy 1](/images/econ1.png){:class="external-link" target="_blank"}  
+[Green Economy 2](/images/econ2.png){:class="external-link" target="_blank"}  
+[Green Economy 3](/images/econ3.png){:class="external-link" target="_blank"}  
+[Green Economy 4](/images/econ4.png){:class="external-link" target="_blank"}  
+
+[Resilient Future 1](/images/resilient1.png){:class="external-link" target="_blank"}  
+[Resilient Future 2](/images/resilient2.png){:class="external-link" target="_blank"}  
+[Resilient Future 3](/images/resilient3.png){:class="external-link" target="_blank"}  
+[Resilient Future 4](/images/resilient4.png){:class="external-link" target="_blank"}  
+[Resilient Future 5](/images/resilient5.png){:class="external-link" target="_blank"}  
+
