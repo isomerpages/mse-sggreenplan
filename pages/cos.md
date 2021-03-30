@@ -40,6 +40,8 @@ permalink: /cos/
 
 [Download all infographics (zip)](/images/infographics-social-media-full.zip){:class="external-link" target="_blank"} 
 
+[Actionables](/resources/sgp_actionables.jpg){:class="external-link" target="_blank"}  
+
 [City in Nature](/images/cityinnaturewa.png){:class="external-link" target="_blank"}  
 [City in Nature 1](/images/cityinnature1.png){:class="external-link" target="_blank"}  
 [City in Nature 2](/images/cityinnature2.png){:class="external-link" target="_blank"}  
