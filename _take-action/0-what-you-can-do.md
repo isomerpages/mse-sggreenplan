@@ -41,7 +41,10 @@ Using cleaner transport options reduces our carbon footprint, and also keeps our
   
 - **[Support local produce](https://www.sfa.gov.sg/food-farming/sgfoodstory/supporting-local-produce){:class="external-link" target="_blank"}**  
 By supporting local produce, in addition to boosting Singapore’s food security and economy, consumers can also making environmentally sustainable choices in their everyday food consumption. Local produce is safe, fresher and lasts longer. Local produce also results in less spoilage, food waste, and a lower carbon footprint, as the produce does not need to travel for long periods of time before reaching the consumer.
-      
+
+![Actionables](/resources/sgp_actionables.jpg)
+
+
 <!-- Grow edibles in own/community/allotment gardens, or participate in tree planting and habitat enhancement [programmes](https://www.nparks.gov.sg/treessg/one-million-trees-movement){:class="external-link" target="_blank"} organised by NParks. -->
 
 <!-- Use [our resources](https://www.mse.gov.sg/resources/){:class="external-link" target="_blank"} to help you kickstart your own sustainability projects   -->
