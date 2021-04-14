@@ -24,11 +24,4 @@ Here are upcoming Conversations that you can sign up for:
  
 We invite you to register your interest for the inaugural Conversation, which will explore priorities for the Green Plan, and how we can realise the national sustainability agenda together. Pls indicate your interest by **19 April 2021**. For those who are unable to join the Conversation, we will be livestreaming the opening of the Conversation on [Minister Grace Fu’s Facebook page](https://www.facebook.com/gracefu.hy), and welcome you to join us there.
 
-**Sign Up Below!**
-<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in <a href="https://www.form.gov.sg/#!/6035c9370e5974001185f2bf">here</a>.</div>
-
-<!-- **[Sign Up Here](https://www.form.gov.sg/#!/6035c9370e5974001185f2bf)** -->
-
-
-<iframe src="https://www.form.gov.sg/#!/6035c9370e5974001185f2bf" style="width:100%;height:3500px;" scrolling="no"></iframe>
-<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
+**[Sign Up Now!](https://www.form.gov.sg/#!/6035c9370e5974001185f2bf)**
