@@ -20,7 +20,7 @@ We invite people from all walks of life to join us in these Conversations. Howev
 
 Here are upcoming Conversations that you can sign up for:
 
-[24 April 2021, 2 – 5.30pm](https://www.form.gov.sg/#!/6035c9370e5974001185f2bf)
+* [24 April 2021 (2 – 5.30pm)](https://www.form.gov.sg/#!/6035c9370e5974001185f2bf)
  
 We invite you to register your interest for the inaugural Conversation, which will explore priorities for the Green Plan, and how we can realise the national sustainability agenda together. Pls indicate your interest by **19 April 2021**. For those who are unable to join the Conversation, we will be livestreaming the opening of the Conversation on [Minister Grace Fu’s Facebook page](https://www.facebook.com/gracefu.hy), and welcome you to join us there.
 
