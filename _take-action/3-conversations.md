@@ -8,8 +8,6 @@ permalink: /take-action/conversations/
 
 <!-- # Green Plan Conversations -->
 
-**We want to hear your views and insights on the Green Plan!**
-
 Do you have views on the Singapore Green Plan 2030? Would you like share ideas on how we can co-create environmental solutions to build a Sustainable Singapore?
 
 In the spirit of the Singapore Together movement, we want to work with Singaporeans and partners to learn from our collective experience and expertise, and to take action together. As part of this national engagement process, we will be organising a series of **Green Plan Conversations** helmed by the Ministers leading the Green Plan to hear your views on how we can build a city of green possibilities together, while taking into account Singapore's context.
