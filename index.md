@@ -2,7 +2,7 @@
 layout: homepage
 title: Singapore Green Plan 2030
 description: Learn how Singapore will transform into a global city of sustainability with the Singapore Green Plan 2030. 
-notification: <a href="/take-action/conversations" style="text-decoration:none; font-weight:bold">CLICK HERE TO SIGN UP FOR THE GREEN PLAN CONVERSATIONS</a>
+# notification: <a href="/take-action/conversations" style="text-decoration:none; font-weight:bold">CLICK HERE TO SIGN UP FOR THE GREEN PLAN CONVERSATIONS</a>
 permalink: /
 sections:
     - hero:
