@@ -19,17 +19,17 @@ The Green Plan charts concrete sectoral plans and targets over the next ten year
 
 **Supporting the 2030 Agenda and Sustainable Development Goals (SDGs)**
 
-Adopted by UN Member States in 2015, the 2030 Agenda comprises 17 Sustainable Development Goals (SDGs) which serve as a blueprint for sustainable development in all dimensions, i.e., economic, environmental, social. These SDGs were adopted by all countries at the United Nations in 2015 under a framework document called the [2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda) (2030 Agenda).
+Adopted by UN Member States in 2015, the 2030 Agenda comprises 17 Sustainable Development Goals (SDGs) which serve as a blueprint for sustainable development in all dimensions, i.e., economic, environmental, social. These SDGs were adopted by all countries at the United Nations in 2015 under a framework document called the [2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda){:class="external-link" target="_blank"} (2030 Agenda).
 
  Since its adoption, the 2030 Agenda has spurred the people, public and private sectors to work together to achieve the SDGs and to pursue a green and inclusive recovery from COVID-19.
 
-The Green Plan reinforces our commitment to the 2030 Agenda and the SDGs. It specifies targets that will enhance our food security, ensure sustainable water management, scale up deployment of clean energy, promote sustainable economic growth, green our infrastructure and industries, and position our city to be resource-efficient and climate-resilient. Realising these targets will require a whole-of-nation effort, we will work in [partnership](https://www.greenplan.gov.sg/take-action/what-you-can-do/) with the community and industries to co-create solutions and further progress in these areas. 
+The Green Plan reinforces our commitment to the 2030 Agenda and the SDGs. It specifies targets that will enhance our food security, ensure sustainable water management, scale up deployment of clean energy, promote sustainable economic growth, green our infrastructure and industries, and position our city to be resource-efficient and climate-resilient. Realising these targets will require a whole-of-nation effort, we will work in [partnership](https://www.greenplan.gov.sg/take-action/what-you-can-do/){:class="external-link" target="_blank"} with the community and industries to co-create solutions and further progress in these areas. 
 
 Accordingly, these efforts support SDGs **2** (Zero Hunger), **6** (Clean Water and Sanitation), **7** (Affordable and Clean Energy), **8** (Decent Work and Economic Growth), **9** (Industry, Innovation, and Infrastructure), **11** (Sustainable Cities), **12** (Responsible Consumption and Production), **13** (Climate Action), and **17** (Partnership for the Goals).
 
 **Our Global Commitment**
 
-Taken together, the Green Plan demonstrates Singapore’s commitment to climate action and sustainable development, in sync with international efforts and the global sustainability agenda. More information on Singapore’s climate pledges and our progress as tracked by indicators under the SDGs can be found [here](https://www.nccs.gov.sg/media/press-release/submission-of-singapores-enhanced-nationally-determined-contribution-and-long-term-low-emissions-development-strategy) and [here](https://www.singstat.gov.sg/find-data/sdg), respectively. 
+Taken together, the Green Plan demonstrates Singapore’s commitment to climate action and sustainable development, in sync with international efforts and the global sustainability agenda. More information on Singapore’s climate pledges and our progress as tracked by indicators under the SDGs can be found [here](https://www.nccs.gov.sg/media/press-release/submission-of-singapores-enhanced-nationally-determined-contribution-and-long-term-low-emissions-development-strategy){:class="external-link" target="_blank"} and [here](https://www.singstat.gov.sg/find-data/sdg){:class="external-link" target="_blank"}, respectively. 
 
 
 #### Explore the 5 pillars
