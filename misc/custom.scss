@@ -539,3 +539,20 @@ blockquote > p:after {
 .tile-item{
   flex-basis: 50%;
 }
+
+.sdg-container{
+  display: flex;
+
+  @media screen and (max-width: 767.98px) {
+    flex-wrap: wrap;
+  }
+}
+
+.sdg-image{
+  flex-basis: 50%;
+  width: 50% !important;
+
+  @media screen and (max-width: 767.98px) {
+    width: 100% !important;
+  }
+}

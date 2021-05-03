@@ -36,9 +36,10 @@ permalink: /key-focus-areas/green-government/
 
 **In support of SDGs:**
 
-![6 9 12](/images/framework/greengovernment_01.jpg) 
-
-![13 17](/images/framework/greengovernment_02.jpg) 
+<div class="sdg-container">
+	<img class="sdg-image" src="/images/framework/greengovernment_01.jpg" alt="6 9 12" />
+	<img class="sdg-image" src="/images/framework/greengovernment_02.jpg" alt="13 17" />
+</div>
 
 Formerly known as the Public Sector Taking the Lead in Environmental Sustainability (PSTLES) initiative, the GreenGov.SG initiative forms a component and enabler of the recently launched Singapore Green Plan 2030. 
 
