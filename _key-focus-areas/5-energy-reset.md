@@ -12,9 +12,10 @@ permalink: /key-focus-areas/energy-reset/
 
 **In support of SDGs:**
 
-![7 9 11](/images/framework/energyreset_01.jpg) 
-
-![12 13 17](/images/framework/energyreset_02.jpg) 
+<div class="sdg-container">
+	<img class="sdg-image" src="/images/framework/energyreset_01.jpg" alt="7 9 11" />
+	<img class="sdg-image" src="/images/framework/energyreset_02.jpg" alt="12 13 17" />
+</div>
 
 **[Housing](https://www.mnd.gov.sg/our-work/greening-our-home/hdb-green-towns-programme){:class="external-link" target="_blank"}**
 - HDB towns will use 15% less energy through measures like the widespread use of smart LED lights and solar energy.

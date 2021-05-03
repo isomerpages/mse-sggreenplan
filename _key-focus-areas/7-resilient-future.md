@@ -12,9 +12,10 @@ permalink: /key-focus-areas/resilient-future/
 
 **In support of SDGs:**
 
-![2 9 13](/images/framework/resilientfuture_01.jpg) 
-
-![17](/images/framework/resilientfuture_02.jpg) 
+<div class="sdg-container">
+	<img class="sdg-image" src="/images/framework/resilientfuture_01.jpg" alt="2 9 13" />
+	<img class="sdg-image" src="/images/framework/resilientfuture_02.jpg" alt="17" />
+</div>
 
 - Against rising sea levels, we are developing new solutions and a better understanding of our coastlines.
 - We will put in place the defences to protect our coastlines along East Coast, Lim Chu Kang, Sungei Kadut, and around Jurong Island. 

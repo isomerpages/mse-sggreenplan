@@ -542,15 +542,13 @@ blockquote > p:after {
 
 .sdg-container{
   display: flex;
-
-  @media screen and (max-width: 767.98px) {
-    flex-wrap: wrap;
-  }
+  flex-wrap: wrap;
 }
 
 .sdg-image{
   flex-basis: 50%;
   width: 50% !important;
+  justify-content: flex-start;
 
   @media screen and (max-width: 767.98px) {
     width: 100% !important;

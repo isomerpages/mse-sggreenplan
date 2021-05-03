@@ -12,9 +12,10 @@ permalink: /key-focus-areas/city-in-nature/
 
 **In support of SDGs:**
 
-![11 13 14](/images/framework/cityinnature_01.jpg) 
-
-![15 17](/images/framework/cityinnature_02.jpg) 
+<div class="sdg-container">
+	<img class="sdg-image" src="/images/framework/cityinnature_01.jpg" alt="11 13 14" />
+	<img class="sdg-image" src="/images/framework/cityinnature_02.jpg" alt="15 17" />
+</div>
 
 <div style="background-color:#b2d4ce;">
 <ul><li><strong>(New)</strong> Develop over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.</li></ul>
