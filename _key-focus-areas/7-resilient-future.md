@@ -10,6 +10,12 @@ permalink: /key-focus-areas/resilient-future/
 
 ![Resilient Future](/images/framework/framework_resilientfuture.jpg)
 
+**In support of SDGs:**
+
+![2 9 13](/images/framework/resilientfuture_01.jpg) 
+
+![17](/images/framework/resilientfuture_02.jpg) 
+
 - Against rising sea levels, we are developing new solutions and a better understanding of our coastlines.
 - We will put in place the defences to protect our coastlines along East Coast, Lim Chu Kang, Sungei Kadut, and around Jurong Island. 
 - Urban heat is all around us, for example, the kind that you feel while standing behind an air-conditioner. We will moderate rise in urban heat by increasing greenery and piloting the use of cool paint on building facades.

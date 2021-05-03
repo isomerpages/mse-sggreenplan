@@ -10,6 +10,12 @@ permalink: /key-focus-areas/green-economy/
 
 ![Green Economy](/images/framework/framework_greeneconomy.jpg)
 
+**In support of SDGs:**
+
+![7 8 9](/images/framework/greeneconomy_01.jpg) 
+
+![13 17](/images/framework/greeneconomy_02.jpg) 
+
 **Key Targets:**
 1. Introduce an Enterprise Sustainability Programme, to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area.
 2. Create business and job opportunities in sectors such as green finance, sustainability consultancy, verification, credits trading and risk management.
