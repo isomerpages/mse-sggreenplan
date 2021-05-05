@@ -10,6 +10,15 @@ permalink: /key-focus-areas/sustainable-living/
 
 ![Sustainable Living](/images/framework/framework_sustainableliving.jpg)
 
+**In support of SDGs:**
+
+<div class="sdg-container">
+	<img class="sdg-image" src="/images/framework/sustainableliving_01.jpg" alt="3 4 6" />
+	<img class="sdg-image" src="/images/framework/sustainableliving_02.jpg" alt="9 11 12" />
+	<img class="sdg-image" src="/images/framework/sustainableliving_03.jpg" alt="13 17" />
+	<div class="sdg-image"></div>
+</div>
+
 **Circular Economy**  
 The [circular economy](https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter2/circular-economy/#:~:text=Unlike%20the%20linear%20economy%2C%20the,for%20as%20long%20as%20possible.&text=Adopting%20a%20circular%20economy%20approach,Resiliences%E2%80%9D%20to%20sustain%20Singapore's%20future.){:class="external-link" target="_blank"} focuses on designing waste out of the resource ecosystem and maximising the value of resources by keeping them in use for as long as possible. We aim to be a zero waste nation powered by a circular economy, with a high rate of recycling so that our precious resources can be used many times over. We have closed our water loop by recycling our used water to make NEWater, and will make a similar strong push towards circularity in waste materials to transform trash to treasure. We will also turn waste treatment residue into NEWSand, to be used for construction.
 

@@ -10,8 +10,15 @@ permalink: /key-focus-areas/city-in-nature/
 
 ![City in Nature](/images/framework/framework_cityinnature.jpg)
 
+**In support of SDGs:**
+
+<div class="sdg-container">
+	<img class="sdg-image" src="/images/framework/cityinnature_01.jpg" alt="11 13 14" />
+	<img class="sdg-image" src="/images/framework/cityinnature_02.jpg" alt="15 17" />
+</div>
+
 <div style="background-color:#b2d4ce;">
-<ul><li><strong>(New)</strong> Develop over 130 ha of new parks, and enhance around 170 ha of existing parks with more lush vegetation and natural landscapes.</li></ul>
+<ul><li><strong>(New)</strong> Develop over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.</li></ul>
 </div>
 
 - Set aside 1000 hectares for green spaces, of which 200 hectares will be new **[nature parks](https://www.mnd.gov.sg/our-work/greening-our-home/greenery){:class="external-link" target="_blank"}**
