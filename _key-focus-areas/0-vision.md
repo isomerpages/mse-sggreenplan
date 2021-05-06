@@ -8,7 +8,7 @@ permalink: /key-focus-areas/vision/
 
 ![Sustainable Development](/images/framework/manifesto_sustainabledevelopment.jpg)
 
-Climate change is an existential threat of our times. It has brought rising sea levels and extreme weather patterns. Around the world, millions of lives and livelihoods are in danger. Singapore, as a low-lying island state, is particularly vulnerable.
+Climate change is an existential threat of our times. It has brought rising sea levels and extreme weather patterns. Around the world, millions of lives and livelihoods are in danger. Singapore, as a low-lying island state, is particularly vulnerable. Our weather is getting warmer, rainstorms heavier, and dry spells more pronounced.  Climate change can also disrupt global supply chains and threaten access to food, water and energy.
 
 Sustainable development is not new to Singapore. We embraced it decades before climate change became a critical global priority.
 
@@ -16,9 +16,9 @@ Today, Singapore is a City in a Garden, and is one of the greenest cities in the
 
 We knew public cleanliness and hygiene were important to prevent diseases in our hot and humid urban environment, and took tough measures to enforce them.
 
-We are the only country in the world to freeze the growth of the vehicle population. We are one of a few countries to have closed the water loop and to reuse every last drop of water repeatedly. We don&#39;t subsidise the use of fossil fuel, and we tax the emission of carbon.
+We are the only country in the world to freeze the growth of the vehicle population. We are one of a few countries to have closed the water loop and to reuse every last drop of water repeatedly. We do not subsidise the use of fossil fuel, and we tax the emission of carbon. Since the early 2000s, we have transitioned to natural gas, which is the cleanest form of fossil fuel for power generation. Today, about 95 per cent of our electricity is generated using natural gas. 
 
-We will build upon what we have already done and launch a sustainable development movement for a better and greener future. This will strengthen ongoing efforts to implement our commitments under the [United Nation&#39;s 2030 Sustainable Development Agenda](https://www.un.org/sustainabledevelopment/development-agenda/).
+We will build upon what we have already done and launch a sustainable development movement for a better and greener future. This will strengthen ongoing efforts to fulfil our obligations under the Paris Agreement and towards achieving the 2030 Agenda for Sustainable Development.
 
 We have put together a ten-year plan called the **Singapore Green Plan 2030**. The Green Plan is a whole-of-nation sustainable development agenda, with firm action plans, touching on almost every dimension of our lives.
 
@@ -30,7 +30,7 @@ We recognise our limitations and challenges. Being both a city and a nation, we 
 
 These make it extremely hard for us to achieve net zero emissions in the same way that bigger countries can pledge to do.
 
-However, just like the way we confronted many national challenges in the past, we can be pioneers in technological and policy solutions for sustainable development. We can be a living laboratory, which other cities around the world, facing similar challenges, can pick up ideas from. That way, we can punch above our weight, and have a positive environmental impact way beyond our shores.
+However, just like the way we confronted many national challenges in the past, we can be pioneers in technological and policy solutions for sustainable development. We can be a living laboratory, which other cities around the world, facing similar challenges, can pick up ideas from. That way, we can punch above our weight, and have a positive environmental impact way beyond our shores. For example, after several years of R&D and test-bedding, we are constructing one of the world’s largest floating solar systems at Tengeh reservoir, with a capacity of 60 megawatt-peak. When completed in 2021, the power generated from this system will be sufficient to power our local water treatment plants. This will make Singapore’s waterworks one of the very few in the world to go 100% green. 
 
 Depending on the results of our collective actions, as well as future development of carbon capture and sequestration technology and carbon markets, we will review our current carbon emission commitments and seek to achieve net zero emissions as soon as we can.
 
@@ -121,7 +121,7 @@ In 1965, shortly after Singapore became an independent nation, Mr Lee Kuan Yew s
 
 > Over 100 years ago, this was a mud-flat, swamp. Today, this is a modern city. Ten years from now, this will be a metropolis. Never fear.
 
-Having come from mudflats, to metropolis, we will turn our metropolis into a global city of sustainability. This metropolis of ours, will be a bright green spark, inspiring the world and our future generations. Let&#39;s work together for a brighter and greener future.
+Having advanced from mudflats, to metropolis, we will turn our metropolis into a global city of sustainability. This metropolis of ours, will be a bright green spark, inspiring the world and our future generations. Let&#39;s work together for a brighter and greener future.
 
 
 
