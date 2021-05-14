@@ -18,13 +18,13 @@ permalink: /key-focus-areas/city-in-nature/
 </div>
 
 <div style="background-color:#b2d4ce;">
-<ul><li><strong>(New)</strong> Develop over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.</li></ul>
+<ul><li><strong>(New)</strong> Add over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.</li></ul>
 </div>
 
-- Set aside 1000 hectares for green spaces, of which 200 hectares will be new **[nature parks](https://www.mnd.gov.sg/our-work/greening-our-home/greenery){:class="external-link" target="_blank"}**
+- Set aside 1000 more hectares for green spaces by 2035, including 200 ha of new **[nature parks](https://www.mnd.gov.sg/our-work/greening-our-home/greenery){:class="external-link" target="_blank"}** by 2030
 - Every household will live just a 10-minute walk from a park. 
-- **[One million more trees](https://www.nparks.gov.sg/treessg/one-million-trees-movement){:class="external-link" target="_blank"}** will be planted across our island, which will sequester another 78,000 tonnes of CO2, providing cleaner air and more shade.
-- Working with communities and NGOs to develop programmes to allow people and wildlife to live in harmony.
+- **[One million more trees](https://www.nparks.gov.sg/treessg/one-million-trees-movement){:class="external-link" target="_blank"}** will be planted across our island between 2020 and 2030, which will sequester another 78,000 tonnes of CO2, and provide cleaner air and more shade.
+- Work with communities and NGOs to develop programmes to allow people and wildlife to live in harmony.
 
 
 
