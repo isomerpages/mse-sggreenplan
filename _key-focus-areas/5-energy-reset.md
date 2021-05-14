@@ -18,11 +18,14 @@ permalink: /key-focus-areas/energy-reset/
 </div>
 
 **[Housing](https://www.mnd.gov.sg/our-work/greening-our-home/hdb-green-towns-programme){:class="external-link" target="_blank"}**
-- HDB towns will use 15% less energy through measures like the widespread use of smart LED lights and solar energy.
-- Beyond HDB towns, we will green 80% of all buildings over the next decade. 
+- Existing HDB towns will use 15% less energy through measures like the widespread use of smart LED lights and solar energy by 2030.
+- We are also designing our new HDB towns to be greener and more sustainable. For example, [Tengah](https://www.hdb.gov.sg/cs/infoweb/about-us/history/hdb-towns-your-home/tengah), Singapore’s newest HDB town and our first smart and sustainable town, will have a centralised cooling system, electric vehicle charging points, and extensive deployment of solar panels.
  
-**Buildings**
- - “80-80-80 in 2030” - Green 80% of Singapore’s buildings (by Gross Floor Area) by 2030, 80% of new buildings (by Gross Floor Area) to be SLE buildings from 2030, and best-in-class green buildings to see an 80% improvement in energy efficiency (over 2005 levels) by 2030
+**[Buildings](www1.bca.gov.sg/buildsg/sustainability/green-building-masterplans){:class="external-link" target="_blank"}**
+- “80-80-80 in 2030” Targets (4th Edition of Singapore Green Building Masterplan)
+- Green 80% of buildings by Gross Floor Area by 2030
+- (New) 80% of new developments to be Super Low Energy (SLE) buildings from 2030
+- (New) 80% improvement in energy efficiency over 2005 baseline for best-in-class green buildings by 2030
 
 
 **[Transport](https://www.mot.gov.sg/news-centre/news/Detail/written-reply-by-minister-for-transport-ong-ye-kung-to-parliamentary-question-on-update-on-plan-to-provide-28-000-electric-vehicle-charging-points-by-2030/){:class="external-link" target="_blank"}**
