@@ -4,15 +4,15 @@ title: Infographics
 permalink: "/resource-room/infographics"
 ---
 
-![cos overview](/resources/cos-sgp-infographics.png)  
+![cos overview](/images/resources/cos-sgp-infographics.png)  
 
 
-![overview](/resources/sgp_overview_p1.png)  
-
-
-
-![](/resources/sgp_overview_p2.png)  
+![overview](/images/resources/sgp_overview_p1.png)  
 
 
 
-![](/resources/sgp_actionables.jpg)  
+![](/images/resources/sgp_overview_p2.png)  
+
+
+
+![](/images/resources/sgp_actionables.jpg)  
