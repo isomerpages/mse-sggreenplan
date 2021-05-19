@@ -13,7 +13,7 @@ sections:
         #   description: Find out what ABC can do for you
           url: /cos/
     - infobar:
-        title: <a href="/cos"><img src="/resources/cos-sgp-infographics.png"></a>
+        title: <a href="/cos"><img src="/images/resources/cos-sgp-infographics.png"></a>
         description: <a href="/cos/#:~:text=Infographics">More Infographics</a>
     - infopic:
         title: What Is The Singapore Green Plan 2030?
