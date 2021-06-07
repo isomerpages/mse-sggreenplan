@@ -72,7 +72,7 @@ permalink: "/resource-room/2021-03-04-2-mti"
 
   c. Intense competition amongst the different gencos to sell electricity has led to electricity prices falling below the full cost of producing electricity. With your permission, Madam Chairperson, may I display one slide on the LCD screen please.
 
-![](/resources/mti-graph.png)  
+![](/images/resources/mti-graph.png)  
 
   d. Please take a look at the slide. As you can see, in red it represents the long run marginal cost of producing electricity – that is the true cost of what it takes to produce electricity today. The black line shows the current market spot price that fluctuates over the last many years. This is the result of overcapacity.
 
