@@ -1,9 +1,10 @@
 ---
 title: Energy Reset
-description: Cleaner and better use of energy is core to any plan to tackle climate change. Learn how we will increase our solar capacity, and our aim to shift from internal combustion engine vehicles to electric vehicles by 2040. 
+description: Cleaner and better use of energy is core to any plan to tackle
+  climate change. Learn how we will increase our solar capacity, and our aim to
+  shift from internal combustion engine vehicles to electric vehicles by 2040.
 permalink: /key-focus-areas/energy-reset/
 ---
-
 ### Energy Reset
 
 #### We will use cleaner energy and increase our energy efficiency to lower our carbon footprint. 
@@ -49,7 +50,7 @@ permalink: /key-focus-areas/energy-reset/
 To support the growth of electric vehicles (EVs), we will more than double our EV charging point target—from 28,000 to 60,000 by 2030. -->
 
 **Green Energy**
-- Our solar energy deployment will quadruple by 2025, including covering the rooftops of HDB blocks with solar panels. By 2030, solar energy deployed will be five times that of today, with at least 2 gigawatt-peak, capable of powering over 350,000 households a year. 
+- Our solar energy deployment will quadruple by 2025, including covering the rooftops of HDB blocks with solar panels. By 2030, solar energy deployed will be five times that of today, with at least 2 gigawatt-peak, capable of powering about 350,000 households a year. 
 - Tap green energy sources from the ASEAN region and beyond, through electricity imports
 - Increase efficiency with each new generation of gas-fired power plants to reduce emissions (such as through adopting new, advanced, combined-cycle gas turbines) 
 
