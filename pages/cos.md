@@ -1,9 +1,8 @@
 ---
-title: Joint Segment on Sustainability 
+title: Joint Segment on Sustainability
 permalink: /cos/
 ---
-
-![](../images/resources/cos-sgp-infographics.png) *[Download Infographic](../files/resources/cos-sgp-infographics.pdf)*
+![](../images/resources/cos-sgp-infographics.png) *[Download Infographic](../files/resources/sgp-cos-infographics.pdf)*
 
 
 ### **Speeches**
@@ -72,5 +71,4 @@ permalink: /cos/
 [Resilient Future 2](/images/resilient2.png){:class="external-link" target="_blank"}  
 [Resilient Future 3](/images/resilient3.png){:class="external-link" target="_blank"}  
 [Resilient Future 4](/images/resilient4.png){:class="external-link" target="_blank"}  
-[Resilient Future 5](/images/resilient5.png){:class="external-link" target="_blank"}  
-
+[Resilient Future 5](/images/resilient5.png){:class="external-link" target="_blank"}
