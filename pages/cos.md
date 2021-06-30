@@ -2,7 +2,7 @@
 title: Joint Segment on Sustainability
 permalink: /cos/
 ---
-![](../images/resources/cos-sgp-infographics.png) *[Download Infographic](../files/resources/sgp-cos-infographic.pdf)*
+![](../images/resources/cos-sgp-infographics.png) *[Download Infographic](../files/resources/sgp-cos-infographics.pdf)*
 
 
 ### **Speeches**
