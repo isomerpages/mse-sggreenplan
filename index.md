@@ -10,6 +10,7 @@ sections:
       background: /images/index/mse-global-city-of-sustainability.jpg
       key_highlights:
         - title: learn more about GreenGov.SG
+          description: ""
           url: /key-focus-areas/green-government/
   - infopic:
       title: What Is The Singapore Green Plan 2030?
