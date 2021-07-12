@@ -338,6 +338,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .external-link {
   color: #00725c !important;
+  text-decoration: none !important;  
   &:after{
     display: none !important;
   }
