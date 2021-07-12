@@ -92,5 +92,4 @@ sections:
       alt: Ministries
   - resources:
       title: Latest News
->>>>>>> 74599424363e660f8de49c361b88417e2345b9b8
 ---
