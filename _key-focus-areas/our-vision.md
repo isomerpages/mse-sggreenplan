@@ -1,9 +1,8 @@
 ---
 title: Our Vision
-description:  
+description: null
 permalink: /key-focus-areas/vision/
 ---
-
 **Sustainable Development – A Core Belief**
 
 ![Sustainable Development](/images/framework/manifesto_sustainabledevelopment.jpg)
@@ -49,7 +48,7 @@ Depending on the results of our collective actions, as well as future developmen
 	<div class="accordion-content">
 		Cleaner and better use of energy is core to any plan to tackle climate change.<br><br>
 		Geographical constraints limit our options for renewable energy. We do not have great rivers for hydro power. We have neither land nor sea space for large solar or wind farms. Despite these challenges, we will strive to use cleaner energy, and become more energy efficient.<br><br>
-		We have shifted to using natural gas, which is the cleanest fossil fuel. We will <b>quadruple our solar energy deployment by 2025, including covering the roof tops of</b> our <b>HDB</b> (public housing) <b>blocks with solar panels.</b> By 2030, solar energy deployed will be five times that of today. With at least 2 gigawatt-peak, it can power more than 350,000 households a year. We are also looking to <b>tap green energy sources from the ASEAN region and beyond</b>, through electricity imports and hydrogen.<br><br>
+		We have shifted to using natural gas, which is the cleanest fossil fuel. We will <b>quadruple our solar energy deployment by 2025, including covering the roof tops of</b> our <b>HDB</b> (public housing) <b>blocks with solar panels.</b> By 2030, solar energy deployed will be five times that of today. With at least 2 gigawatt-peak, it can power about 350,000 households a year. We are also looking to <b>tap green energy sources from the ASEAN region and beyond</b>, through electricity imports and hydrogen.<br><br>
 		We will invest in water research and development, to halve the energy required to produce desalinated water. By this year (2021), with floating solar panels on reservoirs, <b>all our local waterworks will be powered by solar energy.</b><b> Our waste treatment facilities, such as Tuas Nexus, will be energy-positive.</b><br><br>
 		Through measures like the widespread use of smart LED lights and solar energy, we can <b>use 15% less energy</b> in HDB towns by 2030. Beyond HDB towns, we will <b>green 80% of all buildings</b> over the next decade.<br><br>
 		We will develop <b>eco-friendly districts</b> as demonstration projects that we can scale up. Jurong Lake District will be a model sustainable mixed-use district, with district cooling, solar power deployment and super low-energy buildings.<br><br>
