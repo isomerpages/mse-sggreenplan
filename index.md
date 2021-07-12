@@ -9,12 +9,12 @@ sections:
         title: Introducing<br/>The Green Plan
         background: /images/index/mse-global-city-of-sustainability.jpg
         key_highlights:
-        - title: Joint Segment on Sustainability (Committee of Supply 2021)
+        - title: LEARN MORE ABOUT GREENGOV.SG
         #   description: Find out what ABC can do for you
-          url: /cos/
-    - infobar:
-        title: <a href="/cos"><img src="/images/resources/cos-sgp-infographics.png"></a>
-        description: <a href="/cos/#:~:text=Infographics">More Infographics</a>
+          url: /key-focus-areas/green-government/
+    # - infobar:
+    #     title: <a href="/cos"><img src="/images/resources/cos-sgp-infographics.png"></a>
+    #     description: <a href="/cos/#:~:text=Infographics">More Infographics</a>
     - infopic:
         title: What Is The Singapore Green Plan 2030?
         description: </p><p>The Singapore Green Plan 2030, or the Green Plan, is a whole-of-nation movement to advance Singapore’s national agenda on sustainable development.</p><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/oNFeOl7pW9s?rel=0&autoplay=1&mute=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p class="mse-none">
