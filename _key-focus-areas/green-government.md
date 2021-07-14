@@ -23,7 +23,7 @@ a) **Excel** with new and more ambitious targets:
 
 - The public sector aims to peak its carbon emissions around 2025, ahead of the national target.
 
-- By 2030, the public sector aims to reduce energy1 and water2 use by 10 per cent from the average of 2018 - 2020 levels, and to reduce the amount of waste disposed3 by 30 per cent from 2022 levels.4
+- By 2030, the public sector aims to reduce energy<sup>1</sup> and water<sup>2</sup> use by 10 per cent from the average of 2018 - 2020 levels, and to reduce the amount of waste disposed<sup>3</sup> by 30 per cent from 2022 levels.<sup>4</sup>    
 
 - The public sector will set targets for buildings, information technology, transport, and solar deployment that are more ambitious than the national targets.
 
@@ -65,6 +65,11 @@ While the public sector is taking the lead, achieving our goal of sustainable de
 As part of the Green Plan, GreenGov.SG is a living plan. We will continue to refresh the specific targets, strategies and initiatives over time, as new opportunities avail themselves. More details on GreenGov.SG will be released over the course of the year. 
 
 <!-- ![](/images/cosgreengov.jpg) -->
+
+<sup>1</sup> *Energy used per unit area.*<br>
+<sup>2</sup> *Water used per person per day.*<br>
+<sup>3</sup> *Waste disposed of per person per day.*<br>
+<sup>4</sup> *The baseline for energy and water takes into account operations under pandemic circumstances, while the baseline for waste is aligned with the timeline to implement standardised waste measurement for all public waste collection contracts.*<br>
 
 
 **In support of SDGs:**
