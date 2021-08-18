@@ -20,7 +20,7 @@ permalink: /key-focus-areas/resilient-future/
 - Against rising sea levels, we are developing new solutions and a better understanding of our coastlines.
 - We will put in place the defences to protect our coastlines along East Coast, Lim Chu Kang, Sungei Kadut, and around Jurong Island. 
 - Urban heat is all around us, for example, the kind that you feel while standing behind an air-conditioner. We will moderate rise in urban heat by increasing greenery and piloting the use of cool paint on building facades.
-- Our **[30-by-30 target](https://www.sfa.gov.sg/food-farming){:class="external-link" target="_blank"}** aims to produce 30% of our nutritional needs by 2030 locally.
+- Develop the capability and capacity of our local agri-food industry to produce **[30% of our nutritional needs](https://www.sfa.gov.sg/food-farming){:class="external-link" target="_blank"}** locally and sustainably by 2030
 
 <!-- #### The United Nations Sustainable Development Goals (SDGs)
 
