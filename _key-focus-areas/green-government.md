@@ -1,10 +1,8 @@
 ---
 title: Green Government
-description: 
+description: null
 permalink: /key-focus-areas/green-government/
 ---
-
-
 <img src="../../images/greengovlogo1.png" style="max-width:30vw;">
 
 #### The public sector will lead the way to pursue sustainable development with the **GreenGov.SG** initiative. 
@@ -44,7 +42,7 @@ c) **Excite** public officers to contribute actively to sustainability in Singap
 - We will organise campaigns to raise awareness and encourage public officers to take simple steps to lead a more sustainable lifestyle.
 
 
-![](/images/greengov-infographic.jpg)
+![](/images/greengov-infographic.png)
 
 
 As we embark on GreenGov.SG, the public sector will look to private sector leaders in the sustainability space, for innovations, best practices, and partnerships. Please refer to our [media release](../../resource-room/category/2021-07-12-press-release-on-greengov) for more details.
