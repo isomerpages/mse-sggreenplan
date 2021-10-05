@@ -1,9 +1,10 @@
 ---
 title: Green Economy
-description: Learn how the Singapore Green Plan 2030 will make sustainability a key competitive advantage for us, and present new opportunities for growth and job creation.
+description: Learn how the Singapore Green Plan 2030 will make sustainability a
+  key competitive advantage for us, and present new opportunities for growth and
+  job creation.
 permalink: /key-focus-areas/green-economy/
 ---
-
 ### Green Economy
 
 #### We will seek green growth to create new jobs, transform our industries and harness sustainability as a competitive advantage.
@@ -33,7 +34,7 @@ Projected to be a multi-billion dollar industry, this includes green finance, su
 We are promoting homegrown innovation under RIE 2025, and attracting companies to anchor their R&D activities in Singapore to develop new sustainability solutions in areas such as carbon capture, utilisation and storage, low-carbon hydrogen, energy efficient materials, and solutions for the circular economy, amongst others. Jurong Island will be a model for the adoption of such solutions as it transforms into a sustainable energy and chemicals park.
 
 **Enterprise Sustainability Programme**  
-This programme will help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area. 
+The [Enterprise Sustainability Programme](https://www.enterprisesg.gov.sg/ESP) (ESP) aims to support Singapore businesses on sustainability initiatives, and to capture new opportunities in the green economy.
 
 <blockquote>
   <p>As sustainability grows in importance, and consumers pivot towards greener and more sustainable products and services, it can become a key competitive advantage for us, and present new opportunities for growth and job creation.</p>
