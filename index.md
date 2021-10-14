@@ -6,7 +6,7 @@ description: Learn how Singapore will transform into a global city of
 permalink: /
 sections:
   - hero:
-      title: Introducing<br/>The Green Plan
+      title: A City of <br/>Green Possibilites
       background: /images/index/14-oct-masthead.jpg
       key_highlights:
         # - title: learn more about GreenGov.SG
