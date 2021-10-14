@@ -7,7 +7,7 @@ permalink: /
 sections:
   - hero:
       title: Introducing<br/>The Green Plan
-      background: /images/index/mse-global-city-of-sustainability.jpg
+      background: /images/index/14-oct-masthead.jpg
       key_highlights:
         # - title: learn more about GreenGov.SG
         #   description: ""
