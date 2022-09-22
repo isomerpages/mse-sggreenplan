@@ -19,7 +19,7 @@ colors:
       color: '#0d67b1'
 
 
-resources_name: resources
+resources_name: news
 google_analytics: UA-183999332-2
 shareicon: /images/sharing.jpg
 
