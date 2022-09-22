@@ -7,13 +7,15 @@
 logo: /images/logo_sog.png
 
 links:
+  - title: About
+    collection: about
   - title: Key Focus Areas
     collection: key-focus-areas
   - title: Take Action
     collection: take-action
   - title: Resources
     url: /resources
-  - title: Contact Us
-    url: /contact-us
   - title: new resources
     collection: resources-new
+  - title: Contact Us
+    url: /contact-us
