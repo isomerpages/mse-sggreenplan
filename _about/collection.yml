@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - overview.md
-      - keyvision.md
-      - ourtargets.md
+      - vision.md
+      - targets.md
       - globalcommitment.md
