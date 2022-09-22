@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech by Minister Ong Ye Kung: A New Drive"
-permalink: "/resource-room/2021-03-04-mot"
+permalink: "/news/speeches/2021-03-04-mot"
 ---
 
 **Joint segment on Sustainability at MSE&#39;s COS Debates 2021 – Speech by Mr Ong Ye Kung, Minister for Transport**
