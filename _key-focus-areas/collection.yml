@@ -2,8 +2,6 @@ collections:
   key-focus-areas:
     output: true
     order:
-      - our-targets.md
-      - our-global-commitment.md
       - city-in-nature.md
       - energy-reset.md
       - green-economy.md
