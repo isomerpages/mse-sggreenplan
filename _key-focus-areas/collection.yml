@@ -2,12 +2,11 @@ collections:
   key-focus-areas:
     output: true
     order:
-      - our-vision.md
       - our-targets.md
       - our-global-commitment.md
-      - green-government.md
       - city-in-nature.md
       - energy-reset.md
       - green-economy.md
       - resilient-future.md
       - sustainable-living.md
+      - green-government.md
