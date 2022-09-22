@@ -1,6 +1,0 @@
-collections:
-  resources-new:
-    output: true
-    order:
-      - videos.md
-      - infographics.md
