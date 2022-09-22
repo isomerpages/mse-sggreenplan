@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech by Minister Tan See Leng: Energy Reset"
-permalink: "/resource-room/2021-03-04-2-mti"
+permalink: "/news/speeches/2021-03-04-2-mti"
 ---
 
 **Joint Segment On Sustainability at MSE&#39;s COS Debates 2021 – Speech By Second Minister for Trade and Industry Mr Tan See Leng: Energy Reset**
