@@ -1,1 +1,8 @@
-
+collections:
+  about:
+    output: true
+    order:
+      - overview.md
+      - keyvision.md
+      - ourtargets.md
+      - globalcommitment.md
