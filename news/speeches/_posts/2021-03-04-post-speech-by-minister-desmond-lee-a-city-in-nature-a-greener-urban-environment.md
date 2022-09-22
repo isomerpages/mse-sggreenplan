@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech by Minister Desmond Lee: A City in Nature, a Greener Urban Environment"
-permalink: "/resource-room/2021-03-04-mnd"
+permalink: "/news/speeches/2021-03-04-mnd"
 ---
 
 **Joint Segment On Sustainability at MSE&#39;s COS Debates 2021 – Speech By Minister for National Development Mr Desmond Lee**
