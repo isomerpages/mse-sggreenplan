@@ -1,5 +1,5 @@
 ---
-title: Vision
+title: Our Vision
 description: Our Singapore Green Plan Vision
 permalink: /vision
 ---
