@@ -13,9 +13,7 @@ links:
     collection: key-focus-areas
   - title: Take Action
     collection: take-action
-  - title: Latest News 2
-    url: /resources
-  - title: new resources
+  - title: Resources
     collection: resources-new
   - title: Contact Us
     url: /contact-us
