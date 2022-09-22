@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech by Minister Lawrence Wong: Nurturing Stewards of the Environment"
-permalink: "/resource-room/2021-03-04-moe"
+permalink: "/news/speeches/2021-03-04-moe"
 ---
 
 **Joint Segment On Sustainability at MSE&#39;s COS Debates 2021 – Speech By Minister for Education Lawrence Wong**
