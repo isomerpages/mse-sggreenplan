@@ -15,3 +15,5 @@ links:
     url: /resources
   - title: Contact Us
     url: /contact-us
+  - title: new resources
+    collection: resources-new
