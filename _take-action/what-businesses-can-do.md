@@ -1,5 +1,5 @@
 ---
-title: What Businesses Can Do
+title: For Organisations
 description: Sustainability will be a key competitive advantage for Singapore, and present new growth opportunities for businesses as we develop our Green Economy. Learn more about what businesses can do. 
 permalink: /take-action/what-businesses-can-do/
 ---
