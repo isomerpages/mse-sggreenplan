@@ -70,9 +70,9 @@ This conversation, co-organised by the National Youth Council (NYC) and National
 ![Conversations](/images/conversations-nycbold.png)
 
 ### Inaugural Green Plan Conversation (24 April 2021)
+<img src="/images/conversations-inaugural.jpg" alt="Green Plan Conversations" align="right" width="30%">
 The inaugural Green Plan conversation kicked off on 24 April and was hosted by Minister for Sustainability and the Environment, Ms Grace Fu, and Minister of State for Sustainability and the Environment, Mr Desmond Tan, together with Senior Minister of State for Sustainability and the Environment and Transport Dr Amy Khor, Minister of State for Education, Ms Gan Siow Huang and Minister of State for National Development, Mr Tan Kiat How.
 
 Over 60 people from all walks of life joined the session over Zoom to share their views on the Green Plan, and how we can work together to pursue our sustainability goals while taking into account Singapore's context.
 
-![Conversations](/images/conversations-inaugural.jpg)
 
