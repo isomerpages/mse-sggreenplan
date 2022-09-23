@@ -47,13 +47,18 @@ The [Enterprise Sustainability Programme](https://www.enterprisesg.gov.sg/non-fi
 #### Energy Efficiency Fund
 The [Energy Efficiency Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-fund) supports efforts of businesses with industrial facilities to improve energy efficiency (EE). Encourage investors of new industrial facilities or major expansions in Singapore to integrate resource efficiency improvements into manufacturing facility development plans early in the design stage.
 
-
 #### Water Efficiency Fund
 PUB's [Water Efficiency Fund](https://www.pub.gov.sg/savewater/atwork/efficiencymeasures) encourages organizations to seek out efficient and innovative ways to manage their water demand. From companies intending to conduct water efficiency assessment to identify potential areas to improve water efficiency in their premises, to companies that are exploring feasibility of recycling projects and, companies who would like to implement recycling projects or adopt water efficient equipment, the funding categories would cover all stages from exploratory to actual implementation and co-fund projects that would enable companies to conserve water and improve water efficiency in their premises.
 
+#### Skyrise Greenery Incentive Scheme (SGIS) 2.0
+To increase greenery provision in Singapore, the National Parks Board introduced the [Skyrise Greenery Incentive Scheme](https://www.nparks.gov.sg/skyrisegreenery/incentive-scheme) where the agency will fund up to 50% of installation costs of rooftop greenery and vertical greenery. SGIS 2.0 is the enhanced version of the incentive scheme which features a revised maximum cap for both rooftop greenery and vertical greenery. 
+
+#### Building Retrofit Energy Efficiency Financing (BREEF) scheme
+The [BREEF](https://www1.bca.gov.sg/buildsg/sustainability/green-mark-incentive-schemes/building-retrofit-energy-efficiency-financing-breef-scheme)
+ scheme, facilitated by BCA and participating financial institutions, offer financing to pay the upfront costs of energy retrofits of existing buildings, through an energy performance contract arrangement. BREEF can cover the cost of equipment, installation and professional fees.
+
 #### Sustainable Bond Grant Scheme
 The Monetary Authority of Singapore (MAS)'s [Sustainable Bond Grant Scheme](https://www.mas.gov.sg/schemes-and-initiatives/sustainable-bond-grant-scheme) encourages the issuance of green, social, sustainability and sustainability-linked bonds in Singapore and is open to first-time and repeat issuers. 
-
 
 
 # Industry-specific
@@ -61,5 +66,24 @@ The Monetary Authority of Singapore (MAS)'s [Sustainable Bond Grant Scheme](http
 #### Agri-food Cluster Transformation (ACT) Fund
 The [Agri-food Cluster Transformation (ACT) Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund) supports local farmers in their efforts to expand production capability, boost yield, raise productivity, sustainability and improve circularity of resource use.
 
+#### Maritime Singapore Green Initiative (MSGI)
+The [Maritime Singapore Green Initiative](https://www.mpa.gov.sg/web/portal/home/maritime-singapore/green-efforts/maritime-singapore-green-initiative)
+ seeks to reduce the environmental impact of shipping and related activities and to promote clean and green shipping in Singapore. In 2011, the Maritime and Port Authority of Singapore (MPA) pledged to invest up to S$100 million over 5 years in the Maritime Singapore Green Initiative.
+
+
+# R&D
+
+#### Built Environment Accelerate to Market Programme
+The [Built Environment Accelerate to Market Programme](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/built-environment-accelerate-to-market-programme)was set up to bring inventors and companies together to fast-track the innovation process to solve real world industry challenges. 
+
+#### Cities of Tomorrow Research and Development (R&D) Programme (CoT)
+The [Cities of Tomorrow R&D Programme (CoT)](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/cities-of-tomorrow-cot-r-d-programme)
+ is a multi-agency effort led by Ministry of National Development (MND) to identify challenges that cities face and develop R&D solutions to address the challenges. A total of $150 million in funding has been set aside for CoT from the $900 million allocated to the Urban Solutions and Sustainability (USS) domain under the Research, Innovation and Enterprise 2020 (RIE2020).
+ 
+#### Low Carbon Energy Research Funding Initiative
+The [LCER FI](https://www.a-star.edu.sg/Research/funding-opportunities/lcer-fi-grant) aims to develop low-carbon energy technologies in the domains of hydrogen and carbon capture, utilisation, and storage (CCUS), to support the decarbonisation of the power and industry sectors. Technologies should be cost-effective and deliver carbon abatement for Singapore, with the intention to be commercialised/deployed beyond the project timeline.
+
+### Waste to Energy (WTE) Test-bedding & Demonstration Funding Initiative
+The [Waste-to-Energy (WTE) Test-bedding and Demonstration Funding Initiative](https://www.nea.gov.sg/programmes-grants/grants-and-awards/wte-testbed-demo-initiative) aims to incentivise industry and IHLs to collaborate and translate their R&D outcomes into pilot scale or demonstration projects.  Applicants may select any suitable premises to test-bed or demonstrate their WTE technologies. NEA encourages applicants to tap on the plug-and-play features of the recently completed Nanyang Technological University’s (NTU) WTE Research Facility (WTERF), which is co-developed and co-funded by NEA.
 
 
