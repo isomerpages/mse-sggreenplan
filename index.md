@@ -54,7 +54,7 @@ sections:
         src="/images/index/impacts-of-climate-change.jpg" alt="Impact" /><p
         class="mse-none">
       button: View more
-      url: /key-focus-areas/our-targets/
+      url: /targets/
       image: /images/index/impacts-of-climate-change.jpg
       alt: Impact
   - infopic:
@@ -66,7 +66,7 @@ sections:
         src="/images/index/about-sgp30.jpg" alt="About Green Plan" /><p
         class="mse-none">
       button: Find out more
-      url: /key-focus-areas/vision/
+      url: /key-focus-areas/
       image: /images/index/about-sgp30.jpg
       alt: About Green Plan
   - infopic:
