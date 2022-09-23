@@ -4,7 +4,7 @@ description: Infographics about the Singapore Green Plan
 permalink: /infographics
 ---
 
-### 2021 
+### 2022 
 
 ![](/images/infographics/cos2022_1.jpg)  
 
