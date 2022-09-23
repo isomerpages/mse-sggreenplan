@@ -45,7 +45,8 @@ c) **Excite** public officers to contribute actively to sustainability in Singap
 ![](/images/greengov-infographic.png)
 
 
-As we embark on GreenGov.SG, the public sector will look to private sector leaders in the sustainability space, for innovations, best practices, and partnerships. Please refer to our [media release](../../resource-room/category/2021-07-12-press-release-on-greengov) for more details.
+As we embark on GreenGov.SG, the public sector will look to private sector leaders in the sustainability space, for innovations, best practices, and partnerships.
+
 
 <!-- 
 **The public service will undergo four key shifts under GreenGov.SG:**
@@ -60,7 +61,8 @@ As we embark on GreenGov.SG, the public sector will look to private sector leade
 
 While the public sector is taking the lead, achieving our goal of sustainable development is a whole-of-nation endeavour. With the refreshed GreenGov.SG initiative, the Government hopes to inspire our people and partners to embrace green practices and make sustainability a way of life. Together, we can chart our way towards a low-carbon and sustainable future for Singapore. 
 
-As part of the Green Plan, GreenGov.SG is a living plan. We will continue to refresh the specific targets, strategies and initiatives over time, as new opportunities avail themselves. More details on GreenGov.SG will be released over the course of the year. 
+As part of the Green Plan, GreenGov.SG is a living plan. We will continue to refresh the specific targets, strategies and initiatives over time, as new opportunities avail themselves. 
+
 
 <!-- ![](/images/cosgreengov.jpg) -->
 
