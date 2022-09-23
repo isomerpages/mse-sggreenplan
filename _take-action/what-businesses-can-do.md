@@ -14,9 +14,8 @@ permalink: /take-action/what-businesses-can-do/
 #### Integrate sustainability into business decisions
 Whether you are [organising an event](https://www.mse.gov.sg/resources/environmentally-friendly-events-guidelines.pdf), procuring goods and services, or redesigning the way your business operates, you can include sustainability considerations in many of your business decisions. To see long-term success, businesses can also set concrete sustainability targets and decarbonise your operations and supply chains.
 
-#### Find more sustainable ways to operate and embrace green opportunities.
+#### Find more sustainable ways to operate and embrace green opportunities
 Businesses can pursue innovative solutions for sustainability, and invest in greener products and services. Such endeavours not only accelerates Singapore’s transition to a low-carbon economy while creating exciting new opportunities, businesses that lead the way by providing greener products and services earlier can gain a competitive advantage, given the growing global demand in this area. 
 
-#### Leverage their sphere of influence to help their sector make the green transition quickly.
+#### Leverage their sphere of influence to help their sector make the green transition quickly
 Large businesses have the ability to rally their industry partners and suppliers to adopt greener practices. Businesses that are ahead on the sustainability journey can also lead capability building efforts for SMEs in their respective fields. At the same time, businesses can introduce initiatives to engage their employees and customers on sustainability topics. By closely engaging their broad range of stakeholders, businesses can play a pivotal role in steering Singapore’s transition to a greener economy.
-
