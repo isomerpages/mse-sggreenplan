@@ -9,6 +9,9 @@ permalink: /take-action/what-you-can-do/
 
 ![What You Can Do](/images/greenplan/gp_individual.jpg)
 
+![What You Can Do](/images/icons/carrot.svg)
+
+
 #### Start Changing Some Personal Habits
 Reduce, reuse, recycle. No action is too small to adopt. We have got [10 easy tips](https://www.mse.gov.sg/take-action/individuals) laid out to get you started.
   
