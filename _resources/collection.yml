@@ -1,5 +1,5 @@
 collections:
-  resources-new:
+  resources:
     output: true
     order:
       - videos.md
