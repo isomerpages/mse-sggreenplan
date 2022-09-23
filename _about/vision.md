@@ -4,7 +4,7 @@ description: Our Singapore Green Plan Vision
 permalink: /vision
 ---
 
-**Sustainable Development – A Core Belief**
+### Sustainable Development – A Core Belief
 
 ![Sustainable Development](/images/framework/manifesto_sustainabledevelopment.jpg)
 
