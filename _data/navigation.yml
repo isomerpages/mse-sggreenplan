@@ -16,6 +16,6 @@ links:
   - title: Latest News
     resource_room: true    
   - title: Resources
-    collection: resources-new    
+    collection: resources    
   - title: Contact Us
     url: /contact-us
