@@ -4,7 +4,7 @@ description: Our Singapore Green Plan 2030 Targets
 permalink: /targets
 ---
 
-#### Our Key Targets for the Green Plan
+### Our Key Targets for the Green Plan
 
 <div style="background-color:#b2d4ce;">
 <em><p>New targets announced at the <a href="/cos">Joint Segment on Sustainability</a> (Committee of Supply 2021):</p></em>
