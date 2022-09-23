@@ -19,7 +19,7 @@ As part of this national engagement process, we have been organising a series of
 ### Singapore Green Plan Conversation on Energy Reset (9 April 2022)
 Senior Minister of State Amy Khor hosted MOT and LTA's third and final virtual Green Plan Conversation on 9 April 2022, focusing on the topic of electric vehicles (EVs) under the Energy Reset pillar. Close to 50 participants, comprising motorists, EV drivers, EV enthusiasts and public transport users shared their views and ideas about Singapore's EV transition, charging infrastructure and experience.
 
-Participants explored attitudes and barriers to EV adoption, including the potential trade-offs and decision points. They candidly exchanged concerns on charging access and range anxiety, and also heard from those with EV experiences overseas. It was reassuring to note the large-scale deployment of charging points where drivers can look forward to having 3 to 12 access points in each HDB carpark by 2025. Participants further brainstormed on ways to foster gracious EV charging etiquette, such as incentivising moving vehicles at 80% charge, public education, facilitating time slot reservations, and having alerts and penalties for idle charging. Non-EV drivers also shared the importance of keeping electric public buses and PHC services affordable and accessible.
+Participants explored attitudes and barriers to EV adoption, including the potential trade-offs and decision points. They candidly exchanged concerns on charging access and range anxiety, and also heard from those with EV experiences overseas. Participants further brainstormed on ways to foster gracious EV charging etiquette, such as incentivising moving vehicles at 80% charge, public education, facilitating time slot reservations, and having alerts and penalties for idle charging. Non-EV drivers also shared the importance of keeping electric public buses and PHC services affordable and accessible.
 
 ![Conversations](/images/conversations-energy-reset.jpg)
 
@@ -43,15 +43,7 @@ Through the Conversation, we sought suggestions from the youths on how we can bu
 ![Conversations](/images/conversations-green-commute2.jpg)
 
 ### Is The SG Green Plan 2030 Bold Enough – What More Can We Do (24 October 2021)
-This Conversation, organised by the NYC was held on 24 October 2021 via Zoom, involving 84 youths from NUS, Nanyang Technological University, Singapore Management University, Singapore Institute of Technology, Singapore University of Technology and Design, Singapore University of Social Sciences and Singapore Institute of Management and the following Political Office Holder and invited speakers:
-
-Mr Alvin Tan – Minister of State (MOS) for Culture, Community and Youth & Trade and Industry
-Ms Melissa Low – NYC Council Member and Research Fellow, Energy Studies Institute
-Dr Tricia Seow – Senior Lecturer, Humanities and Social Studies Education, National Institute of Education
-Ms Nor Lastrina Hamid – Co-founder, Singapore Youth for Climate Action
-Ms Danielle Zheng – Deputy Director, Environment Policy, Ministry of Sustainability and the Environment,
-Ms Eleanor Koh – Assistant Director, Environment Policy, Ministry of Sustainability and the Environment
-
+This Conversation, organised by the National Youth Council, involved 84 youths from NUS, Nanyang Technological University, Singapore Management University, Singapore Institute of Technology, Singapore University of Technology and Design, Singapore University of Social Sciences and Singapore Institute of Management.
 ![Conversations](/images/conversations-what-more-youths.jpg)
 
 ### Ministry for Trade and Industry (MTI) Green Plan Conversation (19 October 2021)
