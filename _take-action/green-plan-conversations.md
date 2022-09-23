@@ -67,7 +67,7 @@ This conversation, co-organised by the National Youth Council (NYC) and Institut
 ### Is the SG Green Plan 2030 Bold Enough – What More Can We Do (16 July 2021)
 This conversation, co-organised by the National Youth Council (NYC) and National University of Singapore (NUS), was held on 16 July 2021 via Zoom, involving 90 youths from NUS.
 
-![Conversations](/images/conversations-nycbold.jpg)
+![Conversations](/images/conversations-nycbold.png)
 
 ### Inaugural Green Plan Conversation (24 April 2021)
 The inaugural Green Plan conversation kicked off on 24 April and was hosted by Minister for Sustainability and the Environment, Ms Grace Fu, and Minister of State for Sustainability and the Environment, Mr Desmond Tan, together with Senior Minister of State for Sustainability and the Environment and Transport Dr Amy Khor, Minister of State for Education, Ms Gan Siow Huang and Minister of State for National Development, Mr Tan Kiat How.
