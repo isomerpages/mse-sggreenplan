@@ -9,9 +9,7 @@ permalink: /key-focus-areas/green-government/
 
 Formerly known as the Public Sector Taking the Lead in Environmental Sustainability (PSTLES) initiative, the GreenGov.SG initiative forms a component and enabler of the Singapore Green Plan 2030. 
 
-Introduced in 2006, the PSTLES initiative was aimed at improving resource efficiency within the public sector. In 2014, PSTLES 2.0 was enhanced to focus on sustainability outcomes and put in place organisational processes to manage resource use.
-
-This year, in line with the objectives of the Green Plan, PSTLES has been refreshed and renamed as GreenGov.SG. The name “GreenGov.SG” reflects the cross-cutting role of the Government in supporting the national sustainability agenda mapped out in the Green Plan. 
+The name “GreenGov.SG” reflects the cross-cutting role of the Government in supporting the national sustainability agenda mapped out in the Green Plan. 
 
 Under GreenGov.SG, the public sector will strive to attain ambitious sustainability targets in carbon abatement and resource efficiency, and be a positive influence and enabler of green efforts. Every public officer will be encouraged and supported to embrace sustainable practices.
 
