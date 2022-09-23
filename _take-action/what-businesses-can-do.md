@@ -8,35 +8,15 @@ permalink: /take-action/what-businesses-can-do/
 
 ![The Green Plan For Businesses](/images/greenplan/gp_business.jpg)
 
-Adopt Environmentally Friendly Habits
-Environmentally-friendly actions can start small. Consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference.
+#### Adopt Environmentally Friendly Habits
+[Environmentally-friendly actions](https://www.mse.gov.sg/take-action/organisations/) can start small. Consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference. You can also apply for [funding](/funding) to get started on your sustainability journey. 
 
-Integrate sustainability into their business decisions
+#### Integrate sustainability into business decisions
+Whether you are [organising an event](https://www.mse.gov.sg/resources/environmentally-friendly-events-guidelines.pdf), procuring goods and services, or redesigning the way your business operates, you can include sustainability considerations in many of your business decisions. To see long-term success, businesses can also set concrete sustainability targets and decarbonise your operations and supply chains.
 
-Empowering Businesses
+#### Find more sustainable ways to operate and embrace green opportunities.
+Businesses can pursue innovative solutions for sustainability, and invest in greener products and services. Such endeavours not only accelerates Singapore’s transition to a low-carbon economy while creating exciting new opportunities, businesses that lead the way by providing greener products and services earlier can gain a competitive advantage, given the growing global demand in this area. 
 
-The government is proactively seeking feedback from businesses to continuously improve our rules and licensing framework, speed up processes and facilitate new business ideas.
+#### Leverage their sphere of influence to help their sector make the green transition quickly.
+Large businesses have the ability to rally their industry partners and suppliers to adopt greener practices. Businesses that are ahead on the sustainability journey can also lead capability building efforts for SMEs in their respective fields. At the same time, businesses can introduce initiatives to engage their employees and customers on sustainability topics. By closely engaging their broad range of stakeholders, businesses can play a pivotal role in steering Singapore’s transition to a greener economy.
 
-Green Finance Masterplan
-
-By building up financial system resilience to environmental risks, developing green finance solutions and markets, and leveraging innovation and technology, we can become a leading centre for Green Finance in Asia, and around the world.
-
-Apply for the SG Eco Fund
-
-This $50 million fund was set up to support projects that improve and advance environmental sustainability in Singapore.
-
-Green Procurement
-
-Make sustainability a consideration in your procurement decisions. For example, public sector agencies have adopted green procurement requirements under the GreenGov.SG movement.
-
-Green and Sustainability-Linked Loan Grant Scheme (GSLS)
-
-The first of its kind globally, the GSLS seeks to support corporates of all sizes to obtain green and sustainable financing.
-
-Research, Innovation and Enterprise (RIE) 2025
-
-We are promoting homegrown innovation under RIE 2025, and attracting companies to anchor their R&D activities in Singapore to develop new sustainability solutions such as carbon capture, utilisation and storage, low-carbon hydrogen, energy efficient materials, and solutions for the circular economy, amongst others.
-
-BCA Green Mark
-
-The BCA Green Mark Scheme is an initiative to create a more sustainable built environment in Singapore by promoting sustainable design, construction and operating practices in buildings.
