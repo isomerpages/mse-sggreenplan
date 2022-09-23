@@ -11,7 +11,9 @@ permalink: /take-action/what-you-can-do/
 
 <table>
   <tr>
-    <td>Start Changing Some Personal Habits</td>
-    <td>Reduce, reuse, recycle. No action is too small to adopt. We have got 10 easy tips laid out to get you started.</td>
+    <td><img src="/images/icon1.png" alt="icons"></td>
+    <td>
+      <h6>Start Changing Some Personal Habits</h6>
+      <p>Reduce, reuse, recycle. No action is too small to adopt. We have got 10 easy tips laid out to get you started.</p></td>
   </tr>
   </table>
