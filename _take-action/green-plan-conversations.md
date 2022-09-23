@@ -39,7 +39,6 @@ Senior Parliamentary Secretary for Transport Mr Baey Yam Keng hosted MOT and LTA
 
 Through the Conversation, we sought suggestions from the youths on how we can build a gracious commuting culture together, and how we can mobilise youths to change their commuting behaviours and advocate green commuting among their families and peers.
 
-![Conversations](/images/conversations-green-commute.jpg)
 ![Conversations](/images/conversations-green-commute2.jpg)
 
 ### Is The SG Green Plan 2030 Bold Enough – What More Can We Do (24 October 2021)
@@ -52,3 +51,28 @@ Minister for Trade and Industry Mr Gan Kim Yong, together with Ministers of Stat
 The green economy presents new opportunities for Singapore, and the Government will help existing sectors to transform and decarbonise. We will also grow new sectors and develop our workforce. In addition, we will take steps to use cleaner energy sources across all sectors, and transform the way we produce energy.  The Conversation provided an important and added opportunity for stakeholders to engage with one another, and explore new possibilities for our green journey ahead.
 
 ![Conversations](/images/conversations-green-economy.jpg)
+
+### Ministry of Transport (MOT) and Land Transport Authority’s (LTA) Inaugural Green Plan Conversation (7 September 2021)
+SMS Amy Khor hosted MOT and LTA’s inaugural Green Plan Conversation with 30 members of the public on 7 September 2021 via Zoom. The Conversation saw robust discussions on how the adoption of greener commutes can be encouraged to collectively reduce our carbon footprint.
+
+The Conversation explored participants’ motivations and willingness to switch to public transport and active mobility modes, as well as their receptivity to vehicle electrification. The ideas and suggestions gathered from the session will allow us to shape Singapore’s land transport sector into a greener one.
+
+![Conversations](/images/conversations-mot.jpg)
+
+### What is Sustainable Living and Why it Matters to You and I (24 August 2021)
+This conversation, co-organised by the National Youth Council (NYC) and Institute of Technical Education (ITE) College Central, was held on 24 August 2021 via Zoom, involving close to 40 youths from ITE College Central.
+
+![Conversations](/images/conversations-nycite.jpg)
+
+### Is the SG Green Plan 2030 Bold Enough – What More Can We Do (16 July 2021)
+This conversation, co-organised by the National Youth Council (NYC) and National University of Singapore (NUS), was held on 16 July 2021 via Zoom, involving 90 youths from NUS.
+
+![Conversations](/images/conversations-nycbold.jpg)
+
+### Inaugural Green Plan Conversation (24 April 2021)
+The inaugural Green Plan conversation kicked off on 24 April and was hosted by Minister for Sustainability and the Environment, Ms Grace Fu, and Minister of State for Sustainability and the Environment, Mr Desmond Tan, together with Senior Minister of State for Sustainability and the Environment and Transport Dr Amy Khor, Minister of State for Education, Ms Gan Siow Huang and Minister of State for National Development, Mr Tan Kiat How.
+
+Over 60 people from all walks of life joined the session over Zoom to share their views on the Green Plan, and how we can work together to pursue our sustainability goals while taking into account Singapore's context.
+
+![Conversations](/images/conversations-inaugural.jpg)
+
