@@ -83,7 +83,7 @@ The [Cities of Tomorrow R&D Programme (CoT)](https://www1.bca.gov.sg/buildsg/bui
 #### Low Carbon Energy Research Funding Initiative
 The [LCER FI](https://www.a-star.edu.sg/Research/funding-opportunities/lcer-fi-grant) aims to develop low-carbon energy technologies in the domains of hydrogen and carbon capture, utilisation, and storage (CCUS), to support the decarbonisation of the power and industry sectors. Technologies should be cost-effective and deliver carbon abatement for Singapore, with the intention to be commercialised/deployed beyond the project timeline.
 
-### Waste to Energy (WTE) Test-bedding & Demonstration Funding Initiative
+#### Waste to Energy (WTE) Test-bedding & Demonstration Funding Initiative
 The [Waste-to-Energy (WTE) Test-bedding and Demonstration Funding Initiative](https://www.nea.gov.sg/programmes-grants/grants-and-awards/wte-testbed-demo-initiative) aims to incentivise industry and IHLs to collaborate and translate their R&D outcomes into pilot scale or demonstration projects.  Applicants may select any suitable premises to test-bed or demonstrate their WTE technologies. NEA encourages applicants to tap on the plug-and-play features of the recently completed Nanyang Technological University’s (NTU) WTE Research Facility (WTERF), which is co-developed and co-funded by NEA.
 
 
