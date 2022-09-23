@@ -4,7 +4,7 @@ description: Our Global Commitment
 permalink: /globalcommitment
 ---
 
-**Our Global Commitment to Climate Change and Sustainable Development**
+### Our Global Commitment to Climate Change and Sustainable Development
 
 ![Our Global Commitment](/images/framework/framework_global_commitment.jpg)
 
