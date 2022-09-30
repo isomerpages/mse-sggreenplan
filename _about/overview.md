@@ -25,6 +25,6 @@ Spearheaded by five ministries - the Ministries of Sustainability and the Enviro
 		<img src="/images/framework/tile_greeneconomy.png" alt="Green Economy"></a>
 </div>
 <div class="tile-container">
-	<a class="tile-item" href="/key-focus-areas/resilient-future"
-	   ><img src="/images/framework/tile_resilientfuture.png" alt="Resilient Future"></a>
+	<a class="tile-item" href="/key-focus-areas/resilient-future>
+		<img src="/images/framework/tile_resilientfuture.png" alt="Resilient Future"></a>
 </div>
