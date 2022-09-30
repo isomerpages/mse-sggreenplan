@@ -4,24 +4,7 @@ description: By 2030, Singapore will be a green and beautiful City in Nature. Le
 permalink: /key-focus-areas/city-in-nature/
 ---
 
-
 ### City in Nature 
-
-#### 2026 target:
-- Develop over 130 ha of new parks, and enhance around 170 ha of existing parks with more lush vegetation and natural landscapes.
-
-#### 2030 targets:
-- Double our annual tree planting rate between 2020 and 2030, to plant 1 million more trees across Singapore
-- Increase nature parks’ land area by over 50% from 2020 baseline
-- Every household will be within a 10-minute walk from a park
-
-#### 2035 target:
-- Add 1000 ha of green spaces
-
-
-
-
-### EXISTING TO BE REVIEWED
 
 #### We will create a green, liveable and sustainable home for Singaporeans.
 
