@@ -52,6 +52,7 @@ Play active and important roles in fulfilling two international goals
 
 - The International Civil Aviation Organization’s aspirational goals of 2% annual fuel efficiency improvement from now to 2050 and carbon neutral growth from 2020
 - The International Maritime Organization’s target to reduce greenhouse gas (GHG) emissions from international shipping by at least 50% by 2050 compared to 2008 levels, and to phase out such GHG emissions in this century
+
 2030 targets:
 - Increase solar energy deployment by five-fold to at least 2 GWp, which can meet around 3% of our 2030 projected electricity demand and generate enough electricity to power more than 350,000 households a year (1.5 GWp by 2025, which can meet around 2% of our 2025 projected electricity demand and generate enough electricity to power more than 260,000 households a year)
 - 200 MW of energy storage systems deployment beyond 2025, which can power more than 16,000 households a day
