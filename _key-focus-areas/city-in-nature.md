@@ -4,7 +4,31 @@ description: By 2030, Singapore will be a green and beautiful City in Nature. Le
 permalink: /key-focus-areas/city-in-nature/
 ---
 
-### City in Nature
+
+### City in Nature 
+
+#### 2026 Targets
+	<ul>
+	<li><strong>(New)</strong> Add over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.
+	</li>
+	</ul>
+
+#### 2030 Targets
+	<ul>
+	<li><strong>(New)</strong> Add over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.
+	</li>
+	</ul>
+
+#### 2035 Targets
+	<ul>
+	<li><strong>(New)</strong> Add over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.
+	</li>
+	</ul>
+
+
+### Existing
+
+
 
 #### We will create a green, liveable and sustainable home for Singaporeans.
 
@@ -18,7 +42,10 @@ permalink: /key-focus-areas/city-in-nature/
 </div>
 
 <div style="background-color:#b2d4ce;">
-<ul><li><strong>(New)</strong> Add over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.</li></ul>
+	<ul>
+	<li><strong>(New)</strong> Add over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.
+	</li>
+	</ul>
 </div>
 
 - Set aside 1000 more hectares for green spaces by 2035, including 200 ha of new **[nature parks](https://www.mnd.gov.sg/our-work/greening-our-home/greenery){:class="external-link" target="_blank"}** by 2030
