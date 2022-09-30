@@ -7,20 +7,16 @@ permalink: /key-focus-areas/city-in-nature/
 
 ### City in Nature 
 
-#### 2026 Targets
+#### 2026 target:
+- Develop over 130 ha of new parks, and enhance around 170 ha of existing parks with more lush vegetation and natural landscapes.
 
-<div style="background-color:#b2d4ce;">
-	<ul>
-	<li><strong>(New)</strong> Add over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.
-	</li>
-	</ul>
-</div>
+#### 2030 targets:
+- Double our annual tree planting rate between 2020 and 2030, to plant 1 million more trees across Singapore
+- Increase nature parks’ land area by over 50% from 2020 baseline
+- Every household will be within a 10-minute walk from a park
 
-#### 2030 Targets
-
-
-#### 2035 Targets
-
+#### 2035 target:
+- Add 1000 ha of green spaces
 
 
 ### Existing
