@@ -1,6 +1,7 @@
 ---
 title: About our Logo
 permalink: /logo/
+description: About SG Green Plan Logo
 ---
 
 ![](/images/sgplogo.svg)
