@@ -6,35 +6,6 @@ permalink: /key-focus-areas/sustainable-living/
 
 ### Sustainable Living
 
-### A Green Citizenry that Consumes and Wastes Less
-
-#### 2026 target:
-- Reduce the amount of waste to landfill per capita per day by 20%
-
-#### 2030 targets:
-- Reduce household water consumption to 130 litres per capita per day
-- Reduce the amount of waste to landfill per capita per day by 30%
-
-### Green Commutes
-
-#### 2030 targets:
-- Achieve 75% mass public transport (i.e. rail and bus) peak-period modal share
-- Expand rail network from around 230km today to 360km by early 2030s
-- Triple cycling paths to 1,320km from 460km in 2020
-
-### Strengthen Green Efforts in Schools
-
-#### 2030 targets:
-- Achieve a two-thirds reduction of net carbon emissions from the schools sector
-- At least 20% of schools to be carbon neutral
-
-
-
-### EXISTING TO BE REVIEWED
-
-
-
-
 #### We will reduce carbon emissions, keep our environment clean, and make saving resources and energy a way of life in Singapore. 
 
 ![Sustainable Living](/images/framework/framework_sustainableliving.jpg)
