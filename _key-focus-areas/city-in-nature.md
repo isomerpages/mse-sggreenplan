@@ -8,22 +8,19 @@ permalink: /key-focus-areas/city-in-nature/
 ### City in Nature 
 
 #### 2026 Targets
+
+<div style="background-color:#b2d4ce;">
 	<ul>
 	<li><strong>(New)</strong> Add over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.
 	</li>
 	</ul>
+</div>
 
 #### 2030 Targets
-	<ul>
-	<li><strong>(New)</strong> Add over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.
-	</li>
-	</ul>
+
 
 #### 2035 Targets
-	<ul>
-	<li><strong>(New)</strong> Add over 130 hectares of new parks, and enhance around 170 hectares of existing parks with more lush vegetation and natural landscapes.
-	</li>
-	</ul>
+
 
 
 ### Existing
