@@ -90,21 +90,30 @@ Long-term target: Reduce desalination energy further to 1kWh/m3
 - All new car and taxi registrations to be of cleaner-energy models from 2030
 - Target 60,000 charging points nationwide by 2030, including 40,000 in public carparks and 20,000 in - private premises
 
+### Green Economy 
+
+### New Investments to be Among the Best-in-Class
+Seek new investments to be among the best-in-class in energy/ carbon efficiency
+
+### Sustainability as a New Engine for Jobs and Growth
+#### 2030 targets:
+- Jurong Island to be a sustainable energy and chemicals park
+- Singapore as a sustainable tourism destination
+- Singapore as a leading centre for green finance and services to facilitate Asia’s transition to a low-carbon and sustainable future
+- Singapore as a carbon services hub in Asia
+- Singapore as a leading regional centre for developing new sustainability solutions
+- Groom a strong pool of local enterprises to capture sustainability opportunities
 
 
+### Resilient Future
 
+### Adapt to Sea-level Rise and Enhance Flood Resilience
+#### 2030 targets:
+- Complete formulation of coastal protection plans for City-East Coast, North-West Coast (Lim Chu Kang and Sungei Kadut) and Jurong Island
 
-
-
-
-
-
-
-
-
-
-
-
+### Grow Local
+#### 2030 targets:
+- Meet 30% of Singapore’s nutritional needs through locally produced food
 
 
 
