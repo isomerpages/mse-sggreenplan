@@ -6,7 +6,9 @@ permalink: /key-focus-areas/resilient-future/
 
 ### Resilient Future
 
-We are starting our preparations now to deal with climate change that will last into the next century, and building up our national resilience for the future.
+#### We are starting our preparations now to deal with climate change that will last into the next century, and building up our national resilience for the future.
+
+![Resilient Future](/images/framework/framework_resilientfuture.jpg)
 
 #### Shoring up our coastal and flood defences
 
@@ -20,8 +22,8 @@ To develop measures to protect Singapore from the threat of rising sea levels, h
 - Studying engineering solutions with nature-based enhancements to hold back the rising seas. These include sea walls, earthen bunds, revetments and mangroves.
 - Carrying out site-specific studies for vulnerable areas, starting with City-East Coast, Jurong Island and the north-west coast of Singapore.
  
-[READ MORE]
-https://www.pub.gov.sg/CoastalProtection
+[READ MORE](https://www.pub.gov.sg/CoastalProtection)
+
  
  
 #### Strengthen food security
@@ -32,8 +34,7 @@ A $60 million Agri-Food Cluster Transformation (ACT) Fund has been established t
  
 We are also looking into the expansion of sustainable fish farming in the deeper Southern Waters of Singapore and transforming the coastal fish farms in the Straits of Johor to boost local fish production.
  
-[READ MORE]
-https://www.ourfoodfuture.gov.sg/30by30
+[READ MORE](https://www.ourfoodfuture.gov.sg/30by30)
  
  
 #### Keep Singapore cool
@@ -45,19 +46,9 @@ We will mitigate the Urban Heat Island (UHI) effect through the following ways:
 - Conduct research and modelling on UHI effects, e.g. the Cooling Singapore 2.0 project
 - Partner the industry and public to implement a UHI mitigation action plan, including piloting the use of cool materials and reducing human-generated heat
  
-[READ MORE]
-https://www.mse.gov.sg/cos/resources/cos-annex-j.pdf
+[READ MORE](https://www.mse.gov.sg/cos/resources/cos-annex-j.pdf)
  
 
-
-
-
-### EXISTING DATA 
-
-
-#### Our efforts to mitigate and adapt to climate change have already begun. 
-
-![Resilient Future](/images/framework/framework_resilientfuture.jpg)
 
 **In support of SDGs:**
 
@@ -65,19 +56,3 @@ https://www.mse.gov.sg/cos/resources/cos-annex-j.pdf
 	<img class="sdg-image" src="/images/framework/resilientfuture_01.jpg" alt="2 9 13" />
 	<img class="sdg-image" src="/images/framework/resilientfuture_02.jpg" alt="17" />
 </div>
-
-- Against rising sea levels, we are developing new solutions and a better understanding of our coastlines.
-- We will put in place the defences to protect our coastlines along East Coast, Lim Chu Kang, Sungei Kadut, and around Jurong Island. 
-- Urban heat is all around us, for example, the kind that you feel while standing behind an air-conditioner. We will moderate rise in urban heat by increasing greenery and piloting the use of cool paint on building facades.
-- Develop the capability and capacity of our local agri-food industry to produce **[30% of our nutritional needs](https://www.sfa.gov.sg/food-farming){:class="external-link" target="_blank"}** locally and sustainably by 2030
-
-<!-- #### The United Nations Sustainable Development Goals (SDGs)
-
-- The Green Plan is very much aligned with the SDGs and the 2030 Agenda for Sustainable Development (2030 Agenda) adopted by all countries at the United Nations in 2015. Our targets demonstrate Singapore's commitment to sutainable development, in sync with international efforts and the global agenda to build a more resilient future. -->
-
-<blockquote>
-  <p>After more than 50 years of nation-building, one imperative is growing in importance, and that is sustainable development.</p>
-  <span class="author">Grace Fu, Minister for Sustainability and the Environment</span>
-</blockquote>
-
-[![Ideas](/images/framework/framework_ideas.jpg)](https://form.gov.sg/6013d365bedd790011bb9c86)
