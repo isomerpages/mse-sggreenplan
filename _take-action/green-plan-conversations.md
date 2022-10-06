@@ -41,7 +41,7 @@ Through the Conversation, we sought suggestions from the youths on how we can bu
 
 <img src="/images/conversations-green-commute2.jpg" alt="Conversations"> 
 
-### Is The SG Green Plan 2030 Bold Enough – What More Can We Do (24 October 2021)
+### Is The SG Green Plan 2030 Bold Enough – What More Can We Do (26 October 2021)
 This Conversation, organised by the National Youth Council, involved 84 youths from NUS, Nanyang Technological University, Singapore Management University, Singapore Institute of Technology, Singapore University of Technology and Design, Singapore University of Social Sciences and Singapore Institute of Management.
 
 <img src="/images/conversations-what-more-youths.jpg" alt="Conversations">
