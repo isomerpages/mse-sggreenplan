@@ -3,7 +3,7 @@ title: Green Government
 description: GreenGov.SG reflects the public sector’s commitment to be a positive enabler for green efforts.
 permalink: /key-focus-areas/green-government/
 ---
-<img src="../../images/greengovlogo1.png" style="max-width:30vw;" alt="Green Government">
+<img src="/images/greengovlogo1.png" style="max-width:30vw;" alt="Green Government SG">
 
 #### The public sector will lead the way to pursue sustainable development with the **GreenGov.SG** initiative. 
 
@@ -60,9 +60,6 @@ As we embark on GreenGov.SG, the public sector will look to private sector leade
 While the public sector is taking the lead, achieving our goal of sustainable development is a whole-of-nation endeavour. With the refreshed GreenGov.SG initiative, the Government hopes to inspire our people and partners to embrace green practices and make sustainability a way of life. Together, we can chart our way towards a low-carbon and sustainable future for Singapore. 
 
 As part of the Green Plan, GreenGov.SG is a living plan. We will continue to refresh the specific targets, strategies and initiatives over time, as new opportunities avail themselves. 
-
-
-<img src="/images/cosgreengov.jpg" alt="COS GreenGov"> 
 
 <sup>1</sup> *Energy used per unit area.*<br>
 <sup>2</sup> *Water used per person per day.*<br>
