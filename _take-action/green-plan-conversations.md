@@ -52,6 +52,7 @@ Minister for Trade and Industry Mr Gan Kim Yong, together with Ministers of Stat
 The green economy presents new opportunities for Singapore, and the Government will help existing sectors to transform and decarbonise. We will also grow new sectors and develop our workforce. In addition, we will take steps to use cleaner energy sources across all sectors, and transform the way we produce energy.  The Conversation provided an important and added opportunity for stakeholders to engage with one another, and explore new possibilities for our green journey ahead.
 
 <img src="/images/conversations-green-economy.jpg" alt="Conversations"> 
+
 ### Ministry of Transport (MOT) and Land Transport Authority’s (LTA) Inaugural Green Plan Conversation (7 September 2021)
 SMS Amy Khor hosted MOT and LTA’s inaugural Green Plan Conversation with 30 members of the public on 7 September 2021 via Zoom. The Conversation saw robust discussions on how the adoption of greener commutes can be encouraged to collectively reduce our carbon footprint.
 
