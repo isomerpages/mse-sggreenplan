@@ -9,7 +9,7 @@ permalink: /key-focus-areas/energy-reset/
 
 #### Under the Energy Reset pillar, we aim to use cleaner energy sources across all sectors.
 
-![Energy Reset](/images/framework/framework_energyreset.jpg)
+<img src="/images/framework/framework_energyreset.jpg" alt="Energy Reset"> 
  
 #### Green Energy
  
