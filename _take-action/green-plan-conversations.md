@@ -75,5 +75,4 @@ The inaugural Green Plan conversation kicked off on 24 April and was hosted by M
 
 Over 60 people from all walks of life joined the session over Zoom to share their views on the Green Plan, and how we can work together to pursue our sustainability goals while taking into account Singapore's context.
 
-<img src="/images/onversations-inaugural.jpg" alt="Conversations"> 
-
+<img src="/images/conversations-inaugural.jpg" alt="Conversations"> 
