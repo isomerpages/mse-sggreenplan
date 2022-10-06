@@ -8,7 +8,7 @@ permalink: /key-focus-areas/city-in-nature/
 
 #### We will create a green, liveable and sustainable home for Singaporeans.
 
-![City in Nature](/images/framework/framework_cityinnature.jpg)
+<img src="/images/framework/framework_cityinnature.jpg" alt="City in Nature"> 
 
 With challenges like climate change which bring about more extreme weather patterns and increasing urbanisation, we need to build a Singapore where residents will be able to enjoy a liveable, sustainable and climate resilient Singapore.
  
