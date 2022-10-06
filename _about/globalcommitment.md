@@ -6,8 +6,7 @@ permalink: /globalcommitment
 
 ### Our Global Commitment to Climate Change and Sustainable Development
 
-![Our Global Commitment](/images/framework/framework_global_commitment.jpg)
-
+<img src="/images/framework/framework_global_commitment.jpg" alt="Our Global Commitment"> 
 
 **Supporting the Paris Agreement**
 
