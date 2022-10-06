@@ -24,7 +24,7 @@ We have put together a ten-year plan called the **Singapore Green Plan 2030**. T
 
 **Achieving net zero emissions as soon as we can**
 
-![Zero Emissions](/images/framework/manifesto_zeroemissions.jpg)
+<img src="/images/framework/manifesto_zeroemissions.jpg" alt="Zero Emissions"> 
 
 We recognise our limitations and challenges. Being both a city and a nation, we are in a very different situation compared to bigger countries. We need to provide for defence, industries, homes, critical infrastructure — all within our 728 square kilometres of land. We do not have the natural resources, land area and climatic conditions for the large-scale deployment of renewable energy sources.
 
@@ -113,7 +113,7 @@ Depending on the results of our collective actions, as well as future developmen
 
 **Pledge to Our Next Generation**
 
-![Next Generation](/images/framework/manifesto_nextgeneration.jpg)
+<img src="/images/framework/manifesto_nextgeneration.jpg" alt="Next Generation"> 
 
 The Green Plan is a living plan, which will evolve as we engage Singaporeans through Singapore Together to harness more ideas and put them into action. Every one of us can play a part, and help seize the moment to transform our nation.
 
