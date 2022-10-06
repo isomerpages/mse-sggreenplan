@@ -73,8 +73,9 @@ sections:
       title: You Can Help Transform Our City
       description: </p><p>Everyone can play a part in making the Green Plan a reality.
         Let's build a greener and more liveable home together.</p><img
-        class="mse-infopic-media-left" src="/images/index/how-it-transforms.jpg"
-        alt="Transform Our City" /><p class="mse-none">
+        class="mse-infopic-media-left" 
+        src="/images/index/how-it-transforms.jpg" alt="Transform Our City" /><p
+        class="mse-none">
       button: Get Involved
       url: /take-action/what-you-can-do/
       image: /images/index/how-it-transforms.jpg
