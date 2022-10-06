@@ -35,7 +35,7 @@ The global transition to a low-carbon economy brings about new opportunities in 
 
 #### We will seek green growth to create new jobs, transform our industries and harness sustainability as a competitive advantage.
 
-![Green Economy](/images/framework/framework_greeneconomy.jpg)
+<img src="/images/framework/framework_greeneconomy.jpg" alt="Green Economy">
 
 **In support of SDGs:**
 
