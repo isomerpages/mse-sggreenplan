@@ -6,23 +6,23 @@ permalink: /infographics
 
 ### 2022 
 
-![](/images/infographics/cos2022_1.jpg)  
+<img src="/images/infographics/cos2022_1.jpg" alt="COS 2022 Singapore Green Plan 2030 Image 1"> 
 
-![](/images/infographics/cos2022_2.jpg)  
+<img src="/images/infographics/cos2022_2.jpg" alt="COS 2022 Singapore Green Plan 2030 Image 2"> 
 
-![](/images/infographics/cos2022_3.jpg)  
+<img src="/images/infographics/cos2022_3.jpg" alt="COS 2022 Singapore Green Plan 2030 Image 3"> 
 
-![](/images/infographics/cos2022_4.jpg)  
+<img src="/images/infographics/cos2022_4.jpg" alt="COS 2022 Singapore Green Plan 2030 Image 4"> 
 
-![](/images/infographics/cos2022_5.jpg)  
+<img src="/images/infographics/cos2022_5.jpg" alt="COS 2022 Singapore Green Plan 2030 Image 5"> 
 
 
 ### 2021 
 
-![cos overview](/images/resources/cos-sgp-infographics.png) 
+<img src="/images/resources/cos-sgp-infographics.png" alt="COS 2021 Overview"> 
 
-![](/images/resources/sgp_overview_p1.png)  
+<img src="/images/resources/sgp_overview_p1.png" alt="COS 2021 Overview Page 1"> 
 
-![](/images/resources/sgp_overview_p2.png)  
+<img src="/images/resources/sgp_overview_p2.png" alt="COS 2021 Overview Page 2"> 
 
-![](/images/resources/sgp_actionables.jpg)  
+<img src="/images/resources/sgp_actionables.jpg" alt="COS 2021 Play a Part">
