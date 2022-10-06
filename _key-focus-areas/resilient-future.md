@@ -8,7 +8,7 @@ permalink: /key-focus-areas/resilient-future/
 
 #### We are starting our preparations now to deal with climate change that will last into the next century, and building up our national resilience for the future.
 
-![Resilient Future](/images/framework/framework_resilientfuture.jpg)
+<img src="/images/framework/framework_resilientfuture.jpg" alt="Resilient Future"> 
 
 #### Shoring up our coastal and flood defences
 
