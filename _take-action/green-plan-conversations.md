@@ -1,6 +1,6 @@
 ---
 title: Green Plan Conversations
-description: 
+description: We want to hear your views about the Singapore Green Plan. Let us co-create our future together
 permalink: /take-action/conversations/
 ---
 
