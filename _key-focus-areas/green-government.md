@@ -1,6 +1,6 @@
 ---
 title: Green Government
-description: null
+description: GreenGov.SG reflects the public sector’s commitment to be a positive enabler for green efforts.
 permalink: /key-focus-areas/green-government/
 ---
 <img src="../../images/greengovlogo1.png" style="max-width:30vw;">
