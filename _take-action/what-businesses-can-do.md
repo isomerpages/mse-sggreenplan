@@ -6,7 +6,7 @@ permalink: /take-action/what-businesses-can-do/
 
 ### What Businesses Can Do to be a Part of the Green Plan:
 
-![The Green Plan For Businesses](/images/greenplan/gp_business.jpg)
+<img src="images/greenplan/gp_business.jpg.jpg" alt="The Green Plan For Businesses"> 
 
 #### Adopt Environmentally Friendly Habits
 [Environmentally-friendly actions](https://www.mse.gov.sg/take-action/organisations/) can start small. Consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference. You can also apply for [funding](/funding) to get started on your sustainability journey. 
