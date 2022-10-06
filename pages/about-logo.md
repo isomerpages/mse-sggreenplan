@@ -4,7 +4,7 @@ permalink: /logo/
 description: About SG Green Plan Logo
 ---
 
-![](/images/sgplogo.svg)
+<img src="/images/sgplogo.svg" alt="SG Green Plan Logo">
 
 **The Singapore Green Plan Logo is adapted from the ‘Singapore Mark’ - the widely-recognisable red emblem of Singapore.**  
 
