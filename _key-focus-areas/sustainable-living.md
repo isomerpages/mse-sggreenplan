@@ -37,7 +37,7 @@ We are making good progress towards achieving our goal of bringing 8 in 10 house
 
 #### We will reduce carbon emissions, keep our environment clean, and make saving resources and energy a way of life in Singapore. 
 
-![Sustainable Living](/images/framework/framework_sustainableliving.jpg)
+<img src="/images/framework/framework_sustainableliving.jpg" alt="Sustainable Living"> 
 
 **In support of SDGs:**
 
