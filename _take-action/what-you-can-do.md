@@ -7,7 +7,7 @@ permalink: /take-action/what-you-can-do/
 
 ### Here is **what you can do** to be a Part of the Green Plan:
 
-![What You Can Do](/images/greenplan/gp_individual.jpg)
+<img src="/images/greenplan/gp_individual.jpg" alt="What You Can Do"> 
 
 
 #### Start Changing Some Personal Habits
