@@ -21,7 +21,7 @@ We will continue to maximise solar panel deployment, including on rooftops, rese
  
 For example, in July 2021, Singapore officially opened the large-scale 60 megawatt-peak floating solar panel system at Tengeh Reservoir, which is about the size of 45 football fields. Our aim is to quintuple our solar energy deployment to at least 2 gigawatt-peak by 2030, equivalent to powering around 350,000 households a year.
  
-We also plan to tap on regional power grids and Increase efficiency with each new generation of gas-fired power plants to reduce emissions (such as through adopting new, advanced, combined-cycle gas turbines)
+We also plan to tap on regional power grids and Increase efficiency with each new generation of gas-fired power plants to reduce emissions (such as through adopting new, advanced, combined-cycle gas turbines).
  
 [READ MORE](https://www.ema.gov.sg/Renewable_Energy.aspx)
 
