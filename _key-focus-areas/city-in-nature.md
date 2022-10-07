@@ -13,7 +13,8 @@ permalink: /key-focus-areas/city-in-nature/
 With challenges like climate change which bring about more extreme weather patterns and increasing urbanisation, we need to build a Singapore where residents will be able to enjoy a liveable, sustainable and climate resilient Singapore.
  
 To do so, Singapore will be transformed into City in Nature. We will build upon what has been achieved and further restore nature into the urban environment.
-Transforming Singapore into a City in Nature
+
+#### Transforming Singapore into a City in Nature
  
 To transform Singapore into a City in Nature, we are conserving and extending Singapore’s natural capital island-wide, and raising animal health and welfare standards in Singapore. We have five key strategies to achieve this vision:
  
