@@ -12,20 +12,13 @@ sections:
         # - title: learn more about GreenGov.SG
         #   description: ""
         #   url: /key-focus-areas/green-government/
-  - infobar:
-      title: ""
-      description: <iframe width="100%" height="500"
-        src="https://www.youtube.com/embed/nrFxTglhBQY?rel=0&autoplay=1&mute=0&enablejsapi=1"
-        frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
   - infopic:
       title: What Is The Singapore Green Plan 2030?
       description: <p>The Singapore Green Plan 2030, or the Green Plan, is a
         whole-of-nation movement to advance Singapore’s national agenda on
         sustainable development.</p><br><br><br><figure class="mse-infopic-media-right
         is-16by9"><iframe width="560" height="315"
-        src="https://www.youtube.com/embed/oNFeOl7pW9s?rel=0&autoplay=1&mute=1&enablejsapi=1"
+        src="https://www.youtube.com/embed/nrFxTglhBQY?rel=0&autoplay=1&mute=1&enablejsapi=1"
         frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe></figure><p class="mse-none">
@@ -61,7 +54,7 @@ sections:
         src="/images/index/impacts-of-climate-change.jpg" alt="Impact" /><p
         class="mse-none">
       button: View more
-      url: /key-focus-areas/our-targets/
+      url: /targets/
       image: /images/index/impacts-of-climate-change.jpg
       alt: Impact
   - infopic:
@@ -73,15 +66,16 @@ sections:
         src="/images/index/about-sgp30.jpg" alt="About Green Plan" /><p
         class="mse-none">
       button: Find out more
-      url: /key-focus-areas/vision/
+      url: /key-focus-areas/
       image: /images/index/about-sgp30.jpg
       alt: About Green Plan
   - infopic:
       title: You Can Help Transform Our City
       description: </p><p>Everyone can play a part in making the Green Plan a reality.
         Let's build a greener and more liveable home together.</p><img
-        class="mse-infopic-media-left" src="/images/index/how-it-transforms.jpg"
-        alt="Transform Our City" /><p class="mse-none">
+        class="mse-infopic-media-left" 
+        src="/images/index/how-it-transforms.jpg" alt="Transform Our City" /><p
+        class="mse-none">
       button: Get Involved
       url: /take-action/what-you-can-do/
       image: /images/index/how-it-transforms.jpg

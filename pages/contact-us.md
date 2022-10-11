@@ -3,6 +3,7 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 agency_name: us for general enquiries and feedback
+description: Contact us for general enquiries and feedback
 # locations:
   # - title: Main Office
   #   address:
