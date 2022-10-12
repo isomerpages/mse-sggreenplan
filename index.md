@@ -93,4 +93,5 @@ sections:
       alt: Ministries
   - resources:
       title: Latest News
+      button: More News
 ---
