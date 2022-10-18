@@ -16,7 +16,7 @@ To do so, Singapore will be transformed into City in Nature. We will build upon 
 
 #### Transforming Singapore into a City in Nature
  
-To transform Singapore into a [City in Nature](https://www.nparks.gov.sg/about-us/city-in-nature), we are conserving and extending Singapore’s natural capital island-wide, and raising animal health and welfare standards in Singapore. We have five key strategies to achieve this vision:
+To transform [Singapore into a City in Nature](https://www.nparks.gov.sg/about-us/city-in-nature), we are conserving and extending Singapore’s natural capital island-wide, and raising animal health and welfare standards in Singapore. We have five key strategies to achieve this vision:
  
 - Expand the Nature Park Network
 - Intensify nature in gardens and parks
