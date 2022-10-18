@@ -13,7 +13,7 @@ permalink: /key-focus-areas/energy-reset/
  
 #### Green Energy
  
-Solar energy remains the most promising [renewable energy source](https://www.ema.gov.sg/Renewable_Energy.aspx) for Singapore when it comes to electricity generation. 
+Solar energy remains the most promising [renewable energy](https://www.ema.gov.sg/Renewable_Energy.aspx) source for Singapore when it comes to electricity generation. 
  
 Our installed solar capacity has grown by more than six times over the past five years. Today, Singapore is already one of the most solar-dense cities in the world.
  
@@ -25,13 +25,11 @@ We also plan to tap on regional power grids and Increase efficiency with each ne
  
 #### Green Transport
  
-As our transport system grows in capacity and usage, it becomes increasingly important to manage its environmental footprint. Under the Singapore Green Plan 2030, our vision is for all vehicles to run on cleaner-energy by 2030.
+As our transport system grows in capacity and usage, it becomes increasingly important to manage its [environmental footprint](https://www.mot.gov.sg/what-we-do/green-transport). Under the Singapore Green Plan 2030, our vision is for all vehicles to run on cleaner-energy by 2030.
  
 We will continue to reduce the sector's emissions by encouraging the use of public transport and active mobility and transitioning to a cleaner-energy vehicle population.
  
 While we position ourselves to seize growth opportunities in aviation and maritime, we will explore ways to do so sustainably.
- 
-[READ MORE](https://www.mot.gov.sg/what-we-do/green-transport)
 
 #### Green Buildings
  
