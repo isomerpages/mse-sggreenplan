@@ -21,7 +21,7 @@ sections:
         src="https://www.youtube.com/embed/nrFxTglhBQY?rel=0&autoplay=1&mute=1&enablejsapi=1"
         frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe></figure><p class="mse-none">
+        allowfullscreen title="What Is The Singapore Green Plan 2030?"></iframe></figure><p class="mse-none">
       image: https://placehold.it/628x285
       alt: Climate Change
   - infopic:
@@ -93,4 +93,5 @@ sections:
       alt: Ministries
   - resources:
       title: Latest News
+      button: More News
 ---
