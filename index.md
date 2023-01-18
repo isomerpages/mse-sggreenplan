@@ -29,8 +29,7 @@ sections:
       description: </p><p>The Green Plan charts ambitious and concrete targets over
         the next 10 years, strengthening Singapore’s commitments under the UN’s
         2030 Sustainable Development Agenda and Paris Agreement, and positioning
-        us to achieve our long-term net zero emissions aspiration as soon as
-        viable.</p><img class="mse-infopic-media-left"
+        us to achieve our long-term net zero emissions aspiration by 2050.</p><img class="mse-infopic-media-left"
         src="/images/index/why-sgp30.jpg" alt="Why Green Plan" /><p
         class="mse-none">
       image: /images/index/why-sgp30.jpg
@@ -66,7 +65,7 @@ sections:
         src="/images/index/about-sgp30.jpg" alt="About Green Plan" /><p
         class="mse-none">
       button: Find out more
-      url: /key-focus-areas/
+      url: /key-focus-areas/city-in-nature/
       image: /images/index/about-sgp30.jpg
       alt: About Green Plan
   - infopic:
