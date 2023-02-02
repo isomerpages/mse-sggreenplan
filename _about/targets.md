@@ -55,7 +55,7 @@ Play active and important roles in fulfilling two international goals
 
 2030 targets:
 - Increase solar energy deployment by five-fold to at least 2 GWp, which can meet around 3% of our 2030 projected electricity demand and generate enough electricity to power more than 350,000 households a year (1.5 GWp by 2025, which can meet around 2% of our 2025 projected electricity demand and generate enough electricity to power more than 260,000 households a year)
-- 200 MW of energy storage systems deployment beyond 2025, which can power more than 16,000 households a day
+- 200 MWh of energy storage systems deployment beyond 2025, which can power more than 16,000 households a day
 - Best-in-class generation technology that meets heat-rate/emissions standards and reduces carbon emissions
 - Diversified electricity supply with clean electricity imports
 
