@@ -22,7 +22,7 @@ We will build upon what we have already done and launch a sustainable developmen
 
 We have put together a ten-year plan called the **Singapore Green Plan 2030**. The Green Plan is a whole-of-nation sustainable development agenda, with firm action plans, touching on almost every dimension of our lives.
 
-**Achieving net zero emissions as soon as we can**
+**Achieving net zero emissions by 2050**
 
 <img src="/images/framework/manifesto_zeroemissions.jpg" alt="Zero Emissions"> 
 
@@ -31,8 +31,6 @@ We recognise our limitations and challenges. Being both a city and a nation, we 
 These make it extremely hard for us to achieve net zero emissions in the same way that bigger countries can pledge to do.
 
 However, just like the way we confronted many national challenges in the past, we can be pioneers in technological and policy solutions for sustainable development. We can be a living laboratory, which other cities around the world, facing similar challenges, can pick up ideas from. That way, we can punch above our weight, and have a positive environmental impact way beyond our shores. For example, after several years of R&D and test-bedding, we are constructing one of the world’s largest floating solar systems at Tengeh reservoir, with a capacity of 60 megawatt-peak. When completed in 2021, the power generated from this system will be sufficient to power our local water treatment plants. This will make Singapore’s waterworks one of the very few in the world to go 100% green. 
-
-Depending on the results of our collective actions, as well as future development of carbon capture and sequestration technology and carbon markets, we will review our current carbon emission commitments and seek to achieve net zero emissions as soon as we can.
 
 **Here are the key programmes of the Green Plan:**
 <div>
