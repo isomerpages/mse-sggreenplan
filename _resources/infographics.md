@@ -3,6 +3,27 @@ title: Infographics
 description: Infographics about the Singapore Green Plan  
 permalink: /infographics
 ---
+### 2023
+
+<img src="/images/infographics/COSGP2023-1.png" alt="COS 2023 Singapore Green Plan 2030 Image 1"> 
+
+<img src="/images/infographics/COSGP2023-2.png" alt="COS 2023 Singapore Green Plan 2030 Image 2"> 
+
+<img src="/images/infographics/COSGP2023-3.png" alt="COS 2023 Singapore Green Plan 2030 Image 3"> 
+
+<img src="/images/infographics/COSGP2023-4.png" alt="COS 2023 Singapore Green Plan 2030 Image 4"> 
+
+<img src="/images/infographics/COSGP2023-5.png" alt="COS 2023 Singapore Green Plan 2030 Image 5"> 
+
+<img src="/images/infographics/COSGP2023-6.png" alt="COS 2023 Singapore Green Plan 2030 Image 6"> 
+
+<img src="/images/infographics/COSGP2023-7.png" alt="COS 2023 Singapore Green Plan 2030 Image 7"> 
+
+<img src="/images/infographics/COSGP2023-8.png" alt="COS 2023 Singapore Green Plan 2030 Image 8"> 
+
+<img src="/images/infographics/COSGP2023-9.png" alt="COS 2023 Singapore Green Plan 2030 Image 9"> 
+
+<img src="/images/infographics/COSGP2023-10.png" alt="COS 2023 Singapore Green Plan 2030 Image 10"> 
 
 ### 2022 
 
