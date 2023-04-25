@@ -16,7 +16,7 @@ Today, Singapore is a City in a Garden, and is one of the greenest cities in the
 
 We knew public cleanliness and hygiene were important to prevent diseases in our hot and humid urban environment, and took tough measures to enforce them.
 
-We are the only country in the world to freeze the growth of the vehicle population. We are one of a few countries to have closed the water loop and to reuse every last drop of water repeatedly. We do not subsidise the use of fossil fuel, and we tax the emission of carbon. Since the early 2000s, we have transitioned to natural gas, which is the cleanest form of fossil fuel for power generation. Today, about 95 per cent of our electricity is generated using natural gas. 
+We are the only country in the world to freeze the growth of the vehicle population. We are one of a few countries to have closed the water loop and to reuse every last drop of water repeatedly. We do not subsidise the use of fossil fuel, and we tax the emission of carbon. Since the early 2000s, we have transitioned to natural gas, which is the cleanest form of fossil fuel for power generation. Today, about 95 per cent of our electricity is generated using natural gas, and we will progressively transition to greener energy sources. 
 
 We will build upon what we have already done and launch a sustainable development movement for a better and greener future. This will strengthen ongoing efforts to fulfil our obligations under the Paris Agreement and towards achieving the 2030 Agenda for Sustainable Development.
 
@@ -30,7 +30,7 @@ We recognise our limitations and challenges. Being both a city and a nation, we 
 
 These make it extremely hard for us to achieve net zero emissions in the same way that bigger countries can pledge to do.
 
-However, just like the way we confronted many national challenges in the past, we can be pioneers in technological and policy solutions for sustainable development. We can be a living laboratory, which other cities around the world, facing similar challenges, can pick up ideas from. That way, we can punch above our weight, and have a positive environmental impact way beyond our shores. For example, after several years of R&D and test-bedding, we are constructing one of the world’s largest floating solar systems at Tengeh reservoir, with a capacity of 60 megawatt-peak. When completed in 2021, the power generated from this system will be sufficient to power our local water treatment plants. This will make Singapore’s waterworks one of the very few in the world to go 100% green. 
+However, just like the way we confronted many national challenges in the past, we can be pioneers in technological and policy solutions for sustainable development. We can be a living laboratory, which other cities around the world, facing similar challenges, can pick up ideas from. That way, we can punch above our weight, and have a positive environmental impact way beyond our shores. For example, after several years of R&D and test-bedding, we are home to one of the world’s largest floating solar systems at Tengeh Reservoir, with a capacity of 60 megawatt-peak. Completed in 2021, the power generated from this system will be sufficient to power our local water treatment plants. This will make Singapore’s waterworks one of the very few in the world to go 100% green. 
 
 **Here are the key programmes of the Green Plan:**
 <div>
