@@ -26,7 +26,7 @@ The Energy and Chemicals sector is also a key partner in the development of emer
 The global transition to a low-carbon economy brings about new opportunities in areas such as green finance, carbon services and trading, and sustainable tourism. The Government will continue to partner businesses and workers, and foster a conducive environment for them to adapt to and take advantage of these opportunities.
  
 * As part of the [Research, Innovation, and Enterprise (RIE)](https://www.nrf.gov.sg/rie2025-plan) initiative, the Government will support the development and commercialisation of innovative solutions pertaining to sustainability, such as in clean and renewable energy, the circular economy, and low-carbon solutions.
-* ESG launched the [Enterprise Sustainability Programme](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/sustainability/enterprise-sustainability-programme) to support Singapore businesses on sustainability initiatives, and to capture new opportunities in the green economy. The programme will support training workshops, capability and product development projects, and key enablers such as certification and financing.
+* ESG launched the [Enterprise Sustainability Programme](https://www.enterprisesg.gov.sg/grow-your-business/boost-capabilities/sustainability/enterprise-sustainability-programme) to support Singapore businesses on sustainability initiatives, and to capture new opportunities in the green economy. The programme will support training workshops, capability and product development projects, and key enablers such as certification and financing.
 
 
 
