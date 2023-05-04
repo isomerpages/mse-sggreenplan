@@ -10,7 +10,7 @@ Singapore Green Plan 2030 charts ambitious and concrete targets to advance Singa
 #### City in Nature 
 
 2026 targets:
-- Develop over 130 ha of new parks, and enhance around 170 ha of existing parks with more lush vegetation and natural landscapes.
+- Develop over 130 ha of new parks, and enhance around 170 ha of existing parks with more lush vegetation and natural landscapes
 
 2030 targets:
 - Double our annual tree planting rate between 2020 and 2030, to plant 1 million more trees across Singapore
@@ -35,7 +35,7 @@ Singapore Green Plan 2030 charts ambitious and concrete targets to advance Singa
 
 2030 targets:
 - Achieve 75% mass public transport (i.e. rail and bus) peak-period modal share
-- Electric buses to make up half of the public bus fleet by 2030. Existing diesel buses will be replaced with cleaner energy buses by 2040.
+- Electric buses to make up half of the public bus fleet by 2030. Existing diesel buses will be replaced with cleaner energy buses by 2040
 - Expand rail network to 360km by early 2030s
 - Expand cycling path networks to around 1,300km
 
@@ -55,15 +55,15 @@ Singapore Green Plan 2030 charts ambitious and concrete targets to advance Singa
 
 Play active and important roles in contributing towards two international goals
 
-- The International Civil Aviation Organization’s long-term global aspirational goal (LTAG) for international aviation to reach net zero carbon emissions by 2050.
+- The International Civil Aviation Organization’s long-term global aspirational goal (LTAG) for international aviation to reach net zero carbon emissions by 2050
 - The International Maritime Organization’s target to reduce greenhouse gas (GHG) emissions from international shipping by at least 50% by 2050 compared to 2008 levels, and to phase out such GHG emissions in this century
 
 2025 targets:
-- 1.5 gigawatt-peak of solar energy deployment, which can meet around 2% of our 2025 projected electricity demands, and generate enough electricity to meet the annual electricity needs of around 260,000 households
+- 1.5 gigawatt-peak (GWp) of solar energy deployment, which can meet around 2% of our 2025 projected electricity demands, and generate enough electricity to meet the annual electricity needs of around 260,000 households
 - Deploy 200 megawatt-hour of Energy Storage Systems to enhance grid resilience and support clean energy transitions [Achieved in December 2022] 
 
 2030 targets:
-- Increase solar energy deployment to at least 2 gigawatt-peak (GWp), which can meet around 3% of our 2030 projected electricity demand and generate enough electricity to meet the annual electricity needs of around 350,000 households
+- Increase solar energy deployment to at least 2 GWp, which can meet around 3% of our 2030 projected electricity demand and generate enough electricity to meet the annual electricity needs of around 350,000 households
 - Best-in-class power generation technology that meets emission standards and reduces carbon emissions
 
 **Greener Infrastructure and Buildings**
