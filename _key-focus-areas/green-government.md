@@ -17,21 +17,23 @@ Under GreenGov.SG, the public sector will strive to attain ambitious sustainabil
 
 a) **Excel** with new and more ambitious targets:
 
-- The public sector aims to peak its carbon emissions around 2025, ahead of the national target.
+- The public sector has committed to peak emissions around 2025 and achieve net-zero emissions around 2045. This is ahead of the national target to achieve net-zero emissions by 2050.
 
 - By 2030, the public sector aims to reduce energy<sup>1</sup> and water<sup>2</sup> use by 10 per cent from the average of 2018 - 2020 levels, and to reduce the amount of waste disposed<sup>3</sup> by 30 per cent from 2022 levels.<sup>4</sup>    
 
-- The public sector will set targets for buildings, information technology, transport, and solar deployment that are more ambitious than the national targets.
+- The public sector has also set targets for buildings, information technology, transport, and solar deployment. For instance,
+	- All new and existing buildings (upon major retrofit) are to achieve Green Mark Platinu Super Low Energy (SLE) standards or equivalent, where feasible.
+	- All cars procured and registered are to be clean energy vehicles with zero tailpipe emissions, starting from 2023. 
 
 - For all the above, the scope of GreenGov.SG will be expanded to include public sector infrastructure and operations, such as public transport infrastructure and healthcare facilities.
 
 b) **Enable** a sustainable economy and green citizenry, by embedding sustainability in our core business:
 
-- We will require Government agencies to purchase products that meet high efficiency or sustainability standards. This will apply to electrical appliances, as well as water fittings, building materials for interior use, and electric vehicles.
+- We will require Government agencies to purchase products that meet high efficiency or sustainability standards. This will apply to electrical appliances, water fittings, printing paper and building materials for interior use.
 
-- We will factor in companies’ sustainability-related policies and practices when evaluating government tenders, starting with event venue and accommodation, and public waste collection contracts. We will work towards incorporating sustainability as a consideration in our procurement decisions.
+- We will factor in companies’ sustainability-related policies and practices when evaluating government tenders, starting with large construction and Information and Communications Technology (ICT) tenders.
 
-- We will incorporate sustainability features at public spaces such as hawker centres and community clubs to raise public awareness. We will also educate our community on sustainability issues through our school curriculum and community programmes.
+- We will incorporate sustainability features at public spaces, such as hawker centres and community clubs to raise public awareness. We will also educate our community on sustainability issues through our school curriculum and community programmes.
 
 c) **Excite** public officers to contribute actively to sustainability in Singapore:
 
