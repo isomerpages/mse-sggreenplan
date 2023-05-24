@@ -29,11 +29,11 @@ We also plan to increase the efficiency of our gas-fired power plants to reduce 
  
 #### Green Transport
  
-As our transport system grows in capacity and usage, it becomes increasingly important to manage its [environmental footprint](https://www.mot.gov.sg/what-we-do/green-transport). Under the Singapore Green Plan 2030, our vision is for all vehicles to run on cleaner-energy by 2030.
+As our transport system grows in capacity and usage, it becomes increasingly important to manage its [environmental footprint](https://www.mot.gov.sg/what-we-do/green-transport). Our vision is for all vehicles to run on cleaner-energy by 2040.
  
 We will continue to reduce the sector's emissions by encouraging the use of public transport and active mobility and transitioning to a cleaner-energy vehicle population.
  
-While we position ourselves to seize growth opportunities in aviation and maritime, we will explore ways to do so sustainably.
+While we position ourselves to seize growth opportunities in aviation and maritime, our air and sea hubs will also run on cleaner energy, reducing domestic emissions in these sectors. 
 
 #### Green Buildings
  
