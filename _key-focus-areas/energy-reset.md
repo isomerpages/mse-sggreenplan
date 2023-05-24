@@ -13,15 +13,19 @@ permalink: /key-focus-areas/energy-reset/
  
 #### Green Energy
  
-Solar energy remains the most promising [renewable energy](https://www.ema.gov.sg/Renewable_Energy.aspx) source for Singapore when it comes to electricity generation. 
+[Solar energy](https://www.ema.gov.sg/energy-supply-switch-solar.aspx) remains the most promising [renewable energy](https://www.ema.gov.sg/Renewable_Energy.aspx) source for Singapore when it comes to electricity generation. 
  
-Our installed solar capacity has grown by more than six times over the past five years. Today, Singapore is already one of the most solar-dense cities in the world.
+Our installed solar capacity has grown by more than six times over the past five years. Today, Singapore is one of the most solar-dense cities in the world.
  
-We will continue to maximise solar panel deployment, including on rooftops, reservoirs and other open spaces.
- 
-For example, in July 2021, Singapore officially opened the large-scale 60 megawatt-peak floating solar panel system at Tengeh Reservoir, which is about the size of 45 football fields. Our aim is to quintuple our solar energy deployment to at least 2 gigawatt-peak by 2030, equivalent to powering around 350,000 households a year.
- 
-We also plan to tap on regional power grids and Increase efficiency with each new generation of gas-fired power plants to reduce emissions (such as through adopting new, advanced, combined-cycle gas turbines).
+We will continue to maximise solar panel deployment, including on rooftops, reservoirs and other open spaces. Our aim is at least 2 gigawatt-peak of solar energy deployment by 2030, which can generate enough energy to meet the annual electricity needs of around 350,000 households. 
+
+However, solar power output is intermittent in nature and is subject to weather conditions. To maintain grid reliability, Singapore is deploying [Energy Storage Systems (ESS)](https://www.ema.gov.sg/energy-storage-system.aspx) to address solar intermittency and enhance grid resilience. In February 2023, Singapore officially launched a 285 megawatt-hour ESS on Jurong Island. This is the largest ESS in Southeast Asia and was commissioned in 6 months, the fastest in the world of its size to be deployed. 
+
+Regional power grids will allow us to access cleaner energy sources beyond our borders. We aim to import up to 4 gigawatts of low-carbon electricity by 2035, which would make up around 30% of Singapore's projected electricity supply.
+
+Singapore is also exploring emerging low-carbon alternatives such as hydrogen, geothermal and carbon capture, utilisation and storage. In October 2022, we announced our [National Hydrogen Strategy](https://www.mti.gov.sg/Industries/Hydrogen) to develop hydrogen as a major decarbonisation pathway.
+
+We also plan to increase the efficiency of our gas-fired power plants to reduce emissions. 
  
 #### Green Transport
  
