@@ -15,11 +15,15 @@ permalink: /key-focus-areas/energy-reset/
  
 [Solar energy](https://www.ema.gov.sg/energy-supply-switch-solar.aspx) remains the most promising [renewable energy](https://www.ema.gov.sg/Renewable_Energy.aspx) source for Singapore when it comes to electricity generation. 
  
-Our installed solar capacity has grown by more than six times over the past five years. Today, Singapore is one of the most solar-dense cities in the world.
+Today, Singapore is one of the most solar-dense cities in the world. We even have a 60 megawatt-peak inland floating solar photovoltaic system at Tengeh Reservoir, which is about the size of 45 football fields.
+
+<img src="/images/framework/Min%20visit%20to%20Tengeh-5.jpg" alt="Tengeh Reservoir"> 
  
 We will continue to maximise solar panel deployment, including on rooftops, reservoirs and other open spaces. Our aim is at least 2 gigawatt-peak of solar energy deployment by 2030, which can generate enough energy to meet the annual electricity needs of around 350,000 households. 
 
 However, solar power output is intermittent in nature and is subject to weather conditions. To maintain grid reliability, Singapore is deploying [Energy Storage Systems (ESS)](https://www.ema.gov.sg/energy-storage-system.aspx) to address solar intermittency and enhance grid resilience. In February 2023, Singapore officially launched a 285 megawatt-hour ESS on Jurong Island. This is the largest ESS in Southeast Asia and was commissioned in 6 months, the fastest in the world of its size to be deployed. 
+
+<img src="/images/framework/Sembcorp%20Banyan%20Energy%20Storage%20System%20-%2003.jpg" alt="ESS"> 
 
 Regional power grids will allow us to access cleaner energy sources beyond our borders. We aim to import up to 4 gigawatts of low-carbon electricity by 2035, which would make up around 30% of Singapore's projected electricity supply.
 
