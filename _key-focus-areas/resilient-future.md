@@ -14,9 +14,9 @@ permalink: /key-focus-areas/resilient-future/
 
 Climate change could cause mean sea-level rise of up to 1 metre by 2100 in Singapore. If there is a confluence of extreme high tides and storm surges, some projections suggest that sea levels could be as high as 4 to 5 metres. This is high enough to potentially flood one-third of Singapore.
  
-That’s why it is important for an island city like Singapore to plan ahead and [reimagine our coastlines](https://www.pub.gov.sg/CoastalProtection), so we can keep our shores and our people safe.
+It is thus important for an island city like Singapore to plan ahead and [reimagine our coastlines](https://www.pub.gov.sg/CoastalProtection), so we can keep our shores and our people safe.
  
-To develop measures to protect Singapore from the threat of rising sea levels, here’s what PUB has begun doing:
+To develop measures to protect Singapore from the threat of rising sea levels, here is what PUB has begun doing:
  
 - Commenced the development of the Coastal-Inland Flood Model in 2021 to assess flood risks holistically.
 - Studying engineering solutions with nature-based enhancements to hold back the rising seas. These include sea walls, earthen bunds, revetments and mangroves.
