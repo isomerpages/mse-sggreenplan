@@ -25,6 +25,9 @@ However, solar power output is intermittent in nature and is subject to weather 
 
 <img src="/images/framework/Sembcorp%20Banyan%20Energy%20Storage%20System%20-%2003.jpg" alt="ESS"> 
 
+<div align="center">Image Credit: Sembcorp Industries</div>  
+&nbsp;
+
 Regional power grids will allow us to access cleaner energy sources beyond our borders. We aim to import up to 4 gigawatts of low-carbon electricity by 2035, which would make up around 30% of Singapore's projected electricity supply.
 
 Singapore is also exploring emerging low-carbon alternatives such as hydrogen, geothermal and carbon capture, utilisation and storage. In October 2022, we announced our [National Hydrogen Strategy](https://www.mti.gov.sg/Industries/Hydrogen) to develop hydrogen as a major decarbonisation pathway.
