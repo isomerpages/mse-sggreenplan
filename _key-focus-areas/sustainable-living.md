@@ -16,7 +16,7 @@ We aim to be a [zero waste nation](https://www.towardszerowaste.gov.sg/) powered
 
 #### Eco Stewardship Programme
 
-This will involve all MOE schools from Primary to Pre-University. MOE will [strengthen the curriculum](https://www.moe.gov.sg/microsites/cos2021/nurturing-environmental-stewards.html) and school programmes on sustainability. We will work towards a two-thirds reduction of net carbon emissions from the schools sector by 2030, and aim for at least 20% of schools to be carbon neutral by 2030.
+This will involve all MOE schools from Primary to Pre-University. MOE will [strengthen the curriculum](https://www.moe.gov.sg/news/press-releases/20210304-learn-for-life-equipping-ourselves-for-a-changing-world-nurturing-stewards-of-the-environment) and school programmes on sustainability. We will work towards a two-thirds reduction of net carbon emissions from the schools sector by 2030, and aim for at least 20% of schools to be carbon neutral by 2030.
 
 #### Green Commutes
 
