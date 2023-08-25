@@ -22,7 +22,7 @@ a) **Excel** with new and more ambitious targets:
 - By 2030, the public sector aims to reduce energy<sup>1</sup> and water<sup>2</sup> use by 10 per cent from the average of 2018 - 2020 levels, and to reduce the amount of waste disposed<sup>3</sup> by 30 per cent from 2022 levels.<sup>4</sup>    
 
 - The public sector has also set targets for buildings, information technology, transport, and solar deployment. For instance,
-	- All new and existing buildings (upon major retrofit) are to achieve Green Mark Platinu Super Low Energy (SLE) standards or equivalent, where feasible.
+	- All new and existing buildings (upon major retrofit) are to achieve Green Mark Platinum Super Low Energy (SLE) standards or equivalent, where feasible.
 	- All cars procured and registered are to be clean energy vehicles with zero tailpipe emissions, starting from 2023. 
 
 - For all the above, the scope of GreenGov.SG will be expanded to include public sector infrastructure and operations, such as public transport infrastructure and healthcare facilities.
