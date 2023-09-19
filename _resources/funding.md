@@ -1,7 +1,7 @@
 ---
 title: Funding
 description: Funding and Grants
-permalink: /funding
+permalink: /funding/
 ---
 
 

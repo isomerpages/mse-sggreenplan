@@ -1,7 +1,7 @@
 ---
 title: Our Global Commitment
 description: Our Global Commitment
-permalink: /globalcommitment
+permalink: /globalcommitment/
 ---
 
 ### Our Global Commitment to Climate Change and Sustainable Development

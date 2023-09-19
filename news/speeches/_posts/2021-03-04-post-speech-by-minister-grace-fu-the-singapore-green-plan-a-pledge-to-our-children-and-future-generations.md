@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech by Minister Grace Fu: The Singapore Green Plan - A Pledge to Our Children and Future Generations"
-permalink: "/news/speeches/2021-03-04-mse"
+permalink: /news/speeches/2021-03-04-mse/
 ---
 
 **Joint segment on Sustainability at MSE&#39;s COS Debates 2021 – Opening Speech by Ms Grace Fu, Minister for Sustainability and the Environment**

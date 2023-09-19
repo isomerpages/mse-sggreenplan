@@ -1,7 +1,7 @@
 ---
 title: Infographics
 description: Infographics about the Singapore Green Plan  
-permalink: /infographics
+permalink: /infographics/
 ---
 ### 2023
 

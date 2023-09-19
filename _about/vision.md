@@ -1,7 +1,7 @@
 ---
 title: Our Vision
 description: Our Singapore Green Plan Vision
-permalink: /vision
+permalink: /vision/
 ---
 
 ### Sustainable Development – A Core Belief

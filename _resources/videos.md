@@ -1,7 +1,7 @@
 ---
 title: Videos
 description: Videos about the Singapore Green Plan  
-permalink: /videos
+permalink: /videos/
 ---
 
 ### Ministerial Video

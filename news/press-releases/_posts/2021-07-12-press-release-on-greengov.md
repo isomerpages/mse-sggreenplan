@@ -1,6 +1,6 @@
 ---  
 title: GreenGov.SG Movement Sets New Measures and Targets to Cut Carbon Emissions Across Public Sector 
-permalink: /news/press-releases/2021-07-12-greengov
+permalink: /news/press-releases/2021-07-12-greengov/
 image:  
 file_url:  
 description:  

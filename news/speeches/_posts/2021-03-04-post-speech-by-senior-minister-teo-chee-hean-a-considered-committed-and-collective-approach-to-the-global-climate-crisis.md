@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech by Senior Minister Teo Chee Hean: A Considered, Committed and Collective Approach to the Global Climate Crisis"
-permalink: "/news/speeches/2021-03-04-pmo"
+permalink: /news/speeches/2021-03-04-pmo/
 ---
 **Joint Segment On Sustainability at MSE&#39;s COS Debates 2021 – Speech By Senior Minister And Coordinating Minister For National Security Teo Chee Hean**
 
