@@ -17,13 +17,13 @@ permalink: /key-focus-areas/energy-reset/
  
 Today, Singapore is one of the most solar-dense cities in the world. We even have a 60 megawatt-peak inland floating solar photovoltaic system at Tengeh Reservoir, which is about the size of 45 football fields.
 
-<img src="/images/framework/Min%20visit%20to%20Tengeh-5.jpg" alt="Tengeh Reservoir"> 
+<img src="/images/framework/min%20visit%20to%20tengeh-5.jpg" alt="Tengeh Reservoir"> 
  
 We will continue to maximise solar panel deployment, including on rooftops, reservoirs and other open spaces. Our aim is at least 2 gigawatt-peak of solar energy deployment by 2030, which can generate enough energy to meet the annual electricity needs of around 350,000 households. 
 
 However, solar power output is intermittent in nature and is subject to weather conditions. To maintain grid reliability, Singapore is deploying [Energy Storage Systems (ESS)](https://www.ema.gov.sg/energy-storage-system.aspx) to address solar intermittency and enhance grid resilience. In February 2023, Singapore officially launched a 285 megawatt-hour ESS on Jurong Island. This is the largest ESS in Southeast Asia and was commissioned in 6 months, the fastest in the world of its size to be deployed. 
 
-<img src="/images/framework/Sembcorp%20Banyan%20Energy%20Storage%20System%20-%2003.jpg" alt="ESS"> 
+<img src="/images/framework/sembcorp%20banyan%20energy%20storage%20system%20-%2003.jpg" alt="ESS"> 
 
 <div align="center">Image Credit: Sembcorp Industries</div>  
 &nbsp;
