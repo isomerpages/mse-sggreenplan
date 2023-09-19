@@ -3,7 +3,7 @@ title: Joint Segment on Sustainability
 permalink: /cos/
 ---
 
-![](../images/resources/cos-sgp-infographics.png) _[Download Infographic](files/sgp-cos-infographics.pdf)_
+![](../images/resources/cos-sgp-infographics.png) _[Download Infographic](/files/sgp-cos-infographics.pdf)_
 
 ### **Speeches**
 
@@ -23,7 +23,7 @@ permalink: /cos/
 
 ### **Press Releases and Factsheets**
 
-1. [Public Sector Leads The Way With Bold Targets Under Singapore Green Plan 2030](files/cos-sgp-factsheet.pdf){:class="external-link" target="\_blank"}
+1. [Public Sector Leads The Way With Bold Targets Under Singapore Green Plan 2030](/files/cos-sgp-factsheet.pdf){:class="external-link" target="\_blank"}
 2. [GreenGov.SG: Public Sector Leads The Way Towards A Low-carbon And Sustainable Future](/resource-room/2021-03-04-press-release-on-green-government){:class="external-link" target="\_blank"}
 3. [Closing the Packaging and Plastic Waste Loop](https://www.nea.gov.sg/docs/default-source/media-files/cos2021/cos2021-media-factsheet-initiatives-to-close-the-packaging-and-plastic-waste-loop.pdf){:class="external-link" target="\_blank"}
 4. [Mandatory Food Waste Reporting Framework](https://www.nea.gov.sg/docs/default-source/media-files/cos2021/cos2021-media-factsheet-mandatory-framework-for-food-waste-reporting.pdf){:class="external-link" target="\_blank"}
@@ -31,7 +31,7 @@ permalink: /cos/
 6. [Accelerating Nationwide Deployment of Electric Vehicle Charging Points](https://www.lta.gov.sg/content/ltagov/en/newsroom/2021/3/news-release/Accelerating_nationwide_deployment_of_electric_vehicle_charging_points.html){:class="external-link" target="\_blank"}
 7. [Encouraging the Adoption of Electric Cars for a More Sustainable Land Transport Sector](https://www.lta.gov.sg/content/ltagov/en/newsroom/2021/3/news-release/Encouraging_the_adoption_of_electric_cars.html){:class="external-link" target="\_blank"}
 8. [Enterprise Sustainability Programme](https://www.mti.gov.sg/-/media/MTI/COS-2021/Factsheets/3-ESP_MTI-COS-2021-Media-Factsheet.pdf){:class="external-link" target="\_blank"}
-9. [Sentosa to Transform into Carbon-neutral Destination by 2030](files/sentosa-media-release.pdf){:class="external-link" target="\_blank"}
+9. [Sentosa to Transform into Carbon-neutral Destination by 2030](/files/sentosa-media-release.pdf){:class="external-link" target="\_blank"}
 
 ### **Infographics for Social Media**
 
