@@ -38,7 +38,7 @@ c)	**Excite** public officers to contribute actively to sustainability in Singap
 
 - We will organise campaigns to raise awareness and encourage public officers to take simple steps to lead a more sustainable lifestyle. 
 
-4	As we embark on GreenGov.SG, the public sector will look to private sector leaders in the sustainability space, for innovations, best practices, and partnerships. Please refer to [Annex A](../../files/caw-media-release-annex-a.pdf) for more details on the targets and measures.
+4	As we embark on GreenGov.SG, the public sector will look to private sector leaders in the sustainability space, for innovations, best practices, and partnerships. Please refer to [Annex A](/files/caw-media-release-annex-a.pdf) for more details on the targets and measures.
 
 **Record Number of Activities at Climate Action Week**
 
