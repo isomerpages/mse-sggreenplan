@@ -31,7 +31,7 @@ permalink: /cos/
 6. [Accelerating Nationwide Deployment of Electric Vehicle Charging Points](https://www.lta.gov.sg/content/ltagov/en/newsroom/2021/3/news-release/Accelerating_nationwide_deployment_of_electric_vehicle_charging_points.html){:class="external-link" target="\_blank"}
 7. [Encouraging the Adoption of Electric Cars for a More Sustainable Land Transport Sector](https://www.lta.gov.sg/content/ltagov/en/newsroom/2021/3/news-release/Encouraging_the_adoption_of_electric_cars.html){:class="external-link" target="\_blank"}
 8. [Enterprise Sustainability Programme](https://www.mti.gov.sg/-/media/MTI/COS-2021/Factsheets/3-ESP_MTI-COS-2021-Media-Factsheet.pdf){:class="external-link" target="\_blank"}
-9. [Sentosa to Transform into Carbon-neutral Destination by 2030](/files/resources/sentosa-media-release.pdf){:class="external-link" target="\_blank"}
+9. [Sentosa to Transform into Carbon-neutral Destination by 2030](files/sentosa-media-release.pdf){:class="external-link" target="\_blank"}
 
 ### **Infographics for Social Media**
 
