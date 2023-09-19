@@ -50,4 +50,4 @@ _(Please refer to_ _Annex A_ _for details on the initiatives and targets under t
 
 ---
 
-**[View Annex](../../files/media-release-annex.pdf)**
+**[View Annex](/files/media-release-annex.pdf)**
