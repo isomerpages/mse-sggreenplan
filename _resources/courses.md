@@ -1,7 +1,7 @@
 ---
 title: Courses
 description: Courses about the Singapore Green Plan  
-permalink: /courses
+permalink: /courses/
 ---
 
 ### Courses by Institutes of Higher Learning

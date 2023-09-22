@@ -1,6 +1,6 @@
 ---  
 title: GreenGov.SG Movement Sets New Measures and Targets to Cut Carbon Emissions Across Public Sector 
-permalink: /news/press-releases/2021-07-12-greengov
+permalink: /news/press-releases/2021-07-12-greengov/
 image:  
 file_url:  
 description:  
@@ -38,13 +38,13 @@ c)	**Excite** public officers to contribute actively to sustainability in Singap
 
 - We will organise campaigns to raise awareness and encourage public officers to take simple steps to lead a more sustainable lifestyle. 
 
-4	As we embark on GreenGov.SG, the public sector will look to private sector leaders in the sustainability space, for innovations, best practices, and partnerships. Please refer to [Annex A](../../files/caw-media-release-annex-a.pdf) for more details on the targets and measures.
+4	As we embark on GreenGov.SG, the public sector will look to private sector leaders in the sustainability space, for innovations, best practices, and partnerships. Please refer to [Annex A](/files/caw-media-release-annex-a.pdf) for more details on the targets and measures.
 
 **Record Number of Activities at Climate Action Week**
 
 5	While the public sector is taking the lead by setting new targets and measures, achieving Singapore’s sustainability goals is a whole-of-nation endeavour. This year’s PFE Forum, themed “Realising the Green Plan Together”, brings together the Ministry of Sustainability and the Environment (MSE)’s partners from the Private, People and Public (3P) sectors and members of public to discuss key environmental issues, and explore how everyone can play a part to support the Green Plan. 
 
-6	The PFE Forum kicks off the annual Climate Action Week organised by MSE. This year’s Climate Action Week takes place from 12 to 18 July and features a record number of activities aimed at increasing awareness and action on climate change. **Over 60 partners from the 3P (People, Private and Public) sectors have organised more than 130 wide-ranging activities**, which include conversations, webinars, workshops, exhibitions, competitions, social media outreach, and even a concert. Please refer to [Annex B](../../files/CAW_list_highlights.pdf) for a list of Climate Action Week activities.
+6	The PFE Forum kicks off the annual Climate Action Week organised by MSE. This year’s Climate Action Week takes place from 12 to 18 July and features a record number of activities aimed at increasing awareness and action on climate change. **Over 60 partners from the 3P (People, Private and Public) sectors have organised more than 130 wide-ranging activities**, which include conversations, webinars, workshops, exhibitions, competitions, social media outreach, and even a concert. Please refer to [Annex B](/files/caw_list_highlights.pdf) for a list of Climate Action Week activities.
 
 7	Climate Action Week supports the Singapore Together movement, and is part of the MSE Family’s efforts to: (i) raise awareness of climate action efforts by the 3P sectors in support of the Green Plan; (ii) partner communities and organisations to realise Singapore’s net-zero emissions aspirations; (iii) rally citizens to adopt a sustainable lifestyle and be environmental stewards; and (iv) co-create sustainable solutions with public and stakeholders. Recent partnership and engagement initiatives include the Citizens’ Workgroup on reducing the excessive consumption of disposables from September 2020 to March 2021, and the inaugural Green Plan Conversation in April 2021.
 
@@ -59,4 +59,4 @@ c)	**Excite** public officers to contribute actively to sustainability in Singap
 
 <br>
 
-[View GreenGovSG Infographic](../../files/greengov-infographic.pdf)
+[View GreenGovSG Infographic](/files/greengov-infographic.pdf)

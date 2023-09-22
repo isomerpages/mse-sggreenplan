@@ -1,7 +1,7 @@
 ---
 title: Overview
 description: About the Singapore Green Plan  
-permalink: /overview
+permalink: /overview/
 ---
 
 <img src="https://d33wubrfki0l68.cloudfront.net/42da8cd22008325d114dd453c3b88d53aa1ba725/16996/images/framework/framework_overview.jpg" alt="green plan">

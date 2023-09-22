@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singapore Green Plan 2030 Charts Ambitious Targets for Next 10 Years to Catalyse National Sustainability Movement"
-permalink: "/news/press-releases/2021-02-10-press-release-on-green-plan"
+permalink: /news/press-releases/2021-02-10-press-release-on-green-plan/
 ---
 
 **Singapore Green Plan 2030 Charts Ambitious Targets for Next 10 Years to Catalyse National Sustainability Movement**
@@ -50,4 +50,4 @@ _(Please refer to_ _Annex A_ _for details on the initiatives and targets under t
 
 ---
 
-**[View Annex](../../files/media-release-annex.pdf)**
+**[View Annex](/files/media-release-annex.pdf)**

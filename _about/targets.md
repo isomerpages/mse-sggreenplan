@@ -1,7 +1,7 @@
 ---
 title: Our Targets
 description: Our Singapore Green Plan 2030 Targets
-permalink: /targets
+permalink: /targets/
 ---
 
 ### Our Key Targets for the Green Plan
