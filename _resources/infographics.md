@@ -1,10 +1,15 @@
 ---
 title: Infographics
-description: Infographics about the Singapore Green Plan  
+description: Infographics about the Singapore Green Plan
 permalink: /infographics/
+variant: markdown
 ---
 ### 2023
 
+![](/images/infographics/cop28_infographic_ca_efforts.png)
+
+![](/images/infographics/cop28_infographic_cm_efforts.png)
+																													 
 <img src="/images/infographics/cosgp2023-1.png" alt="COS 2023 Singapore Green Plan 2030 Image 1"> 
 
 <img src="/images/infographics/cosgp2023-2.png" alt="COS 2023 Singapore Green Plan 2030 Image 2"> 
