@@ -24,4 +24,4 @@ variant: markdown
 
 [Singapore Green Plan Key Updates 2021 (PDF)](/files/SGP2021_overview_1.pdf)
 
-[Tips on making a positive environmental impact (PDF)](/files/SGP2023_overview.pdf)
+[Tips on making a positive environmental impact (PDF)](/files/SGP_actionables.pdf)
