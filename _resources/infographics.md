@@ -5,10 +5,6 @@ permalink: /infographics/
 variant: markdown
 ---
 ### 2023
-
-![Singapore's Climate Adaptation Efforts](/images/infographics/COP28_011_Revised_CA_efforts.png)
-
-![Singapore's Climate Mitigation Efforts](/images/infographics/COP28_011_Revised_CM_efforts.png)
 																													 
 <img src="/images/infographics/cosgp2023-1.png" alt="COS 2023 Singapore Green Plan 2030 Image 1"> 
 
