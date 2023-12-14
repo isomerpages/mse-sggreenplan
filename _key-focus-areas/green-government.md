@@ -15,7 +15,7 @@ Under GreenGov.SG, the public sector will strive to attain ambitious sustainabil
 
 GreenGov.SG has three pillars:
 
-<img src="/images/greengov-infographic.png" alt="Greengov Infographic">
+![](/images/greengovpillars.JPG)
 
 **GreenGov.SG Report**
 
