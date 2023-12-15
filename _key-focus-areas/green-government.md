@@ -15,7 +15,42 @@ Under GreenGov.SG, the public sector will strive to attain ambitious sustainabil
 
 GreenGov.SG has three pillars:
 
-![](/images/greengov3pillars.JPG)
+#### Excel 
+
+<img src="/images/Excel.JPG" style="max-width:20vw;" alt="Excel">
+<br>
+
+| Focus Area | Target | 
+| -------- | -------- | 
+| Greenhouse Gas Emissions | Net zero emissions around 2045, after peaking emissions around 2025 |
+| Energy | Reduce energy use¹&nbsp;by 10% from the baseline by 2030 |
+| Water | Reduce water use² by 10% from the baseline by 2030
+| Waste | Reduce waste disposed of³ by 30% from the baseline by 2030 |
+
+¹ Represented by the Energy Utilisation Index, which is energy used per unit area.<br>² Represented by the Water Efficiency Index, which is water used per person per day.<br>³ Represented by the Waste Disposal Index, which is waste disposed of per person per day. 
+
+#### Enable 
+
+<img src="/images/Enable.JPG" style="max-width:20vw;" alt="Excel">
+
+<br> 
+
+| Focus Area | Target | 
+| -------- | -------- | 
+| Green Economy | Incorporate environmental sustainability considerations into all government procurement by 2028 |
+| Green Citizenry | Embed environmental sustainability into public touchpoints and community-based programmes |
+
+
+
+#### Excite
+
+<img src="/images/Excite.JPG" style="max-width:20vw;" alt="Excel"> 
+<br>
+
+| Focus Area | Target | 
+| -------- | -------- | 
+| Capability Building | Elevate environmental sustainability awareness and knowledge across the public sector |
+| Culture Building | Enable public officers to take environmental sustainability action in the workplace and as part of daily living |
 
 **GreenGov.SG Report**
 
