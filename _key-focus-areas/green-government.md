@@ -9,13 +9,13 @@ variant: markdown
 
 #### The public sector will lead the way to pursue sustainable development with the **GreenGov.SG** initiative. 
 
-Launched in 2021, GreenGov.SG is a key enabler of the Singapore Green Plan 2030.The name “GreenGov.SG” reflects the cross-cutting role of the Government in supporting the national sustainability agenda.
+Launched in 2021, GreenGov.SG is a key enabler of the Singapore Green Plan 2030. The name “GreenGov.SG” reflects the cross-cutting role of the Government in supporting the national sustainability agenda.
 
 Under GreenGov.SG, the public sector will strive to attain ambitious sustainability targets in carbon abatement and resource efficiency, and be a positive influence and enabler of green efforts.
 
 GreenGov.SG has three pillars:
 
-![](/images/greengovpillars.JPG)
+![](/images/greengov3pillars.JPG)
 
 **GreenGov.SG Report**
 
@@ -31,10 +31,6 @@ As we progress along our sustainability journey, we will continue to learn from 
 
 It will require a whole-of-nation effort to achieve our national environmental sustainability goals. Together, we can chart our way towards a low-carbon and sustainable future for Singapore.
 
-1 Energy used per unit area.  
-2 Water used per person per day.  
-3 Waste disposed of per person per day.  
-4 The baseline for energy and water takes into account operations under pandemic circumstances, while the baseline for waste is aligned with the timeline to implement standardised waste measurement for all public waste collection contracts.
 
 **In support of SDGs:**
 
