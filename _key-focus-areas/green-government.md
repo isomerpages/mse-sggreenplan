@@ -1,77 +1,44 @@
 ---
 title: Green Government
-description: GreenGov.SG reflects the public sector’s commitment to be a positive enabler for green efforts.
+description: GreenGov.SG reflects the public sector’s commitment to be a
+  positive enabler for green efforts.
 permalink: /key-focus-areas/green-government/
+variant: markdown
 ---
 <img src="/images/greengovlogo1.png" style="max-width:30vw;" alt="Green Government SG">
 
 #### The public sector will lead the way to pursue sustainable development with the **GreenGov.SG** initiative. 
 
-Formerly known as the Public Sector Taking the Lead in Environmental Sustainability (PSTLES) initiative, the GreenGov.SG initiative forms a component and enabler of the Singapore Green Plan 2030. 
+Launched in 2021, GreenGov.SG is a key enabler of the Singapore Green Plan 2030.The name “GreenGov.SG” reflects the cross-cutting role of the Government in supporting the national sustainability agenda.
 
-The name “GreenGov.SG” reflects the cross-cutting role of the Government in supporting the national sustainability agenda mapped out in the Green Plan. 
+Under GreenGov.SG, the public sector will strive to attain ambitious sustainability targets in carbon abatement and resource efficiency, and be a positive influence and enabler of green efforts.
 
-Under GreenGov.SG, the public sector will strive to attain ambitious sustainability targets in carbon abatement and resource efficiency, and be a positive influence and enabler of green efforts. Every public officer will be encouraged and supported to embrace sustainable practices.
+GreenGov.SG has three pillars:
 
-**GreenGov.SG has three pillars:**
+![](/images/greengovpillars.JPG)
 
-a) **Excel** with new and more ambitious targets:
+**GreenGov.SG Report**
 
-- The public sector has committed to peak emissions around 2025 and achieve net-zero emissions around 2045. This is ahead of the national target to achieve net-zero emissions by 2050.
+The inaugural GreenGov.SG report was published in December 2023. This report provides a snapshot of the Singapore public sector’s FY2022 environmental sustainability performance. It also documents the public sector’s key strategies and initiatives to enhance environmental sustainability and meet our targets.
 
-- By 2030, the public sector aims to reduce energy<sup>1</sup> and water<sup>2</sup> use by 10 per cent from the average of 2018 - 2020 levels, and to reduce the amount of waste disposed<sup>3</sup> by 30 per cent from 2022 levels.<sup>4</sup>    
+**View the GreenGov.SG Report [here](https://www.mse.gov.sg/files/resources/greengovsg-report-fy2022.pdf).**
 
-- The public sector has also set targets for buildings, information technology, transport, and solar deployment. For instance,
-	- All new and existing buildings (upon major retrofit) are to achieve Green Mark Platinum Super Low Energy (SLE) standards or equivalent, where feasible.
-	- All cars procured and registered are to be clean energy vehicles with zero tailpipe emissions, starting from 2023. 
+The Singapore Public Sector is a member of the Net Zero Government Initiative. Participating countries commit to achieving net zero emission from national government operations no later than 2050, and develop a roadmap that outlines the pathway for achieving the net zero commitment.&nbsp;
 
-- For all the above, the scope of GreenGov.SG will be expanded to include public sector infrastructure and operations, such as public transport infrastructure and healthcare facilities.
+**The Net Zero Roadmap can be found [here.](https://www.sustainability.gov/pdfs/singapore-nzgi-roadmap.pdf)**
 
-b) **Enable** a sustainable economy and green citizenry, by embedding sustainability in our core business:
+As we progress along our sustainability journey, we will continue to learn from others, and improve our performance and plans.&nbsp;
 
-- We will require Government agencies to purchase products that meet high efficiency or sustainability standards. This will apply to electrical appliances, water fittings, printing paper and building materials for interior use.
+It will require a whole-of-nation effort to achieve our national environmental sustainability goals. Together, we can chart our way towards a low-carbon and sustainable future for Singapore.
 
-- We will factor in companies’ sustainability-related policies and practices when evaluating government tenders, starting with large construction and Information and Communications Technology (ICT) tenders.
-
-- We will incorporate sustainability features at public spaces, such as hawker centres and community clubs to raise public awareness. We will also educate our community on sustainability issues through our school curriculum and community programmes.
-
-c) **Excite** public officers to contribute actively to sustainability in Singapore:
-
-- There will be regular sharing sessions organised within the public sector to promote the exchange of ideas, best practices, and the latest technological solutions, so as to inspire and support public officers to champion ground-up initiatives.
-
-- We will organise campaigns to raise awareness and encourage public officers to take simple steps to lead a more sustainable lifestyle.
-
-
-<img src="/images/greengov-infographic.png" alt="Greengov Infographic">
-
-
-As we embark on GreenGov.SG, the public sector will look to private sector leaders in the sustainability space, for innovations, best practices, and partnerships.
-
-
-<!-- 
-**The public service will undergo four key shifts under GreenGov.SG:**
-
-  - First, there will be more ambitious targets, including a carbon emissions target for the first time. We aim to peak the public service’s emissions around 2025, ahead of the national target.
-
-  - Second, the scope of GreenGov.SG will be expanded. In target setting, we will go beyond government-owned offices, to include public sector infrastructure and operations, such as transport infrastructure and healthcare facilities.
-
-  - Third, we will embed environmental sustainability in the public service’s core business areas, for example, in areas like green procurement and education. This will raise sustainability awareness and catalyse green practices beyond the public service. 
-
-  - Fourth, we aim to build a culture of sustainability amongst public servants. Public servants will be encouraged to adopt more environmentally-friendly practices and initiate ground-up initiatives within their agencies.   -->
-
-While the public sector is taking the lead, achieving our goal of sustainable development is a whole-of-nation endeavour. With the refreshed GreenGov.SG initiative, the Government hopes to inspire our people and partners to embrace green practices and make sustainability a way of life. Together, we can chart our way towards a low-carbon and sustainable future for Singapore. 
-
-As part of the Green Plan, GreenGov.SG is a living plan. We will continue to refresh the specific targets, strategies and initiatives over time, as new opportunities avail themselves. 
-
-<sup>1</sup> *Energy used per unit area.*<br>
-<sup>2</sup> *Water used per person per day.*<br>
-<sup>3</sup> *Waste disposed of per person per day.*<br>
-<sup>4</sup> *The baseline for energy and water takes into account operations under pandemic circumstances, while the baseline for waste is aligned with the timeline to implement standardised waste measurement for all public waste collection contracts.*<br>
-
+1 Energy used per unit area.  
+2 Water used per person per day.  
+3 Waste disposed of per person per day.  
+4 The baseline for energy and water takes into account operations under pandemic circumstances, while the baseline for waste is aligned with the timeline to implement standardised waste measurement for all public waste collection contracts.
 
 **In support of SDGs:**
 
 <div class="sdg-container">
-	<img class="sdg-image" src="/images/framework/greengovernment_01.jpg" alt="6 9 12" />
-	<img class="sdg-image" src="/images/framework/greengovernment_02.jpg" alt="13 17" />
+	<img class="sdg-image" src="/images/framework/greengovernment_01.jpg" alt="6 9 12">
+	<img class="sdg-image" src="/images/framework/greengovernment_02.jpg" alt="13 17">
 </div>
