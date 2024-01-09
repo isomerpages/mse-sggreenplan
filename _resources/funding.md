@@ -2,10 +2,9 @@
 title: Funding
 description: Funding and Grants
 permalink: /funding/
+variant: markdown
 ---
-
-
-# For Communities, Schools, Businesses
+## For Communities, Schools, Businesses
 
 #### SG Eco Fund
 The S$50 million [SG Eco Fund](https://www.mse.gov.sg/sgecofund/) was launched by the Ministry of Sustainability and the Environment to support the co-creation of solutions for a sustainable Singapore. The Fund is open to the People, Private and Public (3P) sectors and aims to support ground-up projects that involve the community and advance environmental sustainability in Singapore. Projects across a broad range of areas related to sustainability, including climate change mitigation, waste reduction, as well as the conservation of nature and biodiversity, are supported. 
@@ -21,7 +20,7 @@ The [Our Singapore Fund](https://www.sg/oursingaporefund/getting-started) suppor
 
 
 
-# For Youths
+## For Youths
 
 #### National Youth Fund
 The [National Youth Fund](https://www.nyc.gov.sg/en/initiatives/grants/national-youth-fund/) supports ground-up youth initiatives to champion community and social causes through partnerships with Youth Sector Organisations (YSO) including youth social enterprises, schools, Institutes of Higher Learning (IHL) and other community partners.
@@ -32,14 +31,14 @@ The [National Youth Fund](https://www.nyc.gov.sg/en/initiatives/grants/national-
 #### Youth Action Challenge
 The [Youth Action Challenge](https://youthactionplan.sg/YACSeason3/) is a platform for youth to provide solutions that tackle the issues around identified pillars - including Energy Reset and Sustainable Living Pillars of the Green Plan.
 
-# For Schools
+## For Schools
 
 #### Environment Fund for Institutes of Higher Learning/Schools
 
 The [Environment Fund for Institutes of Higher Learning (EFIHL)](https://www.cgs.gov.sg/what-we-do/programmes/youth-for-the-environment-day/funding/environment-fund-for-ihls) is a grant to support youth-driven environment projects in the publicly-funded IHLs and to encourage the setup of new environment groups in these IHLs. The Environment Fund for Schools (EFS) encourages MOE schools to champion environmental ownership and a pro-environment mindset amongst students and the community by leading and organising environmental initiatives.
 
 
-# For Businesses
+## For Businesses
 
 #### Enterprise Sustainability Programme
 The [Enterprise Sustainability Programme](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/sustainability/enterprise-sustainability-programme) supports Singapore companies, especially SMEs, to build capabilities and capture new opportunities around sustainability. 	Enterprise Singapore will set aside up to S$180 million for the programme, which is expected to benefit at least 6,000 enterprises over the next four years. The programme will support training workshops, capability and product development projects, and key enablers such as certification and financing.
@@ -61,7 +60,7 @@ The [BREEF](https://www1.bca.gov.sg/buildsg/sustainability/green-mark-incentive-
 The Monetary Authority of Singapore (MAS)'s [Sustainable Bond Grant Scheme](https://www.mas.gov.sg/schemes-and-initiatives/sustainable-bond-grant-scheme) encourages the issuance of green, social, sustainability and sustainability-linked bonds in Singapore and is open to first-time and repeat issuers. 
 
 
-# Industry-specific
+## Industry-specific
 
 #### Agri-food Cluster Transformation (ACT) Fund
 The [Agri-food Cluster Transformation (ACT) Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund) supports local farmers in their efforts to expand production capability, boost yield, raise productivity, sustainability and improve circularity of resource use.
@@ -71,7 +70,7 @@ The [Maritime Singapore Green Initiative](https://www.mpa.gov.sg/web/portal/home
  seeks to reduce the environmental impact of shipping and related activities and to promote clean and green shipping in Singapore. In 2011, the Maritime and Port Authority of Singapore (MPA) pledged to invest up to S$100 million over 5 years in the Maritime Singapore Green Initiative.
 
 
-# R&D
+## R&D
 
 #### Built Environment Accelerate to Market Programme
 The [Built Environment Accelerate to Market Programme](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/built-environment-accelerate-to-market-programme)was set up to bring inventors and companies together to fast-track the innovation process to solve real world industry challenges. 
@@ -85,5 +84,3 @@ The [LCER FI](https://www.a-star.edu.sg/Research/funding-opportunities/lcer-fi-g
 
 #### Waste to Energy (WTE) Test-bedding & Demonstration Funding Initiative
 The [Waste-to-Energy (WTE) Test-bedding and Demonstration Funding Initiative](https://www.nea.gov.sg/programmes-grants/grants-and-awards/wte-testbed-demo-initiative) aims to incentivise industry and IHLs to collaborate and translate their R&D outcomes into pilot scale or demonstration projects.  Applicants may select any suitable premises to test-bed or demonstrate their WTE technologies. NEA encourages applicants to tap on the plug-and-play features of the recently completed Nanyang Technological University’s (NTU) WTE Research Facility (WTERF), which is co-developed and co-funded by NEA.
-
-
