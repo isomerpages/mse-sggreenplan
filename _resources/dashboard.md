@@ -8,6 +8,8 @@ description: ""
 *maybe put a nice pic here for aesthetics. example:*
 ![](/images/sharing.jpg)  
 *small note here if required*
+
+# we could use a table
 ***
 |Category                                    |Target                                                          |Absolute Progress |
 | ------------------------------- | ---------------------------------------- | ------------------ |
@@ -15,8 +17,144 @@ description: ""
 |**ENERGY RESERT - Green Energy** | Increase solar energy deployment to at least 1.5 GWp by 2025 and at least 2GWp by 2030   | (imagine a pic of a meter bar pls) ![](/images/thumbnail.png)
 
 # **OR**
-#### Click into each category to view our targets and progress!
 
+# an accordion 
+
+####  Click on each category to view our targets and progress!
+
+<style>
+	.accordion {
+		margin-bottom: 1.5rem;
+	}
+	
+	.accordion .row {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		/* gap: .5rem; */
+		margin: 0;
+	}
+	
+	.accordion .row .col {
+		width: 100%;
+	}
+	
+	.accordion > .bp-accordion-header {
+		background-color: transparent;
+		padding-bottom: .5rem;
+		border-bottom: 2px solid black;
+		font-size: 24px;
+	}
+	
+	.bp-accordion-body {
+		margin-bottom: 5rem;
+	}
+	
+	.accordion > .bp-accordion-header:hover {
+		background-color: transparent;
+	}
+	
+	.accordion > .bp-accordion-header > .bp-accordion-button {
+		display: block;
+		width: 100%;
+		text-decoration: none;
+		margin: 0;
+		color: black;
+	}
+	
+	.bp-accordion-button::before {
+		content: "";
+	}
+	
+	.bp-accordion-button.sgds-icon-plus {
+		content: "";
+	}
+	
+	.bp-accordion-button.sgds-icon-minus {
+		content: "";
+	}
+	
+	.bp-accordion-button-wrapper {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	
+	.arrow-icon {
+		transition: all .5s;
+		transform: rotate(180deg);
+	}
+	
+	.accordion:first-child .arrow-icon {
+		transform: rotate(0);
+	}
+	
+	.bp-accordion-header:has( > .bp-accordion-button.sgds-icon-plus) .arrow-icon {
+	transform: rotate(180deg);
+	}
+	
+	.bp-accordion-header:has( > .bp-accordion-button.sgds-icon-minus) .arrow-icon {
+	transform: rotate(0);
+	}
+</style>
+ 
+<div class="accordion-container">
+		<!-- Accordion Item 1 -->
+    <div class="accordion">
+        <h3 class="bp-accordion-header">
+            <a class="bp-accordion-button">
+							<div class="bp-accordion-button-wrapper">
+									<span>Public Agencies:</span>
+									<svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg" class="arrow-icon"><g stroke-width="1" stroke="none" fill-rule="evenodd" fill="none" id="feArrowDown0"><g fill="currentColor" id="feArrowDown1"><path d="m6 7l6 6l6-6l2 2l-8 8l-8-8z" id="feArrowDown2"></path></g></g></svg>
+							</div>
+            </a>
+        </h3>
+						<!-- Accordion 1 - Body -->
+            <div class="bp-accordion-body">
+							<div class="row">
+								<!-- Accordion Item 1 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/govtech.png">
+								</div>
+								<!-- Accordion Item 2 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/landtransportauthority.jpg">
+								</div>
+								<!-- Accordion Item 3 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/ministryofsustainabilityandenvironment.jpg">
+								</div>
+								<!-- Accordion Item 4 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/nationalenvironmentalagency.jpg">
+								</div>
+									<!-- Accordion Item 5 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/national%20library%20board.PNG">
+								</div>
+								<!-- Accordion Item 6 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/nparks.PNG">
+								</div>
+								<!-- Accordion Item 7 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/publicutilitiesboard.jpg">
+								</div>
+								<!-- Accordion Item 8 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/sentosa%20dev%20corp.jpg">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/singapore%20food%20agency%20(sfa).jpg">
+								</div>
+										<!-- Accordion Item 10 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/singaporetourismboard.jpg">
+								</div>
+								</div>
+							</div>
+        </div>
+	
 <hr>
 <details>
 	<summary><h5>NATIONAL EMISSIONS</h5>  
@@ -80,4 +218,4 @@ description: ""
       
     
 	
-<hr></details>
+<hr></details></div>
