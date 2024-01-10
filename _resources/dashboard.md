@@ -115,42 +115,6 @@ description: ""
 								- 
 									
 							</div>
-								<!-- Accordion Item 2 -->
-								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/landtransportauthority.jpg">
-								</div>
-								<!-- Accordion Item 3 -->
-								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/ministryofsustainabilityandenvironment.jpg">
-								</div>
-								<!-- Accordion Item 4 -->
-								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/nationalenvironmentalagency.jpg">
-								</div>
-									<!-- Accordion Item 5 -->
-								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/national%20library%20board.PNG">
-								</div>
-								<!-- Accordion Item 6 -->
-								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/nparks.PNG">
-								</div>
-								<!-- Accordion Item 7 -->
-								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/publicutilitiesboard.jpg">
-								</div>
-								<!-- Accordion Item 8 -->
-								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/sentosa%20dev%20corp.jpg">
-								</div>
-								<!-- Accordion Item 9 -->
-								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/singapore%20food%20agency%20(sfa).jpg">
-								</div>
-										<!-- Accordion Item 10 -->
-								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/singaporetourismboard.jpg">
-								</div>
 								</div>
 							</div>
         </div>
@@ -174,7 +138,6 @@ description: ""
       
       
         <meter max="100" min="0" value="19">19%</meter> 19% <br>
-      
     
 	
 </details>
