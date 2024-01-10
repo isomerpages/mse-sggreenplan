@@ -50,10 +50,10 @@ input:checked + label + .accordion-content {
 <!-- end of accordion style -->
 
 <style>
-				  meter {
-          width: 500px;
-          height: 50px;
-          }
+	    meter {
+      width: 500px;
+      height: 50px;
+      }
 </style>
 <!-- end of meter bar style -->
 
@@ -61,7 +61,7 @@ input:checked + label + .accordion-content {
 ## Green Plan Progress Dashboard  
 *maybe put a nice pic here for aesthetics. example:*
 ![](/images/sharing.jpg)  
-*small note here if required*
+*text introducing the dashboard xx xx xx x*
 
 
 ***
@@ -73,59 +73,42 @@ input:checked + label + .accordion-content {
 # **OR**
 
 
-### **Click** on the categories below to view our targets and progress!
+## **Click** on the categories below to view our targets and progress!
 
 ***
 
 <div>
-	<input id="title1" type="checkbox"><label for="title1">NATIONAL EMISSIONS</label>
+	<input id="title1" type="checkbox"><label for="title1">National Emissions</label>
 	<div class="accordion-content">
 		<p>
 			
 - Achieve net zero emissions by 2050  
-<meter max="100" min="0" value="19">19%</meter> 19% <br></p>
+<meter low="20" max="100" min="0" value="19">19% </meter> 19% <br></p>
+	<!--- values will remain yellow when just below 'low'.-->
+  <!--- question: will we have negative values? that'll be hard to code-->
+
+    </div>
 </div>
-	
-<hr>
-<details>
-	<summary><h5>NATIONAL EMISSIONS</h5></summary>
-	
-- Achieve net zero emissions by 2050  
-	
-<style>
-				  meter {
-          width: 500px;
-          height: 50px;
-          }
-</style>
-     
-<meter max="100" min="0" value="19">19%</meter> 19% <br>
-	
-</details>
-<hr>
 
-<details>
-	<summary><h5>ENERGY RESET - Green Energy</h5></summary>
-	
-- Increase solar energy deployment to at least 1.5 GWp by 2025 and at least 2 GWp by 2030
-
+<div>
+	<input id="title2" type="checkbox"><label for="title2">Energy Reset (Green Energy)</label>
+	<div class="accordion-content">
+		<p>
+			
+- Increase solar energy deployment to at least 1.5 GWp by 2025 and at least 2 GWp by 2030  
+			<meter max="100" min="0" value="17">17%</meter> 17% <br>
+- Deploy 382 MWp of inland floating solar capacity by 2030  
 <meter max="100" min="0" value="17">17%</meter> 17% <br>
-	
-- Deploy 382 MWp of inland floating solar capacity by 2030
-    
- <meter max="100" min="0" value="17">17%</meter> 17% <br>
-      
-	
-- Diversify electricity supply by importing 4GW of low-carbon electricity by 2045
-
+- Diversify electricity supply by importing 4GW of low-carbon electricity by 2045  
 <meter max="100" min="0" value="3">3%</meter> 3% <br>
-      
-- Diversify electricity supply by importing 4GW of low-carbon electricity by 2045
-
+- Diversify electricity supply by importing 4GW of low-carbon electricity by 2045  
 <meter max="101" min="0" value="101">101%</meter> 101% <br>
-      
-- Improve the energy efficiency of natural gas CCGTs and achieve 0.105 Mt of carbon abatement by 2030
-
+- Improve the energy efficiency of natural gas CCGTs and achieve 0.105 Mt of carbon abatement by 2030  
 <meter max="100" min="0" value="81">81%</meter> 81% <br>
+</p></div>
 
-<hr></details></div>
+	<div>
+	<input id="title3" type="checkbox"><label for="title3">Energy Reset (Green Transport)</label>
+	<div class="accordion-content">
+		<p>
+		</p></div></div></div>
