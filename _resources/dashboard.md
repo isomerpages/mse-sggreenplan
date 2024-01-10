@@ -103,7 +103,7 @@ description: ""
         <h3 class="bp-accordion-header">
             <a class="bp-accordion-button">
 							<div class="bp-accordion-button-wrapper">
-									<span>Public Agencies:</span>
+									<span>NATIONAL EMISSIONS</span>
 									<svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg" class="arrow-icon"><g stroke-width="1" stroke="none" fill-rule="evenodd" fill="none" id="feArrowDown0"><g fill="currentColor" id="feArrowDown1"><path d="m6 7l6 6l6-6l2 2l-8 8l-8-8z" id="feArrowDown2"></path></g></g></svg>
 							</div>
             </a>
@@ -111,10 +111,10 @@ description: ""
 						<!-- Accordion 1 - Body -->
             <div class="bp-accordion-body">
 							<div class="row">
-								<!-- Accordion Item 1 -->
-								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/govtech.png">
-								</div>
+									
+								- 
+									
+							</div>
 								<!-- Accordion Item 2 -->
 								<div class="col is-one-quarter">
 									<img src="/images/Our%20Partners/Public%20Agencies/landtransportauthority.jpg">
@@ -218,4 +218,4 @@ description: ""
       
     
 	
-<hr></details></div>
+<hr></details>
