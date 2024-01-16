@@ -8,10 +8,6 @@ sections:
   - hero:
       title: A City of <br/>Green Possibilities
       background: /images/index/14-oct-masthead.jpg
-      key_highlights:
-        # - title: learn more about GreenGov.SG
-        #   description: ""
-        #   url: /key-focus-areas/green-government/
   - infopic:
       title: What Is The Singapore Green Plan 2030?
       description: <p>The Singapore Green Plan 2030, or the Green Plan, is a
