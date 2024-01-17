@@ -31,7 +31,7 @@ sections:
         2050.</p><img class="mse-infopic-media-left"
         src="/images/index/why-sgp30.jpg" alt="Why Green Plan"><p
         class="mse-none"></p>
-      image: /images/index/why-sgp30.jpg
+      image: /images/index/secondimg.jpg
       alt: Why Green Plan
   - infopic:
       title: Why Is The Green Plan Important?
@@ -40,7 +40,7 @@ sections:
         future.</p><img class="mse-infopic-media-right"
         src="/images/index/what-is-climate-change.jpg" alt="Climate Change"><p
         class="mse-none"></p>
-      image: /images/index/what-is-climate-change.jpg
+      image: /images/index/thirdimg.jpg
       alt: Climate Change
   - infopic:
       title: What Are The Green Plan’s Key Targets?
@@ -54,7 +54,7 @@ sections:
         class="mse-none"></p>
       button: View more
       url: /targets/
-      image: /images/index/impacts-of-climate-change.jpg
+      image: /images/index/fourthimg.jpg
       alt: Impact
   - infopic:
       title: How Will We Achieve These Key Targets?
@@ -66,7 +66,7 @@ sections:
         class="mse-none"></p>
       button: Find out more
       url: /key-focus-areas/city-in-nature/
-      image: /images/index/about-sgp30.jpg
+      image: /images/index/fifthimg.jpg
       alt: About Green Plan
   - infopic:
       title: You Can Help Transform Our City
@@ -76,7 +76,7 @@ sections:
         alt="Transform Our City"><p class="mse-none"></p>
       button: Get Involved
       url: /take-action/what-you-can-do/
-      image: /images/index/how-it-transforms.jpg
+      image: /images/index/sixthimg.jpg
       alt: Transform Our City
   - infopic:
       title: A Whole-of-Nation Sustainability Movement
