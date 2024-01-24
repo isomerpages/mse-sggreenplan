@@ -41,7 +41,7 @@ The [Environment Fund for Institutes of Higher Learning (EFIHL)](https://www.cgs
 ## For Businesses
 
 #### Enterprise Sustainability Programme
-The [Enterprise Sustainability Programme](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/sustainability/enterprise-sustainability-programme) supports Singapore companies, especially SMEs, to build capabilities and capture new opportunities around sustainability. 	Enterprise Singapore will set aside up to S$180 million for the programme, which is expected to benefit at least 6,000 enterprises over the next four years. The programme will support training workshops, capability and product development projects, and key enablers such as certification and financing.
+The [Enterprise Sustainability Programme](https://www.enterprisesg.gov.sg/grow-your-business/boost-capabilities/sustainability/enterprise-sustainability-programme) supports Singapore companies, especially SMEs, to build capabilities and capture new opportunities around sustainability. 	Enterprise Singapore will set aside up to S$180 million for the programme, which is expected to benefit at least 6,000 enterprises over the next four years. The programme will support training workshops, capability and product development projects, and key enablers such as certification and financing.
 
 #### Energy Efficiency Fund
 The [Energy Efficiency Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-fund) supports efforts of businesses with industrial facilities to improve energy efficiency (EE). Encourage investors of new industrial facilities or major expansions in Singapore to integrate resource efficiency improvements into manufacturing facility development plans early in the design stage.

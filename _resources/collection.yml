@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - dashboard.md
       - videos.md
       - infographics.md
       - funding.md
