@@ -4,7 +4,7 @@ description: About the Singapore Green Plan
 permalink: /overview/
 ---
 
-<img src="https://d33wubrfki0l68.cloudfront.net/42da8cd22008325d114dd453c3b88d53aa1ba725/16996/images/framework/framework_overview.jpg" alt="green plan">
+<img src="/images/framework/framework_overview.jpg" alt="green plan">
 
 Launched in February 2021, the Singapore Green Plan 2030 seeks to galvanise a whole-of-nation movement and advance Singapore’s national agenda on sustainable development. 
 
