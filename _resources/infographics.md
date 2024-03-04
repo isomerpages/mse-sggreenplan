@@ -8,6 +8,7 @@ variant: markdown
 ![Singapore Green Plan 2024 Overview](/images/SGP2024_infographic_1.png)
 
 [Singapore Green Plan Key Updates from COS (March 2024) [PDF]](/files/SGP2024_infographic.pdf)
+
 ***
 ## 2023
 
