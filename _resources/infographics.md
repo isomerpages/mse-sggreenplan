@@ -7,9 +7,8 @@ variant: markdown
 ## 2024 
 ![Singapore Green Plan 2024 Overview](/images/SGP2024_infographic_1.png)
 
+[Singapore Green Plan Key Updates from COS (March 2024) [PDF]](/files/SGP2024_infographic.pdf)
 ***
-### [Singapore Green Plan Key Updates from COS (March 2024)](/files/SGP2024_infographic.pdf)
-
 ## 2023
 
 Singapore's Climate Adaptation and Mitigation Efforts
