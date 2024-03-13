@@ -1,0 +1,8 @@
+collections:
+  resources:
+    output: true
+    order:
+      - videos.md
+      - infographics.md
+      - funding.md
+      - courses.md
