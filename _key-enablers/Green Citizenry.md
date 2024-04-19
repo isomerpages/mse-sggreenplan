@@ -7,6 +7,8 @@ description: The Green Plan is a living plan that will evolve as we consider
   Citizenry is one of the key enables for this whole-of-nation movement to
   tackle climate change.
 ---
+
+
 <h3>The Green Plan is a living plan that will evolve as we consider technological developments and engage a diverse range of stakeholders. <strong>Green Citizenry</strong> is one of the key enablers for this whole-of-nation movement to tackle climate change.</h3>
 <p></p>
 <p>Climate action cannot be achieved by the Government alone. We encourage
@@ -60,3 +62,10 @@ If you have an idea or project that will create positive impact, apply for the S
 <p>The challenges of our climate and environmental crisis require a whole-of-society effort. Against this backdrop, the MSE Family launched a series of public engagements and conversations on environmental sustainability under the Steward Pillar in support of the Forward SG exercise. The Forward SG exercise was launched by DPM Lawrence Wong in June 2022 to engage Singaporeans from all walks of life on how we should refresh our social compact.</p>
 <p>Close to 3,000 Singaporeans from different backgrounds came together over some 30 sessions to discuss the challenges, costs and trade-offs that Singapore has to balance. They contributed views and ideas on a wide range of topics, including Singapore’s net zero ambition, coastal protection, food security and public cleanliness.</p>
 <p>Engagements by the MSE Family include PUB’s <i>Our Coastal Conversations</i>, NEA’s &gt;i&gt;Public Cleanliness Conversations, and SFA’s <i>Alliance for Action (AfA)</i>.</p>
+
+<h5>Green Plan Conversations</h5>
+<p>The inaugural Green Plan conversation kicked off on 24 April 2021. It was hosted by Minister for Sustainability and the Environment, Ms Grace Fu, and then-Minister of State for Sustainability and the Environment, Mr Desmond Tan. In attendance were Senior Minister of State for Sustainability and the Environment and Transport Dr Amy Khor, Minister of State for Education, Ms Gan Siow Huang and Minister of State for National Development, Mr Tan Kiat How.</p>
+<p>Over 60 people from all walks of life joined the session over Zoom to share their views on the Green Plan, and how we can work together to pursue our sustainability goals while considering Singapore’s context.</p>
+
+
+Find the full list of Green Plan Conversations from 2021 – 2022 [here](/files/Green_Plan_Conversations.pdf).
