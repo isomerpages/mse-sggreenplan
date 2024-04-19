@@ -1,4 +1,5 @@
 collections:
   key-enablers:
     output: true
-    order: []
+    order:
+      - green-government.md
