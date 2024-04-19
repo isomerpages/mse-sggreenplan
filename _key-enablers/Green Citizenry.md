@@ -43,7 +43,7 @@ If you have an idea for a potential partnership with us, you may share your prop
 <p>The GAC movement, established in 2022, aims to enable and empower community action in environmental sustainability. It brings together community leaders, residents, and Government agencies to plan, organise, and co-implement sustainability initiatives in their local communities.</p>
 <p>Over 200 projects have been proposed by the GAC groups, including recycling initiatives and community gardens. A <a href="https://file.go.gov.sg/gac.pdf">Guidebook</a> was also created to guide the community by informing them about potential initiatives and resources.</p>
 <h5>SG Eco Fund</h5>
-<p> $50 million <a href="https://www.mse.gov.sg/sgecofund/">SG Eco Fund</a>was set up in 2020 to support projects that advance environmental sustainability and involve the community.</p>
+<p> $50 million <a href="https://www.mse.gov.sg/sgecofund/">SG Eco Fund</a> was set up in 2020 to support projects that advance environmental sustainability and involve the community.</p>
 <p>Through the SG Eco Fund, we hope to enable our community to build a sustainable Singapore for both present and future generations.</p>
 <p>If you have an idea or project that will create positive impact, apply for the SG Eco Fund for support.</p>
 
