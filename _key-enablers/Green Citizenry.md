@@ -53,3 +53,10 @@ If you have an idea or project that will create positive impact, apply for the S
 <hr>
 
 <h2>Past Green Citizenry Efforts</h2>
+<h5>Forward Singapore Exercise</h5>
+
+![](/images/Green_Citizenry___Forward_SG.jpg)
+
+<p>The challenges of our climate and environmental crisis require a whole-of-society effort. Against this backdrop, the MSE Family launched a series of public engagements and conversations on environmental sustainability under the Steward Pillar in support of the Forward SG exercise. The Forward SG exercise was launched by DPM Lawrence Wong in June 2022 to engage Singaporeans from all walks of life on how we should refresh our social compact.</p>
+<p>Close to 3,000 Singaporeans from different backgrounds came together over some 30 sessions to discuss the challenges, costs and trade-offs that Singapore has to balance. They contributed views and ideas on a wide range of topics, including Singapore’s net zero ambition, coastal protection, food security and public cleanliness.</p>
+<p>Engagements by the MSE Family include PUB’s <i>Our Coastal Conversations</i>, NEA’s &gt;i&gt;Public Cleanliness Conversations, and SFA’s <i>Alliance for Action (AfA)</i>.</p>
