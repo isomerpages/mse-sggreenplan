@@ -47,7 +47,7 @@ If you have an idea for a potential partnership with us, you may share your prop
 <p>Through the SG Eco Fund, we hope to enable our community to build a sustainable Singapore for both present and future generations.</p>
 <p>If you have an idea or project that will create positive impact, apply for the SG Eco Fund for support.</p>
 
-<hr>
+<p></p><hr>
 
 <h2>Past Green Citizenry Efforts</h2>
 <h5>Forward Singapore Exercise</h5>
