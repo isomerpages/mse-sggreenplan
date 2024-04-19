@@ -13,8 +13,8 @@ description: The Green Plan is a living plan that will evolve as we consider
 citizens and businesses to adopt sustainable practices and engage in climate
 conversations, as Government ministries and agencies take the lead in adopting
 sustainable actions.</p>
-The Government is committed to working with Singaporeans and partners
-to co-deliver and co-create solutions for a more sustainable Singapore.
+<p>The Government is committed to working with Singaporeans and partners
+to co-deliver and co-create solutions for a more sustainable Singapore.</p>
 <p></p><hr>
 <h2>Recent Green Citizenry Efforts</h2>
 <h4><u>Citizen Engagements and Events</u></h4>
@@ -48,7 +48,6 @@ If you have an idea for a potential partnership with us, you may share your prop
 If you have an idea or project that will create positive impact, apply for the SG Eco Fund for support.
 
 <br>
-<br>
 
 <hr>
 
@@ -66,4 +65,4 @@ If you have an idea or project that will create positive impact, apply for the S
 <p>Over 60 people from all walks of life joined the session over Zoom to share their views on the Green Plan, and how we can work together to pursue our sustainability goals while considering Singapore’s context.</p>
 
 
-Find the full list of Green Plan Conversations from 2021 – 2022 [here](/files/Green_Plan_Conversations.pdf).
+Find the full list of Green Plan Conversations from 2021 – 2022 in PDF format [here](/files/Green_Plan_Conversations.pdf).
