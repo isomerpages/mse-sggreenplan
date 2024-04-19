@@ -2,5 +2,5 @@ collections:
   key-enablers:
     output: true
     order:
-      - green citizenry.md
+      - Green Citizenry.md
       - green-government.md
