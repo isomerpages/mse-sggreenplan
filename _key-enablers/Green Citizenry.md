@@ -65,4 +65,4 @@ If you have an idea or project that will create positive impact, apply for the S
 <p>Over 60 people from all walks of life joined the session over Zoom to share their views on the Green Plan, and how we can work together to pursue our sustainability goals while considering Singapore’s context.</p>
 
 
-Find the full list of Green Plan Conversations from 2021 – 2022 in PDF format [here](/files/Green_Plan_Conversations.pdf).
+Find the full list of Green Plan Conversations from 2021 – 2022 [here](/files/Green_Plan_Conversations.pdf).
