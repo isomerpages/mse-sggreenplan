@@ -7,8 +7,6 @@ description: The Green Plan is a living plan that will evolve as we consider
   Citizenry is one of the key enables for this whole-of-nation movement to
   tackle climate change.
 ---
-
-
 <h3>The Green Plan is a living plan that will evolve as we consider technological developments and engage a diverse range of stakeholders. <strong>Green Citizenry</strong> is one of the key enablers for this whole-of-nation movement to tackle climate change.</h3>
 <p></p>
 <p>Climate action cannot be achieved by the Government alone. We encourage
@@ -43,10 +41,10 @@ If you have an idea for a potential partnership with us, you may share your prop
 <a href="https://www.sgpo.gov.sg/take-action/proposal"> Singapore Government Partnerships Office</a>.
 <h5>Green Action for Communities (GAC)</h5>
 <p>The GAC movement, established in 2022, aims to enable and empower community action in environmental sustainability. It brings together community leaders, residents, and Government agencies to plan, organise, and co-implement sustainability initiatives in their local communities.</p>
-Over 200 projects have been proposed by the GAC groups, including recycling initiatives and community gardens. A <a href="https://file.go.gov.sg/gac.pdf">Guidebook</a> was also created to guide the community by informing them about potential initiatives and resources.
+<p>Over 200 projects have been proposed by the GAC groups, including recycling initiatives and community gardens. A <a href="https://file.go.gov.sg/gac.pdf">Guidebook</a> was also created to guide the community by informing them about potential initiatives and resources.</p>
 <h5>SG Eco Fund</h5>
 <p> $50 million <a href="https://www.mse.gov.sg/sgecofund/">SG Eco Fund</a>was set up in 2020 to support projects that advance environmental sustainability and involve the community.</p>
-Through the SG Eco Fund, we hope to enable our community to build a sustainable Singapore for both present and future generations.<p></p>
+<p>Through the SG Eco Fund, we hope to enable our community to build a sustainable Singapore for both present and future generations.</p>
 If you have an idea or project that will create positive impact, apply for the SG Eco Fund for support.
 
 <br>
