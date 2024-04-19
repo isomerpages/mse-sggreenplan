@@ -45,7 +45,9 @@ If you have an idea for a potential partnership with us, you may share your prop
 <h5>SG Eco Fund</h5>
 <p> $50 million <a href="https://www.mse.gov.sg/sgecofund/">SG Eco Fund</a>was set up in 2020 to support projects that advance environmental sustainability and involve the community.</p>
 <p>Through the SG Eco Fund, we hope to enable our community to build a sustainable Singapore for both present and future generations.</p>
-<p>If you have an idea or project that will create positive impact, apply for the SG Eco Fund for support.</p><hr>
+<p>If you have an idea or project that will create positive impact, apply for the SG Eco Fund for support.</p>
+
+<hr>
 
 <h2>Past Green Citizenry Efforts</h2>
 <h5>Forward Singapore Exercise</h5>
