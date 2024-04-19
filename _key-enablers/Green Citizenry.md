@@ -13,12 +13,13 @@ description: The Green Plan is a living plan that will evolve as we consider
 citizens and businesses to adopt sustainable practices and engage in climate
 conversations, as Government ministries and agencies take the lead in adopting
 sustainable actions.</p>
-<p>The Government is committed to working with Singaporeans and partners
-to co-deliver and co-create solutions for a more sustainable Singapore.</p>
-<hr>
+The Government is committed to working with Singaporeans and partners
+to co-deliver and co-create solutions for a more sustainable Singapore.
+<p></p><hr>
 <h2>Recent Green Citizenry Efforts</h2>
-<h4><strong><u>Citizen Engagements and Events</u></strong></h4>
-<p>Ministry of Transport (MOT) and Land Transport Authority’s (LTA) Citizen
+<h4><u>Citizen Engagements and Events</u></h4>
+<h5>Ministry of Transport (MOT) and Land Transport Authority’s (LTA) Citizen
 Engagement Workshop on Good Electric Vehicle (EV) Charging Etiquette (30
-Jan 2024)</p>
+Jan 2024)</h5>
+![](/images/Green_Citizenry_MOT_LTA_Engagement.png)
 <p></p>
