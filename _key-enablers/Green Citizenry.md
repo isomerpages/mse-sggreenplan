@@ -19,8 +19,7 @@ to co-deliver and co-create solutions for a more sustainable Singapore.</p>
 <h2>Recent Green Citizenry Efforts</h2>
 <h4><u>Citizen Engagements and Events</u></h4>
 <h5>Ministry of Transport (MOT) and Land Transport Authority’s (LTA) Citizen
-Engagement Workshop on Good Electric Vehicle (EV) Charging Etiquette [30
-Jan 2024]</h5>
+Engagement Workshop on Good Electric Vehicle (EV) Charging Etiquette</h5>
 
 ![](/images/Green_Citizenry_MOT_LTA_Engagement.png)
 
