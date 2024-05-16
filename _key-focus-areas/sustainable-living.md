@@ -1,9 +1,11 @@
 ---
 title: Sustainable Living
-description: We are aiming to be a circular economy, with a high rate of recycling and reuse. From recycling food to NEWSand, learn how the Singapore Green Plan 2030 will help us become a circular economy. 
+description: We are aiming to be a circular economy, with a high rate of
+  recycling and reuse. From recycling food to NEWSand, learn how the Singapore
+  Green Plan 2030 will help us become a circular economy.
 permalink: /key-focus-areas/sustainable-living/
+variant: markdown
 ---
-
 ### Sustainable Living
 
 #### We will reduce carbon emissions and embrace sustainability by consuming less, recycling more, and taking public transport. We will also work towards our vision of becoming a Zero Waste Nation powered by a circular economy, with "Reduce, Reuse and Recycle" as a norm for citizens and businesses.
@@ -12,7 +14,7 @@ permalink: /key-focus-areas/sustainable-living/
 
 #### A Zero Waste Nation and a Circular Economy
 
-We aim to be a [zero waste nation](https://www.towardszerowaste.gov.sg/) powered by a circular economy, with a high rate of recycling so that our precious resources can be used many times over. We have closed our water loop by recycling our used water to make NEWater, and will make a similar strong push towards circularity in waste materials to transform trash to treasure. The extended producer responsibility scheme for e-waste and the beverage container return scheme aim to establish circular business models, where products are collected at the end of life for recycling. We are also creating more avenues and putting in place behavioural nudges to encourage all stakeholders to live more sustainably by reducing waste and recycling right.
+We aim to be a zero waste nation powered by a circular economy, with a high rate of recycling so that our precious resources can be used many times over. We have closed our water loop by recycling our used water to make NEWater, and will make a similar strong push towards circularity in waste materials to transform trash to treasure. The extended producer responsibility scheme for e-waste and the beverage container return scheme aim to establish circular business models, where products are collected at the end of life for recycling. We are also creating more avenues and putting in place behavioural nudges to encourage all stakeholders to live more sustainably by reducing waste and recycling right.
 
 #### Eco Stewardship Programme
 
@@ -25,8 +27,8 @@ We are making good progress towards [achieving our goal](https://www.mot.gov.sg/
 **In support of SDGs:**
 
 <div class="sdg-container">
-	<img class="sdg-image" src="/images/framework/sustainableliving_01.jpg" alt="3 4 6" />
-	<img class="sdg-image" src="/images/framework/sustainableliving_02.jpg" alt="9 11 12" />
-	<img class="sdg-image" src="/images/framework/sustainableliving_03.jpg" alt="13 17" />
+	<img class="sdg-image" src="/images/framework/sustainableliving_01.jpg" alt="3 4 6">
+	<img class="sdg-image" src="/images/framework/sustainableliving_02.jpg" alt="9 11 12">
+	<img class="sdg-image" src="/images/framework/sustainableliving_03.jpg" alt="13 17">
 	<div class="sdg-image"></div>
 </div>
