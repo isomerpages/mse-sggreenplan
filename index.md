@@ -40,14 +40,9 @@ sections:
       alt: Climate Change
   - infopic:
       title: What Are The Green Plan’s Key Targets?
-      description: <p></p><p></p><ul><li>- Plant 1 million more trees</li><li>-
-        Quadruple solar energy deployment by 2025</li><li>- Reduce the waste
-        sent to landfill by 30% by 2030 </li><li>- At least 20% of schools to be
-        carbon neutral by 2030</li><li>- All newly registered cars to be
-        cleaner-energy models from 2030</li></ul><p></p><img
-        class="mse-infopic-media-left"
-        src="/images/index/impacts-of-climate-change.jpg" alt="Impact"><p
-        class="mse-none"></p>
+      description: |-
+        - Plant 1 million more trees
+        - Quadruple solar energy deployment by 2025
       button: View more
       url: /targets/
       image: /images/index/fourthimg.jpg
