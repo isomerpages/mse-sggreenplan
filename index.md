@@ -40,8 +40,8 @@ sections:
       alt: Climate Change
   - infopic:
       title: What Are The Green Plan’s Key Targets?
-      description: <ul><li>- Plant 1 million more trees</li><li>- Quadruple solar
-        energy deployment by 2025</li></ul>
+      description: <p></p><ul><li>- Plant 1 million more trees</li><li>- Quadruple
+        solar energy deployment by 2025</li></ul><p></p>
       button: View more
       url: /targets/
       image: /images/index/fourthimg.jpg
