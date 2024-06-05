@@ -10,7 +10,15 @@ sections:
       background: /images/index/homebanner.jpg
   - infopic:
       title: What Is The Singapore Green Plan 2030?
-      description: <p>The Singapore Green Plan 2030, or the Green Plan, is a whole-of-nation movement to advance Singapore’s national agenda on sustainable development.</p><br><br><br><figure class="mse-infopic-media-right is-16by9"><iframe title="What Is The Singapore Green Plan 2030?" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/oTrwdqIRVKI?rel=0&autoplay=0&mute=1&enablejsapi=1" height="315" width="560"></iframe></figure><p class="mse-none"></p>
+      description: <p>The Singapore Green Plan 2030, or the Green Plan, is a
+        whole-of-nation movement to advance Singapore’s national agenda on
+        sustainable development.</p><br><br><br><figure
+        class="mse-infopic-media-right is-16by9"><iframe title="What Is The
+        Singapore Green Plan 2030?" allowfullscreen="" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture" frameborder="0"
+        src="https://www.youtube.com/embed/oTrwdqIRVKI?rel=0&autoplay=0&mute=1&enablejsapi=1"
+        height="315" width="560"></iframe></figure><p class="mse-none"></p>
       image: https://placehold.it/628x285
       alt: Climate Change
   - infopic:
@@ -26,23 +34,14 @@ sections:
       alt: Why Green Plan
   - infopic:
       title: Why Is The Green Plan Important?
-      description: <p></p><p>Climate change is a global challenge, and Singapore is
-        taking firm actions to do our part to build a sustainable
-        future.</p><img class="mse-infopic-media-right"
-        src="/images/index/what-is-climate-change.jpg" alt="Climate Change"><p
-        class="mse-none"></p>
+      description: Climate change is a global challenge, and Singapore is taking firm
+        actions to do our part to build a sustainable future.
       image: /images/index/thirdimg.jpg
       alt: Climate Change
   - infopic:
       title: What Are The Green Plan’s Key Targets?
-      description: <p></p><p></p><ul><li>- Plant 1 million more trees</li><li>-
-        Quadruple solar energy deployment by 2025</li><li>- Reduce the waste
-        sent to landfill by 30% by 2030 </li><li>- At least 20% of schools to be
-        carbon neutral by 2030</li><li>- All newly registered cars to be
-        cleaner-energy models from 2030</li></ul><p></p><img
-        class="mse-infopic-media-left"
-        src="/images/index/impacts-of-climate-change.jpg" alt="Impact"><p
-        class="mse-none"></p>
+      description: <p></p><ul><li>- Plant 1 million more trees</li><li>- Quadruple
+        solar energy deployment by 2025.</li></ul><p></p>
       button: View more
       url: /targets/
       image: /images/index/fourthimg.jpg
@@ -61,10 +60,8 @@ sections:
       alt: About Green Plan
   - infopic:
       title: You Can Help Transform Our City
-      description: <p></p><p>Everyone can play a part in making the Green Plan a
-        reality. Let's build a greener and more liveable home together.</p><img
-        class="mse-infopic-media-left" src="/images/index/how-it-transforms.jpg"
-        alt="Transform Our City"><p class="mse-none"></p>
+      description: Everyone can play a part in making the Green Plan a reality. Let's
+        build a greener and more liveable home together.
       button: Get Involved
       url: /take-action/what-you-can-do/
       image: /images/index/sixthimg.jpg

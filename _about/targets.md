@@ -2,8 +2,8 @@
 title: Our Targets
 description: Our Singapore Green Plan 2030 Targets
 permalink: /targets/
+variant: markdown
 ---
-
 ### Our Key Targets for the Green Plan
 Singapore Green Plan 2030 charts ambitious and concrete targets to advance Singapore’s national agenda on sustainable development. The five key pillars under the Green Plan encompass targets that touch almost every dimension of our lives.
 
@@ -78,7 +78,6 @@ Play active and important roles in contributing towards two international goals
 - Green 80% of Singapore’s buildings (by Gross Floor Area) by 2030
 - 80% of new buildings (by Gross Floor Area) to be Super Low Energy buildings from 2030
 - Best-in-class green buildings to see an 80% improvement in energy efficiency (over 2005 levels) by 2030
-Long-term target: Reduce desalination energy further to 1kWh/m<sup>3</sup>
 
 **Sustainable Towns and Districts**
 
@@ -138,4 +137,3 @@ Seek new investments to be among the best-in-class in energy/ carbon efficiency
 
 2030 targets:
 - Build the capability and capacity of our agri-food industry to produce 30% of Singapore's nutritional needs locally and sustainably
-
