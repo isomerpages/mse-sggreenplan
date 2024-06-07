@@ -23,7 +23,13 @@ sections:
       alt: Climate Change
   - infopic:
       title: What Does The Green Plan Seek To Achieve?
-      description: The Green Plan charts ambitious and concrete targets over the next 10 years, strengthening Singapore’s commitments under the UN’s 2030 Sustainable Development Agenda and Paris Agreement, and positioning us to achieve our long-term net zero emissions aspiration by 2050.
+      description: <p></p><p>The Green Plan charts ambitious and concrete targets over
+        the next 10 years, strengthening Singapore’s commitments under the UN’s
+        2030 Sustainable Development Agenda and Paris Agreement, and positioning
+        us to achieve our long-term net zero emissions aspiration by
+        2050.</p><img class="mse-infopic-media-left"
+        src="/images/index/why-sgp30.jpg" alt="Why Green Plan"><p
+        class="mse-none"></p>
       image: /images/index/secondimg.jpg
       alt: Why Green Plan
   - infopic:
@@ -34,23 +40,21 @@ sections:
       alt: Climate Change
   - infopic:
       title: What Are The Green Plan’s Key Targets?
-      description: <p>- Plant 1 million more trees </p>
-                  <p>- Quadruple solar energy deployment by 2025 </p>
-                  <p>- Reduce the waste sent to landfill by 30% by 2030 </p>
-                  <p>- At least 20% of schools to be carbon neutral by 2030 </p>
-                  <p>- All newly registered cars to be cleaner-energy models from 2030 </p>
+      description: |-
+        <p>- Plant 1 million more trees</p>
+        <p>- Quadruple solar energy deployment by 2025.</p>
       button: View more
       url: /targets/
       image: /images/index/fourthimg.jpg
       alt: Impact
   - infopic:
       title: How Will We Achieve These Key Targets?
-      description: The Green Plan comprises 5 pillars that will influence all aspects of our lives:
-                    <p>1. City in Nature</p>
-                    <p>2. Energy Reset</p>
-                    <p>3. Sustainable Living</p>
-                    <p>4. Green Economy</p>
-                    <p>5. Resilient Future</p>
+      description: <p></p><p>The Green Plan comprises 5 pillars that will influence
+        all aspects of our lives:</p><ul><li>1. City in Nature</li><li>2. Energy
+        Reset</li><li>3. Sustainable Living</li><li>4. Green Economy</li><li>5.
+        Resilient Future</li></ul><p></p><img class="mse-infopic-media-right"
+        src="/images/index/about-sgp30.jpg" alt="About Green Plan"><p
+        class="mse-none"></p>
       button: Find out more
       url: /key-focus-areas/city-in-nature/
       image: /images/index/fifthimg.jpg
