@@ -54,6 +54,7 @@ sections:
   - infopic:
       title: How Will We Achieve These Key Targets?
       description: |-
+        <p>The Green Plan comprises 5 pillars that will influence all aspects of our lives:</p>
         <p>1. City in Nature</p>
         <p>2. Energy Reset</p>
         <p>3. Sustainable Living </p>
