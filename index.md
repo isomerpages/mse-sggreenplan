@@ -36,7 +36,7 @@ sections:
       title: Why Is The Green Plan Important?
       description: Climate change is a global challenge, and Singapore is taking firm
         actions to do our part to build a sustainable future.
-      image: /images/index/thirdimg.jpg
+      image: /images/index/secondimg.jpg
       alt: Climate Change
   - infopic:
       title: What Are The Green Plan’s Key Targets?
