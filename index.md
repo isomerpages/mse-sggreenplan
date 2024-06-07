@@ -53,12 +53,10 @@ sections:
       alt: Impact
   - infopic:
       title: How Will We Achieve These Key Targets?
-      description: <p>The Green Plan comprises 5 pillars that will influence all aspects of our lives:</p>
-      <p>1. City in Nature</p>
-      <p>2. Energy Reset</p>
-      <p>3. Sustainable Living</p>
-      <p>4. Green Economy</p>
-      <p>5. Resilient Future</p><img class="mse-infopic-media-right"
+      description: <p></p><p>The Green Plan comprises 5 pillars that will influence
+        all aspects of our lives:</p><ul><li>1. City in Nature</li><li>2. Energy
+        Reset</li><li>3. Sustainable Living</li><li>4. Green Economy</li><li>5.
+        Resilient Future</li></ul><p></p><img class="mse-infopic-media-right"
         src="/images/index/fifthimg.jpg" alt="About Green Plan"><p
         class="mse-none"></p>
       button: Find out more
