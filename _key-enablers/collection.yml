@@ -1,0 +1,6 @@
+collections:
+  key-enablers:
+    output: true
+    order:
+      - Green Citizenry.md
+      - Green Government.md

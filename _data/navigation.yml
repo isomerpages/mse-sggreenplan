@@ -1,0 +1,16 @@
+logo: /images/logo_sog.png
+links:
+  - title: About
+    collection: about
+  - title: Key Pillars
+    collection: key-focus-areas
+  - title: Key Enablers
+    collection: key-enablers
+  - title: Take Action
+    collection: take-action
+  - title: Latest News
+    resource_room: true
+  - title: Resources
+    collection: resources
+  - title: Contact Us
+    url: /contact-us

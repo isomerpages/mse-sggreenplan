@@ -1,0 +1,8 @@
+collections:
+  about:
+    output: true
+    order:
+      - overview.md
+      - vision.md
+      - targets.md
+      - globalcommitment.md

@@ -1,0 +1,14 @@
+contact_us: /contact-us/
+show_reach: false
+privacy_policy: https://www.mse.gov.sg/privacy/
+terms_of_use: https://www.mse.gov.sg/terms-of-use/
+social_media:
+  facebook: https://www.facebook.com/MSEsingapore/
+  twitter: https://twitter.com/MSEsingapore/
+  youtube: https://www.youtube.com/channel/UCAY0e59sglqfb8AWKYe7UPw/
+  instagram: https://www.instagram.com/msesingapore/
+  linkedin: https://www.linkedin.com/company/msesingapore/
+  tiktok: https://www.tiktok.com/@msesingapore
+links:
+  - title: About our Logo
+    url: /logo
