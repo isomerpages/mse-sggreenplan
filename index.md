@@ -23,42 +23,56 @@ sections:
       alt: Climate Change
   - infopic:
       title: What Does The Green Plan Seek To Achieve?
-      description: <p>The Green Plan charts ambitious and concrete targets over the next 10 years, strengthening Singapore’s commitments under the UN’s 2030 Sustainable Development Agenda and Paris Agreement, and positioning us to achieve our long-term net zero emissions aspiration by 2050.</p><img class="mse-infopic-media-left"
-        src="/images/index/secondimg.jpg" alt="Why Green Plan"><p
-        class="mse-none"></p>
+      description: <p>The Green Plan charts ambitious and concrete targets over the
+        next 10 years, strengthening Singapore’s commitments under the UN’s 2030
+        Sustainable Development Agenda and Paris Agreement, and positioning us
+        to achieve our long-term net zero emissions aspiration by 2050.</p><img
+        class="mse-infopic-media-left" src="/images/index/secondimg.jpg"
+        alt="Why Green Plan"><p class="mse-none"></p>
       image: /images/index/secondimg.jpg
       alt: Why Green Plan
   - infopic:
       title: Why Is The Green Plan Important?
-      description: <p>Climate change is a global challenge, and Singapore is taking firm
-        actions to do our part to build a sustainable future.</p><img class="mse-infopic-media-right"
-        src="/images/index/thirdimg.jpg" alt="Climate Change"><p
-        class="mse-none"></p>
+      description: <p>Climate change is a global challenge, and Singapore is taking
+        firm actions to do our part to build a sustainable future.</p><img
+        class="mse-infopic-media-right" src="/images/index/thirdimg.jpg"
+        alt="Climate Change"><p class="mse-none"></p>
       image: /images/index/thirdimg.jpg
       alt: Climate Change
   - infopic:
       title: What Are The Green Plan’s Key Targets?
-      description: |-
+      description: >-
         <p>- Plant 1 million more trees</p>
+
         <p>- Quadruple solar energy deployment by 2025.</p>
+
         <p>- Reduce the waste sent to landfill by 30% by 2030 </p>
+
         <p>- At least 20% of schools to be carbon neutral by 2030 </p>
-        <p>- All newly registered cars to be cleaner-energy models from 2030 </p>
-        <img class="mse-infopic-media-left"
-        src="/images/index/fourthimg.jpg" alt="Impact"><p
-        class="mse-none"></p>
+
+        <p>- All newly registered cars to be cleaner-energy models from 2030
+        </p>
+
+        <img class="mse-infopic-media-left" src="/images/index/fourthimg.jpg"
+        alt="Impact"><p class="mse-none"></p>
       button: View more
       url: /targets/
       image: /images/index/fourthimg.jpg
       alt: Impact
   - infopic:
       title: How Will We Achieve These Key Targets?
-      description: |-
-        <p>The Green Plan comprises 5 pillars that will influence all aspects of our lives:</p>
+      description: >-
+        <p>The Green Plan comprises 5 pillars that will influence all aspects of
+        our lives:</p>
+
         <p>1. City in Nature</p>
+
         <p>2. Energy Reset</p>
+
         <p>3. Sustainable Living </p>
+
         <p>4. Green Economy </p>
+
         <p>5. Resilient Future </p><img class="mse-infopic-media-right"
         src="/images/index/fifthimg.jpg" alt="About Green Plan"><p
         class="mse-none"></p>
@@ -68,8 +82,8 @@ sections:
       alt: About Green Plan
   - infopic:
       title: You Can Help Transform Our City
-      description: <p>Everyone can play a part in making the Green Plan a
-        reality. Let's build a greener and more liveable home together.</p><img
+      description: <p>Everyone can play a part in making the Green Plan a reality.
+        Let's build a greener and more liveable home together.</p><img
         class="mse-infopic-media-left" src="/images/index/sixthimg.jpg"
         alt="Transform Our City"><p class="mse-none"></p>
       button: Get Involved
