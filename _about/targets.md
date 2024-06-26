@@ -70,7 +70,7 @@ Play active and important roles in contributing towards two international goals
 
 2025 targets:
 
-- Reduce energy consumption of desalination process from current 3.5kWh/m<sup>3</sup> to 2kWh/m<sup>3</sup>
+- Reduce energy consumption of desalination process from current 3.5kWh/m<sup>3</sup> to less than 2kWh/m<sup>3</sup>
 - Singapore’s first integrated waste and used water treatment facility to be 100% energy self-sufficient (Tuas Nexus)
 
 2030 targets:
