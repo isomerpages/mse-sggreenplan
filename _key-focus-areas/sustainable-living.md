@@ -22,7 +22,7 @@ The Eco Stewardship Programme (ESP) has been implemented in all MOE schools from
 
 #### Green Commutes
 
-We are making good progress towards [achieving our goal](https://www.mot.gov.sg/what-we-do/green-transport/sustainable-land-transport) of bringing 8 in 10 households within a 10-minute walk of a train station by the 2030s. The rail network will grow to 360 km by the early 2030s. We have announced plans to expand the cycling network to around 1,300 km by 2030. We will also do more to repurpose roads, and implement pedestrianisation where possible.
+We are making good progress towards [achieving our goal](https://www.mot.gov.sg/what-we-do/green-transport/sustainable-land-transport) of bringing 8 in 10 households within a 10-minute walk of a train station by the 2030s. The rail network will be expanded to 360km (from around 270km today) by the early 2030s. We have announced plans to expand the cycling network to around 1,300 km by 2030. We will also do more to repurpose roads, and implement pedestrianisation where possible.
 
 **In support of SDGs:**
 
