@@ -4,6 +4,7 @@ description: Cleaner and better use of energy is core to any plan to tackle
   climate change. Learn how we will increase our solar capacity, and our aim to
   shift from internal combustion engine vehicles to electric vehicles by 2040.
 permalink: /key-focus-areas/energy-reset/
+variant: markdown
 ---
 ### Energy Reset
 
@@ -36,11 +37,13 @@ We also plan to increase the efficiency of our gas-fired power plants to reduce 
  
 #### Green Transport
  
-As our transport system grows in capacity and usage, it becomes increasingly important to manage its [environmental footprint](https://www.mot.gov.sg/what-we-do/green-transport). Our vision is for all vehicles to run on cleaner-energy by 2040.
- 
+As our transport system grows in capacity and usage, it becomes increasingly important to manage its [environmental footprint](https://www.mot.gov.sg/what-we-do/green-transport). Our vision is for all vehicles to run on cleaner-energy by 2040. 
+
 We will continue to reduce the sector's emissions by encouraging the use of public transport and active mobility and transitioning to a cleaner-energy vehicle population.
+
+New diesel car and taxi registrations are to cease from 2025, with all new car and tax registrations to be of cleaner-energy models from 2030. We are targeting for 60,000 electric vehicle (EV) charging points by 2030, in tandem with EV adoption, with 100% of HDB towns being EV-ready by 2025. More fast chargers will be deployed to support the charging needs of fleet EV drivers.
  
-While we position ourselves to seize growth opportunities in aviation and maritime, our air and sea hubs will also run on cleaner energy, reducing domestic emissions in these sectors. 
+While we position ourselves to seize growth opportunities in aviation and maritime, our air and sea hubs will also run on cleaner energy, reducing domestic emissions in these sectors. The recent launch of the <a href="https://www.caas.gov.sg/docs/default-source/docs---so/singapore-sustainable-air-hub-blueprint.pdf">Sustainable Air Hub Blueprint</a> details new air hub targets, including achieving net zero domestic and international aviation carbon emissions by 2050. Domestic aviation emissions from airport operations will be reduced by 20% from 2019 levels in 2030.
 
 #### Green Buildings
  
@@ -49,6 +52,6 @@ Buildings account for over 20% of Singapore’s emissions. [Greening our buildin
 **In support of SDGs:**
 
 <div class="sdg-container">
-	<img class="sdg-image" src="/images/framework/energyreset_01.jpg" alt="7 9 11" />
-	<img class="sdg-image" src="/images/framework/energyreset_02.jpg" alt="12 13 17" />
+	<img class="sdg-image" src="/images/framework/energyreset_01.jpg" alt="7 9 11">
+	<img class="sdg-image" src="/images/framework/energyreset_02.jpg" alt="12 13 17">
 </div>
