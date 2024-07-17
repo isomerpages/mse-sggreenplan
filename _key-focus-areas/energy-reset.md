@@ -43,7 +43,7 @@ We will continue to reduce the sector's emissions by encouraging the use of publ
 
 New diesel car and taxi registrations are to cease from 2025, with all new car and tax registrations to be of cleaner-energy models from 2030. We are targeting for 60,000 electric vehicle (EV) charging points by 2030, in tandem with EV adoption, with 100% of HDB towns being EV-ready by 2025. More fast chargers will be deployed to support the charging needs of fleet EV drivers.
  
-While we position ourselves to seize growth opportunities in aviation and maritime, our air and sea hubs will also run on cleaner energy, reducing domestic emissions in these sectors. The recent launch of the <a href="https://www.caas.gov.sg/docs/default-source/docs---so/singapore-sustainable-air-hub-blueprint.pdf">Sustainable Air Hub Blueprint</a> details new air hub targets, including achieving net zero domestic and international aviation carbon emissions by 2050. Domestic aviation emissions from airport operations will be reduced by 20% from the 2019 level in 2030.
+While we position ourselves to seize growth opportunities in aviation and maritime, our air and sea hubs will also run on cleaner energy, reducing domestic emissions in these sectors. The recent launch of the <a href="https://www.caas.gov.sg/docs/default-source/docs---so/singapore-sustainable-air-hub-blueprint.pdf">Sustainable Air Hub Blueprint</a> details new air hub targets, including achieving net zero domestic and international aviation carbon emissions by 2050. Domestic aviation emissions from airport operations will be reduced by 20% from 2019 levels in 2030.
 
 #### Green Buildings
  
