@@ -16,9 +16,9 @@ variant: markdown
 
 We aim to be a zero waste nation powered by a circular economy, with a high rate of recycling so that our precious resources can be used many times over. We have closed our water loop by recycling our used water to make NEWater, and will make a similar strong push towards circularity in waste materials to transform trash to treasure. The extended producer responsibility scheme for e-waste and the beverage container return scheme aim to establish circular business models, where products are collected at the end of life for recycling. We are also creating more avenues and putting in place behavioural nudges to encourage all stakeholders to live more sustainably by reducing waste and recycling right.
 
-#### Eco Stewardship Programme
+#### Eco Stewardship Programme (ESP)
 
-This will involve all MOE schools from Primary to Pre-University. MOE will [strengthen the curriculum](https://www.moe.gov.sg/news/press-releases/20210304-learn-for-life-equipping-ourselves-for-a-changing-world-nurturing-stewards-of-the-environment) and school programmes on sustainability. We will work towards a two-thirds reduction of net carbon emissions from the schools sector by 2030, and aim for at least 20% of schools to be carbon neutral by 2030.
+The Eco Stewardship Programme (ESP) has been implemented in all MOE schools from Primary to Pre-University with the aim of nurturing generations of Singaporeans to be stewards of the environment. MOE will also [strengthen the curriculum](https://www.moe.gov.sg/news/press-releases/20210304-learn-for-life-equipping-ourselves-for-a-changing-world-nurturing-stewards-of-the-environment) and school programmes on sustainability. We will work towards a two-thirds reduction of net carbon emissions from the schools sector by 2030, and aim for at least 20% of schools to be carbon neutral by 2030.
 
 #### Green Commutes
 
