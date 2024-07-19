@@ -122,7 +122,7 @@ Seek new investments to be among the best-in-class in energy/ carbon efficiency
 - Jurong Island to be a sustainable energy and chemicals park
 - Singapore as a sustainable tourism destination
 - Singapore as a leading centre for green finance and services to facilitate Asia’s transition to a low-carbon and sustainable future
-- Singapore as a carbon services hub in Asia
+- Singapore as a carbon services and trading hub in Asia
 - Singapore as a leading regional centre for developing new sustainability solutions
 - Groom a strong pool of local enterprises to capture sustainability opportunities
 
