@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 ### **General Terms and Conditions on the Use of the Isomer Pages Website**
 
@@ -17,7 +18,7 @@ Thank you for visiting the Ministry of Sustainability and the Environment's webs
     
 
 3.  **PRIVACY STATEMENT**   
-    Please click  [here](https://www.mse.gov.sg/privacy-statement){:class="external-link" target="_blank"} to review this Site’s Privacy Statement.
+    Please click  [here](https://www.mse.gov.sg/privacy/){:class="external-link" target="_blank"} to review this Site’s Privacy Statement.
     
 
 4.  **RESTRICTIONS ON USE OF CONTENTS**  
