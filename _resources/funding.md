@@ -13,7 +13,7 @@ The S$50 million [SG Eco Fund](https://www.mse.gov.sg/sgecofund/) was launched b
 The [3R Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund) is a co-funding scheme to encourage organisations to reduce waste disposed of at NEA's incineration plants and disposal facilities through the implementation of waste minimisation and recycling projects.
 
 #### Call for Ideas Fund
-The [Call for Ideas Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/call-for-ideas-fund) aims to help applicants kickstart projects that seek to resolve an environmental challenge in the local community. These projects should seek to encourage the community to make environmentally responsible choices through outreach and education efforts.
+The [Call for Ideas Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant) aims to help applicants kickstart projects that seek to resolve an environmental challenge in the local community. These projects should seek to encourage the community to make environmentally responsible choices through outreach and education efforts.
 
 #### Our Singapore Fund
 The [Our Singapore Fund](https://www.sg/oursingaporefund/getting-started) supports active citizens who wish to take initiative to meet community needs, strengthen community spirit, and contribute to nation-building. We look for initiatives that a) strengthen national identity, b) foster social mixing, and c) have the potential to sustain or even scale up over time. 
@@ -66,7 +66,7 @@ The Monetary Authority of Singapore (MAS)'s [Sustainable Bond Grant Scheme](http
 The [Agri-food Cluster Transformation (ACT) Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund) supports local farmers in their efforts to expand production capability, boost yield, raise productivity, sustainability and improve circularity of resource use.
 
 #### Maritime Singapore Green Initiative (MSGI)
-The [Maritime Singapore Green Initiative](https://www.mpa.gov.sg/web/portal/home/maritime-singapore/green-efforts/maritime-singapore-green-initiative)
+The [Maritime Singapore Green Initiative](https://www.mpa.gov.sg/maritime-singapore/sustainability/maritime-singapore-green-initiative)
  seeks to reduce the environmental impact of shipping and related activities and to promote clean and green shipping in Singapore. In 2011, the Maritime and Port Authority of Singapore (MPA) pledged to invest up to S$100 million over 5 years in the Maritime Singapore Green Initiative.
 
 
