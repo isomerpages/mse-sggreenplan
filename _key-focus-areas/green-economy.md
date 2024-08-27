@@ -4,6 +4,7 @@ description: Learn how the Singapore Green Plan 2030 will make sustainability a
   key competitive advantage for us, and present new opportunities for growth and
   job creation.
 permalink: /key-focus-areas/green-economy/
+variant: markdown
 ---
 ### Green Economy
 
@@ -16,7 +17,7 @@ permalink: /key-focus-areas/green-economy/
 Targeted incentives have been introduced to help our companies become amongst the best-in-class globally in terms of energy and carbon efficiency. For example,
  
 * EDB administers the [Resource Efficiency Grant for Energy](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html), which supports manufacturing companies to reduce their emissions.
-* NEA’s [Energy Efficiency Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-fund) supports companies to build capabilities and decarbonise early by adopting energy efficient technologies by funding up to 70 per cent of qualifying costs.
+* NEA’s [Energy Efficiency Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant) supports companies to build capabilities and decarbonise early by adopting energy efficient technologies by funding up to 70 per cent of qualifying costs.
  
 The Energy and Chemicals sector is also a key partner in the development of emerging low-carbon technologies, such as carbon capture, utilisation, and storage. These technologies can be pivotal in enabling decarbonisation at scale, and are crucial in helping us achieve our long-term climate ambitions. 
 
@@ -33,7 +34,6 @@ The global transition to a low-carbon economy brings about new opportunities in 
 **In support of SDGs:**
 
 <div class="sdg-container">
-	<img class="sdg-image" src="/images/framework/greeneconomy_01.jpg" alt="7 8 9" />
-	<img class="sdg-image" src="/images/framework/greeneconomy_02.jpg" alt="13 17" />
+	<img class="sdg-image" src="/images/framework/greeneconomy_01.jpg" alt="7 8 9">
+	<img class="sdg-image" src="/images/framework/greeneconomy_02.jpg" alt="13 17">
 </div>
-
