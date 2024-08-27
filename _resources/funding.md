@@ -23,10 +23,10 @@ The [Our Singapore Fund](https://www.sg/oursingaporefund/getting-started) suppor
 ## For Youths
 
 #### National Youth Fund
-The [National Youth Fund](https://www.nyc.gov.sg/en/initiatives/grants/national-youth-fund/) supports ground-up youth initiatives to champion community and social causes through partnerships with Youth Sector Organisations (YSO) including youth social enterprises, schools, Institutes of Higher Learning (IHL) and other community partners.
+The [National Youth Fund](https://nyc.gov.sg/programmes-grants) supports ground-up youth initiatives to champion community and social causes through partnerships with Youth Sector Organisations (YSO) including youth social enterprises, schools, Institutes of Higher Learning (IHL) and other community partners.
 
 #### Young Change Makers Grant
-[Young Change Makers](https://www.nyc.gov.sg/en/initiatives/grants/young-changemakers/) is a by youth, for youth programme that empowers youth curators in the grant making process and support other youths to take action to benefit the Singapore community and society.
+[Young Change Makers](https://nyc.gov.sg/programmes-grants) is a by youth, for youth programme that empowers youth curators in the grant making process and support other youths to take action to benefit the Singapore community and society.
 
 #### Youth Action Challenge
 The [Youth Action Challenge](https://youthactionplan.sg/YACSeason3/) is a platform for youth to provide solutions that tackle the issues around identified pillars - including Energy Reset and Sustainable Living Pillars of the Green Plan.
