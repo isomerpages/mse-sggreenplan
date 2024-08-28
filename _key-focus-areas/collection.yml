@@ -1,0 +1,9 @@
+collections:
+  key-focus-areas:
+    output: true
+    order:
+      - city-in-nature.md
+      - energy-reset.md
+      - green-economy.md
+      - resilient-future.md
+      - sustainable-living.md

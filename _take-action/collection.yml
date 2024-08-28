@@ -1,0 +1,6 @@
+collections:
+  take-action:
+    output: true
+    order:
+      - what-you-can-do.md
+      - what-businesses-can-do.md
