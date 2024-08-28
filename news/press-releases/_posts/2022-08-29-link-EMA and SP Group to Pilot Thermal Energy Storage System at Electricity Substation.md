@@ -7,5 +7,5 @@ date: 2022-08-29
 description: ""
 image: ""
 variant: tiptap
-external: https://www.ema.gov.sg/news-events/news/media-releases/2022/ema-and-sp-group-to-pilot-thermal-energy-storage-system-at-electricity-substation
+external: https://www.ema.gov.sg/news-events/news/media-releases/2022/ema-and-sp-group-to-pilot-thermal-energy-storage-system-at-electricity-substationv
 ---
