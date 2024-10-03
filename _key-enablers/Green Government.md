@@ -60,7 +60,7 @@ The inaugural GreenGov.SG report was published in December 2023. This report pro
 
 The Singapore Public Sector is a member of the Net Zero Government Initiative. Participating countries commit to achieving net zero emission from national government operations no later than 2050, and develop a roadmap that outlines the pathway for achieving the net zero commitment.&nbsp;
 
-**The Net Zero Roadmap can be found [here.](https://www.sustainability.gov/pdfs/singapore-nzgi-roadmap.pdf)**
+**The Net Zero Roadmap can be found [here.](https://www.mse.gov.sg/resources/singapore-nzgi-roadmap.pdf)**
 
 As we progress along our sustainability journey, we will continue to learn from others, and improve our performance and plans.&nbsp;
 
