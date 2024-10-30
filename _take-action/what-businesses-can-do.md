@@ -1,10 +1,12 @@
 ---
 title: For Businesses
-description: Sustainability will be a key competitive advantage for Singapore, and present new growth opportunities for businesses as we develop our Green Economy. Learn more about what businesses can do. 
+description: Sustainability will be a key competitive advantage for Singapore,
+  and present new growth opportunities for businesses as we develop our Green
+  Economy. Learn more about what businesses can do.
 permalink: /take-action/what-businesses-can-do/
+variant: markdown
 ---
-
-### What Businesses Can Do to be a Part of the Green Plan:
+### Here is what **Businesses** can do to be a Part of the Green Plan:
 
 <img src="/images/greenplan/gp_business.jpg" alt="The Green Plan For Businesses">
 
