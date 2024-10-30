@@ -13,9 +13,9 @@ Launched in 2021, GreenGov.SG is a key enabler of the Singapore Green Plan 2030.
 
 Under GreenGov.SG, the public sector will strive to attain ambitious sustainability targets in carbon abatement and resource efficiency, and be a positive influence and enabler of green efforts.
 
-GreenGov.SG has three pillars:
+**GreenGov.SG has three pillars:**
 
-#### Excel 
+#### **Excel**
 
 <img src="/images/Excel.JPG" style="max-width:20vw;" alt="Excel">
 <br>
@@ -29,7 +29,7 @@ GreenGov.SG has three pillars:
 
 ¹ Represented by the Energy Utilisation Index, which is energy used per unit area.<br>² Represented by the Water Efficiency Index, which is water used per person per day.<br>³ Represented by the Waste Disposal Index, which is waste disposed of per person per day. 
 
-#### Enable 
+#### **Enable**
 
 <img src="/images/Enable.JPG" style="max-width:20vw;" alt="Excel">
 
@@ -42,7 +42,7 @@ GreenGov.SG has three pillars:
 
 
 
-#### Excite
+#### **Excite**
 
 <img src="/images/Excite.JPG" style="max-width:20vw;" alt="Excel"> 
 <br>
@@ -52,7 +52,7 @@ GreenGov.SG has three pillars:
 | Capability Building | Elevate environmental sustainability awareness and knowledge across the public sector |
 | Culture Building | Enable public officers to take environmental sustainability action in the workplace and as part of daily living |
 
-**GreenGov.SG Report**
+#### GreenGov.SG Report
 
 The inaugural GreenGov.SG report was published in December 2023. This report provides a snapshot of the Singapore public sector’s FY2022 environmental sustainability performance. It also documents the public sector’s key strategies and initiatives to enhance environmental sustainability and meet our targets.
 
