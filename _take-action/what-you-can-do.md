@@ -1,11 +1,12 @@
 ---
 title: For Individuals
-description: You can play a part to fight climate change by adopting a sustainable lifestyle and habits. Learn how you can help with the Green Plan for Individuals. 
+description: You can play a part to fight climate change by adopting a
+  sustainable lifestyle and habits. Learn how you can help with the Green Plan
+  for Individuals.
 permalink: /take-action/what-you-can-do/
+variant: markdown
 ---
-
-
-### Here is **what you can do** to be a Part of the Green Plan:
+### Here is what **you** can do to be a Part of the Green Plan:
 
 <img src="/images/greenplan/gp_individual.jpg" alt="What You Can Do"> 
 
