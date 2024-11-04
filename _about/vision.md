@@ -2,8 +2,8 @@
 title: Our Vision
 description: Our Singapore Green Plan Vision
 permalink: /vision/
+variant: markdown
 ---
-
 ### Sustainable Development – A Core Belief
 
 <img src="/images/framework/manifesto_sustainabledevelopment.jpg" alt="Sustainable Development"> 
@@ -12,7 +12,7 @@ Climate change is an existential threat of our times. It has brought rising sea 
 
 Sustainable development is not new to Singapore. We embraced it decades before climate change became a critical global priority.
 
-Today, Singapore is a City in a Garden, and is one of the greenest cities in the world. We set aside large nature reserves, with about a third of our island covered by trees.
+Singapore is transforming into a City in Nature, and is one of the greenest cities in the world. Today, we have safeguarded more than 7,800 hectares of green spaces in the form of nature reserves, nature parks, gardens and parks, and integrated greenery throughout the city. As a result of our greening efforts, Singapore's green cover currently stands at over 40%.
 
 We knew public cleanliness and hygiene were important to prevent diseases in our hot and humid urban environment, and took tough measures to enforce them.
 
@@ -30,11 +30,11 @@ We recognise our limitations and challenges. Being both a city and a nation, we 
 
 These make it extremely hard for us to achieve net zero emissions in the same way that bigger countries can pledge to do.
 
-However, just like the way we confronted many national challenges in the past, we can be pioneers in technological and policy solutions for sustainable development. We can be a living laboratory, which other cities around the world, facing similar challenges, can pick up ideas from. That way, we can punch above our weight, and have a positive environmental impact way beyond our shores. For example, after several years of R&D and test-bedding, we are home to one of the world’s largest floating solar systems at Tengeh Reservoir, with a capacity of 60 megawatt-peak. Completed in 2021, the power generated from this system will be sufficient to power our local water treatment plants. This will make Singapore’s waterworks one of the very few in the world to go 100% green. 
+However, just like the way we confronted many national challenges in the past, we can be pioneers in technological and policy solutions for sustainable development. We can be a living laboratory, which other cities around the world, facing similar challenges, can pick up ideas from. That way, we can punch above our weight, and have a positive environmental impact way beyond our shores. For example, after several years of R&amp;D and test-bedding, we are home to one of the world’s largest floating solar systems at Tengeh Reservoir, with a capacity of 60 megawatt-peak. Completed in 2021, the power generated from this system will be sufficient to power our local water treatment plants. This will make Singapore’s waterworks one of the very few in the world to go 100% green. 
 
 **Here are the key programmes of the Green Plan:**
 <div>
-	<input type="checkbox" id="title1"/><label for="title1">Pillar 1: City in Nature</label>
+	<input type="checkbox" id="title1"><label for="title1">Pillar 1: City in Nature</label>
 	<div class="accordion-content">
 		By 2030, Singapore will be a green and beautiful City in Nature. We will set aside <b>50% more land – around 200 hectares – for nature parks. Every household will live within a 10-minute walk of a park.</b><br><br>
 		We will plant one million more trees across our island, which will sequester another 78,000 tonnes of CO2. Singaporeans will enjoy cleaner air, and cooler shade.<br><br>
@@ -43,7 +43,7 @@ However, just like the way we confronted many national challenges in the past, w
 </div>
 
 <div>
-	<input type="checkbox" id="title2"/><label for="title2">Pillar 2: Energy Reset</label>
+	<input type="checkbox" id="title2"><label for="title2">Pillar 2: Energy Reset</label>
 	<div class="accordion-content">
 		Cleaner and better use of energy is core to any plan to tackle climate change.<br><br>
 		Geographical constraints limit our options for renewable energy. We do not have great rivers for hydro power. We have neither land nor sea space for large solar or wind farms. Despite these challenges, we will strive to use cleaner energy, and become more energy efficient.<br><br>
@@ -52,9 +52,9 @@ However, just like the way we confronted many national challenges in the past, w
 		Through measures like the widespread use of smart LED lights and solar energy, we can <b>use 15% less energy</b> in HDB towns by 2030. Beyond HDB towns, we will <b>green 80% of all buildings</b> over the next decade.<br><br>
 		We will develop <b>eco-friendly districts</b> as demonstration projects that we can scale up. Jurong Lake District will be a model sustainable mixed-use district, with district cooling, solar power deployment and super low-energy buildings.<br><br>
 		We can make vehicles cleaner. All new public buses are already hybrid or electric. We can do the same for private cars.<br><br>
-		Singapore&#39;s urban environment makes us an ideal city for adopting electric vehicles or EVs. We have declared our 2040 vision: to phase out internal combustion engine vehicles, and have all vehicles run on cleaner energy. To get there, we will require <b>all newly-registered cars to be cleaner-energy models</b> by 2030.<br><br>
+		Singapore's urban environment makes us an ideal city for adopting electric vehicles or EVs. We have declared our 2040 vision: to phase out internal combustion engine vehicles, and have all vehicles run on cleaner energy. To get there, we will require <b>all newly-registered cars to be cleaner-energy models</b> by 2030.<br><br>
 		To support the growth of EVs, we will <b>more than double our EV charging point targets</b> – from 28,000 to 60,000 by 2030. We will tap the capabilities of the private sector to build up this infrastructure. We will also revise the vehicle tax structure to <b>make it easier to buy and own EVs</b>.<br><br>
-		All these efforts, in industries, residential estates, commercial buildings and private transport, will reduce our energy consumption by more than 8 million megawatt hours per year. This amount of energy is sufficient to power almost all our households&#39; annual energy use in 2030. This will in turn <b>reduce domestic greenhouse gas emissions by at least 3 million tonnes per year by 2030</b>.<br><br>
+		All these efforts, in industries, residential estates, commercial buildings and private transport, will reduce our energy consumption by more than 8 million megawatt hours per year. This amount of energy is sufficient to power almost all our households' annual energy use in 2030. This will in turn <b>reduce domestic greenhouse gas emissions by at least 3 million tonnes per year by 2030</b>.<br><br>
 		As a responsible global citizen, Singapore will play our part as part of a larger international solution. We already host the largest bio-diesel plant in the world, which is being expanded. As an aviation and maritime hub, Singapore will play active and important roles in fulfilling two international aspirational goals:<br><br>
 		In Aviation: 2% improvement in fuel efficiency every year until 2050, and carbon-neutral growth from 2020.<br><br>
 		In Maritime: reduce greenhouse gas emissions from international shipping by at least 50% by 2050, compared to 2008 levels.<br>
@@ -63,11 +63,11 @@ However, just like the way we confronted many national challenges in the past, w
 
 
 <div>
-	<input type="checkbox" id="title3"/><label for="title3">Pillar 3: Sustainable Living</label>
+	<input type="checkbox" id="title3"><label for="title3">Pillar 3: Sustainable Living</label>
 	<div class="accordion-content">
 		Sustainability is also about you and me, and the way we live. We aim to be a circular economy, with a high rate of recycling so that our precious resources can be used many times over.<br><br>
 		We have already achieved that for water use, by recycling our used water to make NEWater. We will make a similar strong push towards circularity in waste materials to transform trash to treasure. We will turn incinerated waste into NEWSand, and use this for construction.<br><br>
-		We will build up Singapore&#39;s recycling capabilities, by sorting better and reducing contamination. We will also put in place regulations to promote redistribution of food that is still safe to eat.<br><br>
+		We will build up Singapore's recycling capabilities, by sorting better and reducing contamination. We will also put in place regulations to promote redistribution of food that is still safe to eat.<br><br>
 		<b>By 2030, we aim to reduce the waste sent to our landfill by 30%.</b> We will front-load our efforts over the next 5 years to <b>achieve a 20% reduction by 2026.</b><br><br>
 		We will further reduce water consumption per household by 10% to 130 litres per capita per day, by 2030, by inculcating good usage habits, using smart meters and efficient fittings.<br><br>
 		Another important sustainability habit is to use public transport as much as possible. We are investing heavily in public transport. By 2030, our MRT network will be comparable in coverage to major cities like London and New York City.<br><br>
@@ -83,7 +83,7 @@ However, just like the way we confronted many national challenges in the past, w
 
 
 <div>
-	<input type="checkbox" id="title4"/><label for="title4">Pillar 4: Green Economy</label>
+	<input type="checkbox" id="title4"><label for="title4">Pillar 4: Green Economy</label>
 	<div class="accordion-content">
 		Tackling climate change cannot be at the expense of livelihoods and jobs. On the contrary, as sustainability becomes a global issue of concern, and consumers pivot towards greener and more sustainable products and services, it can become a key competitive advantage, and present new opportunities for growth and job creation.<br><br>
 		We are therefore seeking new investments that are among the best-in-class in terms of carbon or energy efficiency.<br><br>
@@ -91,18 +91,18 @@ However, just like the way we confronted many national challenges in the past, w
 		To continue to grow our economy, we will anchor new investments and grow local businesses to ride the green wave. The Government will introduce a new <b>Enterprise Sustainability Programme</b>, to help enterprises, especially SMEs, embrace sustainability and develop capabilities in this area.<br><br>
 		We can be a <b>leading carbon trading and services hub</b>, which is projected to be a multi-billion-dollar industry. This includes green finance, sustainability consultancy, verification, credits trading and risk management.<br><br>
 		We are making good progress in green finance. It enables us to drive climate action by mobilising global capital and channelling it to areas such as renewable energy, battery technology, smart grids and other green businesses.<br><br>
-		Our vision is to be a <b>leading centre for Green Finance in Asia and globally</b>, by building up the financial sector&#39;s resilience to environmental risks, developing green finance solutions and markets, building knowledge and capabilities, and leveraging innovation and technology.<br><br>
+		Our vision is to be a <b>leading centre for Green Finance in Asia and globally</b>, by building up the financial sector's resilience to environmental risks, developing green finance solutions and markets, building knowledge and capabilities, and leveraging innovation and technology.<br><br>
 		We will also <b>promote home-grown innovation under the Research, Innovation &amp; Enterprise Plan 2025</b>, and attract companies to anchor their R&amp;D activities in Singapore to develop new sustainability solutions for Asia and the world. These include decarbonisation technologies such as carbon capture, utilisation and storage, low-carbon hydrogen, and solutions to enhance energy efficiency and enable a circular economy, amongst others.<br><br>
 		Jurong Island will be a model for the adoption of such solutions as it transforms into a sustainable energy and chemicals park that improves efficiency, uses carbon capture technologies and reduces sulphur dioxide emissions.<br><br>
 	</div>
 </div>
 
 <div>
-	<input type="checkbox" id="title5"/><label for="title5">Pillar 5: Resilient Future</label>
+	<input type="checkbox" id="title5"><label for="title5">Pillar 5: Resilient Future</label>
 	<div class="accordion-content">
 		Our campaign to deal with climate change will last into the next century, and we are starting our preparations now.<br><br>
 		Against sea level rise, we are developing new solutions and better understanding of our coastlines. We will put in place the <b>physical defences to protect our coastlines along City-East Coast, around Lim Chu Kang, Sungei Kadut, and Jurong Island</b>.<br><br>
-		We are building up our national resilience for the future. Lying one degree north of the equator, Singapore will always be hot and humid, but we don&#39;t want temperatures to be unbearably high.<br><br>
+		We are building up our national resilience for the future. Lying one degree north of the equator, Singapore will always be hot and humid, but we don't want temperatures to be unbearably high.<br><br>
 		Urban heat is all around us, for example, the kind that you feel while standing behind an air-conditioner. We will moderate the rise in urban heat by increasing greenery and piloting the use of cool paint on building facades.<br><br>
 		We are increasing local food production, to make our food supply more resilient. We have announced our 30-by-30 target – by 2030, we aim to meet 30% of our nutritional needs through locally produced food. We will do this in partnership with a vibrant agri-food industry and our communities.<br><br>
 	</div>
@@ -117,22 +117,22 @@ The Green Plan is a living plan, which will evolve as we engage Singaporeans thr
 
 In 1965, shortly after Singapore became an independent nation, Mr Lee Kuan Yew said
 
-> Over 100 years ago, this was a mud-flat, swamp. Today, this is a modern city. Ten years from now, this will be a metropolis. Never fear.
+&gt; Over 100 years ago, this was a mud-flat, swamp. Today, this is a modern city. Ten years from now, this will be a metropolis. Never fear.
 
-Having advanced from mudflats, to metropolis, we will turn our metropolis into a global city of sustainability. This metropolis of ours, will be a bright green spark, inspiring the world and our future generations. Let&#39;s work together for a brighter and greener future.
+Having advanced from mudflats, to metropolis, we will turn our metropolis into a global city of sustainability. This metropolis of ours, will be a bright green spark, inspiring the world and our future generations. Let's work together for a brighter and greener future.
 
 
 
 #### Explore the 5 pillars
 
 <div class="tile-container">
-	<a class="tile-item" href="/key-focus-areas/city-in-nature"><img src="/images/framework/tile_cityinnature.png" alt="City in Nature" /></a>
-	<a class="tile-item" href="/key-focus-areas/energy-reset"><img src="/images/framework/tile_energyreset.png" alt="Energy Reset" /></a>
+	<a class="tile-item" href="/key-focus-areas/city-in-nature"><img src="/images/framework/tile_cityinnature.png" alt="City in Nature"></a>
+	<a class="tile-item" href="/key-focus-areas/energy-reset"><img src="/images/framework/tile_energyreset.png" alt="Energy Reset"></a>
 </div>
 <div class="tile-container">
-	<a class="tile-item" href="/key-focus-areas/sustainable-living"><img src="/images/framework/tile_sustainableliving.png" alt="Sustainable Living" /></a>
-	<a class="tile-item" href="/key-focus-areas/green-economy"><img src="/images/framework/tile_greeneconomy.png" alt="Green Economy" /></a>
+	<a class="tile-item" href="/key-focus-areas/sustainable-living"><img src="/images/framework/tile_sustainableliving.png" alt="Sustainable Living"></a>
+	<a class="tile-item" href="/key-focus-areas/green-economy"><img src="/images/framework/tile_greeneconomy.png" alt="Green Economy"></a>
 </div>
 <div class="tile-container">
-	<a class="tile-item" href="/key-focus-areas/resilient-future"><img src="/images/framework/tile_resilientfuture.png" alt="Resilient Future" /></a>
+	<a class="tile-item" href="/key-focus-areas/resilient-future"><img src="/images/framework/tile_resilientfuture.png" alt="Resilient Future"></a>
 </div>
