@@ -66,7 +66,7 @@ As we progress along our sustainability journey, we will continue to learn from 
 
 It will require a whole-of-nation effort to achieve our national environmental sustainability goals. Together, we can chart our way towards a low-carbon and sustainable future for Singapore.
 
-**Read the sustainability disclosures of our Statutory Boards (SBs) [here.](https://greenplan.gov.sg/files/sb-sustainability-disclosures.pdf)**
+**Read the sustainability disclosures of our Statutory Boards (SBs) [here.](https://greenplan.gov.sg/files/SB_sustainability_disclosures.pdf)**
 
 **In support of SDGs:**
 
