@@ -56,7 +56,7 @@ Under GreenGov.SG, the public sector will strive to attain ambitious sustainabil
 
 The inaugural GreenGov.SG report was published in December 2023. This report provides a snapshot of the Singapore public sector’s environmental sustainability performance each Financial Year (FY). It also documents the public sector’s key strategies and initiatives to enhance environmental sustainability and meet our targets.
 
-**The latest GreenGov.SG Report can be found [here](https://www.mse.gov.sg/files/resources/greengovsg-report-fy2023.pdf).**
+**The latest GreenGov.SG Report can be found [here](https://greenplan.gov.sg/files/greengovsg-report-fy2023.pdf).**
 
 Past GreenGov.SG Reports:
 * [FY2022 GreenGov.SG Report](https://www.mse.gov.sg/files/resources/greengovsg-report-fy2022.pdf)
