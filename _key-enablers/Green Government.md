@@ -56,7 +56,10 @@ Under GreenGov.SG, the public sector will strive to attain ambitious sustainabil
 
 The inaugural GreenGov.SG report was published in December 2023. This report provides a snapshot of the Singapore public sector’s environmental sustainability performance each Financial Year (FY). It also documents the public sector’s key strategies and initiatives to enhance environmental sustainability and meet our targets.
 
-**View the FY2022 GreenGov.SG Report [here](https://www.mse.gov.sg/files/resources/greengovsg-report-fy2022.pdf).**
+**The latest GreenGov.SG Report can be found [here](https://www.mse.gov.sg/files/resources/greengovsg-report-fy2023.pdf).**
+
+Past GreenGov.SG Reports:
+* [FY2022 GreenGov.SG Report](https://www.mse.gov.sg/files/resources/greengovsg-report-fy2022.pdf)
 
 The Singapore Public Sector is a member of the Net Zero Government Initiative. Participating countries commit to achieving net zero emission from national government operations no later than 2050, and develop a roadmap that outlines the pathway for achieving the net zero commitment.&nbsp;
 
