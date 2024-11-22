@@ -1,9 +1,11 @@
 ---
 title: Resilient Future
-description: The Singapore Green Plan 2030 is our campaign to deal with climate change, which will last into the next century. Learn how we are starting our preparations to build a Resilient Future for Singapore. 
+description: The Singapore Green Plan 2030 is our campaign to deal with climate
+  change, which will last into the next century. Learn how we are starting our
+  preparations to build a Resilient Future for Singapore.
 permalink: /key-focus-areas/resilient-future/
+variant: markdown
 ---
-
 ### Resilient Future
 
 #### We are starting our preparations now to deal with climate change that will last into the next century, and building up our national resilience for the future.
@@ -24,7 +26,7 @@ To develop measures to protect Singapore from the threat of rising sea levels, h
  
 #### Strengthen food security
  
-As a food loving nation, we have to make our food supply more resilient. We have announced our [30-by-30 target](https://www.ourfoodfuture.gov.sg/30by30) –  to build up our agri-food industry’s capability and capacity to produce 30% of our nutritional needs locally and sustainably by 2030.  We will do this in partnership with a vibrant agri-food industry and our communities.
+As a food loving nation, we have to make our food supply more resilient. We have announced our [30-by-30 target](https://www.ourfoodfuture.gov.sg/30by30/) –  to build up our agri-food industry’s capability and capacity to produce 30% of our nutritional needs locally and sustainably by 2030.  We will do this in partnership with a vibrant agri-food industry and our communities.
  
 A $60 million Agri-Food Cluster Transformation (ACT) Fund has been established to to provide funding support to farms to build and expand their production capabilities and capacities. 
  
@@ -42,6 +44,6 @@ We will [mitigate the Urban Heat Island (UHI)](https://www.mse.gov.sg/cos/resour
 **In support of SDGs:**
 
 <div class="sdg-container">
-	<img class="sdg-image" src="/images/framework/resilientfuture_01.jpg" alt="2 9 13" />
-	<img class="sdg-image" src="/images/framework/resilientfuture_02.jpg" alt="17" />
+	<img class="sdg-image" src="/images/framework/resilientfuture_01.jpg" alt="2 9 13">
+	<img class="sdg-image" src="/images/framework/resilientfuture_02.jpg" alt="17">
 </div>
