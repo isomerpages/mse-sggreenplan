@@ -26,7 +26,7 @@ To develop measures to protect Singapore from the threat of rising sea levels, h
  
 #### Strengthen food security
  
-As a food loving nation, we have to make our food supply more resilient. We have announced our [30-by-30 target](https://www.ourfoodfuture.gov.sg/30by30/) –  to build up our agri-food industry’s capability and capacity to produce 30% of our nutritional needs locally and sustainably by 2030.  We will do this in partnership with a vibrant agri-food industry and our communities.
+As a food loving nation, we have to make our food supply more resilient. We have announced our [30-by-30 target](https://www.ourfoodfuture.gov.sg/speeches-and-media-releases/lckmasterplan/) –  to build up our agri-food industry’s capability and capacity to produce 30% of our nutritional needs locally and sustainably by 2030.  We will do this in partnership with a vibrant agri-food industry and our communities.
  
 A $60 million Agri-Food Cluster Transformation (ACT) Fund has been established to to provide funding support to farms to build and expand their production capabilities and capacities. 
  
