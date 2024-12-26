@@ -29,7 +29,7 @@ The [National Youth Fund](https://nyc.gov.sg/programmes-grants) supports ground-
 [Young Change Makers](https://nyc.gov.sg/programmes-grants) is a by youth, for youth programme that empowers youth curators in the grant making process and support other youths to take action to benefit the Singapore community and society.
 
 #### Youth Action Challenge
-The [Youth Action Challenge](https://youthactionplan.sg/YACSeason3/) is a platform for youth to provide solutions that tackle the issues around identified pillars - including Energy Reset and Sustainable Living Pillars of the Green Plan.
+The [Youth Action Challenge](https://www.nyc.gov.sg/youth-action-challenge) is a platform for youth to provide solutions that tackle the issues around identified pillars - including Energy Reset and Sustainable Living Pillars of the Green Plan.
 
 ## For Schools
 
