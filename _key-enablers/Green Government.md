@@ -65,7 +65,7 @@ The Singapore Public Sector is a member of the Net Zero Government Initiative. P
 
 **The Net Zero Roadmap can be found [here.](https://isomer-user-content.by.gov.sg/23/41b918ea-200a-41fc-aba4-9cf98f03e365/singapore-nzgi-roadmap.pdf)**
 
-As we progress along our sustainability journey, we will continue to learn from others, and improve our performance and plans.&nbsp;
+As we progress along our sustainability journey, we will continue to learn from others, and improve our performance and plans.
 
 It will require a whole-of-nation effort to achieve our national environmental sustainability goals. Together, we can chart our way towards a low-carbon and sustainable future for Singapore.
 
