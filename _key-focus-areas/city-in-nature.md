@@ -1,9 +1,10 @@
 ---
 title: City in Nature
-description: By 2030, Singapore will be a green and beautiful City in Nature. Learn how we will live, work, and play closer to nature.  
+description: By 2030, Singapore will be a green and beautiful City in Nature.
+  Learn how we will live, work, and play closer to nature.
 permalink: /key-focus-areas/city-in-nature/
+variant: markdown
 ---
-
 ### City in Nature 
 
 #### We will create a green, liveable and sustainable home for Singaporeans.
@@ -16,7 +17,7 @@ To do so, Singapore will be transformed into City in Nature. We will build upon 
 
 #### Transforming Singapore into a City in Nature
  
-To transform [Singapore into a City in Nature](https://www.nparks.gov.sg/about-us/city-in-nature), we are conserving and extending Singapore’s natural capital island-wide, and raising animal health and welfare standards in Singapore. We have five key strategies to achieve this vision:
+To transform [Singapore into a City in Nature](https://www.nparks.gov.sg/who-we-are/city-in-nature-key-strategies), we are conserving and extending Singapore’s natural capital island-wide, and raising animal health and welfare standards in Singapore. We have five key strategies to achieve this vision:
  
 - Expand the Nature Park Network
 - Intensify nature in gardens and parks
@@ -29,7 +30,6 @@ This will be underpinned by the support and involvement of the community.
 **In support of SDGs:**
 
 <div class="sdg-container">
-	<img class="sdg-image" src="/images/framework/cityinnature_01.jpg" alt="11 13 14" />
-	<img class="sdg-image" src="/images/framework/cityinnature_02.jpg" alt="15 17" />
+	<img class="sdg-image" src="/images/framework/cityinnature_01.jpg" alt="11 13 14">
+	<img class="sdg-image" src="/images/framework/cityinnature_02.jpg" alt="15 17">
 </div>
-
