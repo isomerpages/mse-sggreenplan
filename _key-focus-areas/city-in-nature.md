@@ -13,7 +13,7 @@ variant: markdown
 
 With challenges like climate change which bring about more extreme weather patterns and increasing urbanisation, we need to build a Singapore where residents will be able to enjoy a liveable, sustainable and climate resilient Singapore.
  
-To do so, Singapore will be transformed into City in Nature. We will build upon what has been achieved and further restore nature into the urban environment.
+To do so, Singapore will be transformed into a City in Nature. We will build upon what has been achieved and further restore nature into the urban environment.
 
 #### Transforming Singapore into a City in Nature
  
