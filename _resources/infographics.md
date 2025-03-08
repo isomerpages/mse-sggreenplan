@@ -4,12 +4,18 @@ description: Infographics about the Singapore Green Plan
 permalink: /infographics/
 variant: markdown
 ---
+## 2025
+
+![Thumbnail image for Singapore Green Plan 2025 infographic](/images/infographics/SGP2025_infographic.png)
+
+**[Singapore Green Plan Key Updates from COS (March 2025)](/files/SGP2025_infographic.pdf)**
+
+***
 ## 2024 
-![Singapore Green Plan 2024 Overview](/images/SGP2024_infographic_1.png)
 
 [Singapore Green Plan Key Updates from COS (March 2024) [PDF]](/files/SGP2024_infographic.pdf)
 
-***
+
 ## 2023
 
 Singapore's Climate Adaptation and Mitigation Efforts
