@@ -8,7 +8,7 @@ variant: markdown
 
 ![Thumbnail image for Singapore Green Plan 2025 infographic](/images/infographics/SGP2025_infographic.png)
 
-**[Singapore Green Plan Key Updates from COS (March 2025)](/files/SGP2025_infographic.pdf)**
+**[Singapore Green Plan Key Updates from COS (March 2025)](/files/sgp2025_infographic.pdf)**
 
 ***
 ## 2024 
