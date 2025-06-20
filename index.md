@@ -41,39 +41,22 @@ sections:
       alt: Climate Change
   - infopic:
       title: What Are The Green Plan’s Key Targets?
-      description: >-
-        <p>- Plant 1 million more trees</p>
-
-        <p>- Quadruple solar energy deployment by 2025.</p>
-
-        <p>- Reduce the waste sent to landfill by 30% by 2030 </p>
-
-        <p>- At least 20% of schools to be carbon neutral by 2030 </p>
-
+      description: <p>- Plant 1 million more trees</p> <p>- Quadruple solar energy
+        deployment by 2025.</p> <p>- Reduce the waste sent to landfill by 30% by
+        2030 </p> <p>- At least 20% of schools to be carbon neutral by 2030 </p>
         <p>- All newly registered cars to be cleaner-energy models from 2030
-        </p>
-
-        <img class="mse-infopic-media-left" src="/images/index/fourthimg.jpg"
-        alt="Impact"><p class="mse-none"></p>
+        </p> <img class="mse-infopic-media-left"
+        src="/images/index/fourthimg.jpg" alt="Impact"><p class="mse-none"></p>
       button: View more
       url: /targets/
       image: /images/index/fourthimg.jpg
       alt: Impact
   - infopic:
       title: How Will We Achieve These Key Targets?
-      description: >-
-        <p>The Green Plan comprises 5 pillars that will influence all aspects of
-        our lives:</p>
-
-        <p>1. City in Nature</p>
-
-        <p>2. Energy Reset</p>
-
-        <p>3. Sustainable Living </p>
-
-        <p>4. Green Economy </p>
-
-        <p>5. Resilient Future </p><img class="mse-infopic-media-right"
+      description: <p>The Green Plan comprises 5 pillars that will influence all
+        aspects of our lives:</p> <p>1. City in Nature</p> <p>2. Energy
+        Reset</p> <p>3. Sustainable Living </p> <p>4. Green Economy </p> <p>5.
+        Resilient Future </p><img class="mse-infopic-media-right"
         src="/images/index/fifthimg.jpg" alt="About Green Plan"><p
         class="mse-none"></p>
       button: Find out more
@@ -104,4 +87,7 @@ sections:
   - resources:
       title: Latest News
       button: More News
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 ---
