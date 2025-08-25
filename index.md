@@ -7,7 +7,7 @@ permalink: /
 sections:
   - hero:
       title: A City of <br>Green Possibilities
-      background: /images/Homepage/homebanner_25Aug.jpg
+      background: /images/index/homebanner.jpg
   - infopic:
       title: What Is The Singapore Green Plan 2030?
       description: <p>The Singapore Green Plan 2030, or the Green Plan, is a
