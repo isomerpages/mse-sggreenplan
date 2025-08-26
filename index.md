@@ -82,7 +82,7 @@ sections:
         of Transport</li></ul><p></p><img class="mse-infopic-media-right"
         src="/images/index/ministries.png" alt="Ministries"><p
         class="mse-none"></p>
-      image: /images/index/ministries.png
+      image: /images/Homepage/ministries_25Aug.jpg
       alt: Ministries
   - resources:
       title: Latest News
