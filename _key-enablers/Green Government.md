@@ -160,7 +160,7 @@ report provides a snapshot of the Singapore public sector’s environmental
 sustainability performance each Financial Year (FY). It also documents
 the public sector’s key strategies and initiatives to enhance environmental
 sustainability and meet our targets.</p>
-<h4><strong>The latest GreenGov.SG Report can be found <a href="/files/fy24_greengov_sg_report.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong></h4>
+<h4><strong>The latest GreenGov.SG Report can be found </strong><a href="https://go.gov.sg/fy24-greengov-sg-report" rel="noopener nofollow" target="_blank">here</a><strong>.</strong></h4>
 <p>Past GreenGov.SG Reports:</p>
 <ul data-tight="true" class="tight">
 <li>
