@@ -168,7 +168,7 @@ sustainability and meet our targets.</p>
 </p>
 </li>
 <li>
-<p><a href="https://isomer-user-content.by.gov.sg/23/7a9882e1-94a0-43a8-b4da-7ea2a3c39953/greengovsg-report-fy2022.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2022 GreenGov.SG Report</a>
+<p><a href="/files/greengovsg_report_fy2022_pdf.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2022 GreenGov.SG Report</a>
 </p>
 </li>
 </ul>
