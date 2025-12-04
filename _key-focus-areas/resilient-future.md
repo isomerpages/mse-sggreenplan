@@ -16,7 +16,7 @@ variant: markdown
 
 Climate change could cause mean sea-level rise of up to 1 metre by 2100 in Singapore. If there is a confluence of extreme high tides and storm surges, some projections suggest that sea levels could be as high as 4 to 5 metres. This is high enough to potentially flood one-third of Singapore.
  
-It is thus important for an island city like Singapore to plan ahead and [reimagine our coastlines](https://www.pub.gov.sg/CoastalProtection), so we can keep our shores and our people safe.
+It is thus important for an island city like Singapore to plan ahead and [reimagine our coastline](https://www.pub.gov.sg/Public/KeyInitiatives/Flood-Resilience/Get-Involved-for-Coastal-Protection), so we can keep our shores and our people safe.
  
 To develop measures to protect Singapore from the threat of rising sea levels, here is what PUB has begun doing:
  
@@ -36,7 +36,7 @@ We are also looking into the expansion of sustainable fish farming in the deeper
  
 Though Singapore has always been hot and humid, we don't want temperatures to be unbearably high. By increasing greenery and piloting the use of cool paint on building facades, we will moderate the rise in urban heat.
  
-We will [mitigate the Urban Heat Island (UHI)](https://www.mse.gov.sg/cos/resources/cos-annex-j.pdf) effect through the following ways:
+We will [mitigate the Urban Heat Island (UHI)](https://isomer-user-content.by.gov.sg/23/27f5cd0b-af16-417b-b9dd-3490a65b78e8/cos-resources-cos-annex-j.pdf) effect through the following ways:
 - Understand the UHI effect better by deploying an island-wide network of climate sensors to collect data
 - Conduct research and modelling on UHI effects, e.g. the Cooling Singapore 2.0 project
 - Partner the industry and public to implement a UHI mitigation action plan, including piloting the use of cool materials and reducing human-generated heat
