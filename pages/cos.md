@@ -1,15 +1,15 @@
 ---
 title: Joint Segment on Sustainability
 permalink: /cos/
+variant: markdown
 ---
-
 ![](../images/resources/cos-sgp-infographics.png) _[Download Infographic](/files/sgp-cos-infographics.pdf)_
 
 ### **Speeches**
 
-- [PMO - Senior Minister Teo Chee Hean: A Considered, Committed and Collective Approach to the Global Climate Crisis](/resource-room/2021-03-04-pmo){:class="external-link" target="\_blank"}
+- [PMO - Senior Minister Teo Chee Hean: A Considered, Committed and Collective Approach to the Global Climate Crisis](https://www.greenplan.gov.sg/news/speeches/2021-03-04-pmo/)
 - [MSE - Minister Grace Fu: The Singapore Green Plan - A Pledge to Our Children and Future Generations](/resource-room/2021-03-04-mse){:class="external-link" target="\_blank"}
-- [MND - Minister Desmond Lee: A City in Nature, a Greener Urban Environment](/resource-room/2021-03-04-mnd){:class="external-link" target="\_blank"}
+- [Speech by Minister Desmond Lee: A City in Nature, a Greener Urban Environment](https://www.greenplan.gov.sg/news/speeches/2021-03-04-mnd/)
 - [MOE - Minister Lawrence Wong: Nurturing Stewards of the Environment](/resource-room/2021-03-04-moe){:class="external-link" target="\_blank"}
 - [MOT - Minister Ong Ye Kung: A New Drive](/resource-room/2021-03-04-mot){:class="external-link" target="\_blank"}
 - [MTI - Second Minister Tan See Leng: Energy Reset](/resource-room/2021-03-04-2-mti){:class="external-link" target="\_blank"}
@@ -18,7 +18,7 @@ permalink: /cos/
 ### **Videos**
 
 <div class="bp-youtube">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLufsUwaI-DoGV6xhtyVKDTz-r1pr7ger3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLufsUwaI-DoGV6xhtyVKDTz-r1pr7ger3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 ### **Press Releases and Factsheets**
