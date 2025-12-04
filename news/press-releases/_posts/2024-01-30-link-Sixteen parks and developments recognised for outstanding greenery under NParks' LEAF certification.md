@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.nparks.gov.sg/news/2024/1/16-parks-and-developments-recognised-by-nparks-under-leaf-certification-scheme
+external: https://www.nparks.gov.sg/news/news-detail/16-parks-and-developments-recognised-by-nparks-under-leaf-certification-scheme
 ---

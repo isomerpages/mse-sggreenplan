@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.mnd.gov.sg/newsroom/press-releases/view/building-sustainable-resilient-and-liveable-cities-of-tomorrow
+external: https://www.mnd.gov.sg/newsroom/speeches/view/building-sustainable-resilient-and-liveable-cities-of-tomorrow
 ---

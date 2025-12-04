@@ -7,5 +7,5 @@ date: 2022-10-18
 description: ""
 image: ""
 variant: tiptap
-external: https://www.enterprisesg.gov.sg/-/media/esg/files/media-centre/media-releases/2022/october/mr05622_seven-parties-commit-to-help-businesses-navigate-towards-environmental-sustainability-with-green-compass.pdf
+external: https://www.jtc.gov.sg/about-jtc/news-and-stories/press-releases/7-parties-commit-to-help-businesses-navigate-towards-environmental-sustainability-with-green-compass
 ---

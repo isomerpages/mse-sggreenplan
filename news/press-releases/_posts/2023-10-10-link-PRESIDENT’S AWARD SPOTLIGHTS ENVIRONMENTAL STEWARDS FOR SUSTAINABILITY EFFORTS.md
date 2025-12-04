@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.mse.gov.sg/files/Media-Release-Presidents-Award-for-the-Environment-2023.pdf
+external: https://isomer-user-content.by.gov.sg/23/a2c0e2e2-84b4-4c7e-aa89-b26494a6aa56/Media-Release-Presidents-Award-for-the-Environment-2023.pdf
 ---

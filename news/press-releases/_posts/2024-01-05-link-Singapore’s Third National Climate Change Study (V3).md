@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.mse.gov.sg/files/Joint%20Media%20Release%20-%20Singapore's%20Third%20National%20Climate%20Change%20Study%20(V3).pdf
+external: https://www.mse.gov.sg/latest-news/opening-address-at-symposium-on-v3/
 ---

@@ -7,5 +7,5 @@ date: 2021-03-12
 description: ""
 image: ""
 variant: tiptap
-external: https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/12032021-HDB-Launches-Sixth-SolarNova-Tender-with-Smart-Electrical-Sub-meters-to-Optimise-Energy-Use
+external: https://www.hdb.gov.sg/about-us/news-and-publications/press-releases/12032021-HDB-Launches-Sixth-SolarNova-Tender-with-Smart-Electrical-Sub-meters-to-Optimise-Energy-Use
 ---
