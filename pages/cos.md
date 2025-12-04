@@ -3,8 +3,9 @@ title: Joint Segment on Sustainability
 permalink: /cos/
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="../images/resources/cos-sgp-infographics.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgp_infographic_image.png">
 </div>
 <p><em><a href="/files/sgp-cos-infographics.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Infographic</a></em>
 </p>
@@ -102,20 +103,20 @@ variant: tiptap
 <br><a href="https://www.greenplan.gov.sg/images/sus4.png" rel="noopener nofollow" target="_blank">Sustainable Living 4</a>
 <br><a href="https://www.greenplan.gov.sg/images/sus5.png" rel="noopener nofollow" target="_blank">Sustainable Living 5</a>
 </p>
-<p><a href="/images/energy1.png" rel="noopener noreferrer nofollow" target="_blank">Energy Reset 1</a>
-<br><a href="/images/energy2.png" rel="noopener noreferrer nofollow" target="_blank">Energy Reset 2</a>
-<br><a href="/images/energy3.png" rel="noopener noreferrer nofollow" target="_blank">Energy Reset 3</a>
-<br><a href="/images/energy4.png" rel="noopener noreferrer nofollow" target="_blank">Energy Reset 4</a>
-<br><a href="/images/energy5.png" rel="noopener noreferrer nofollow" target="_blank">Energy Reset 5</a>
+<p><a href="https://www.greenplan.gov.sg/images/energy1.png" rel="noopener nofollow" target="_blank">Energy Reset 1</a>
+<br><a href="https://www.greenplan.gov.sg/images/energy2.png" rel="noopener nofollow" target="_blank">Energy Reset 2</a>
+<br><a href="https://www.greenplan.gov.sg/images/energy3.png" rel="noopener nofollow" target="_blank">Energy Reset 3</a>
+<br><a href="https://www.greenplan.gov.sg/images/energy4.png" rel="noopener nofollow" target="_blank">Energy Reset 4</a>
+<br><a href="https://www.greenplan.gov.sg/images/energy5.png" rel="noopener nofollow" target="_blank">Energy Reset 5</a>
 </p>
-<p><a href="/images/econ1.png" rel="noopener noreferrer nofollow" target="_blank">Green Economy 1</a>
-<br><a href="/images/econ2.png" rel="noopener noreferrer nofollow" target="_blank">Green Economy 2</a>
-<br><a href="/images/econ3.png" rel="noopener noreferrer nofollow" target="_blank">Green Economy 3</a>
-<br><a href="/images/econ4.png" rel="noopener noreferrer nofollow" target="_blank">Green Economy 4</a>
+<p><a href="https://www.greenplan.gov.sg/images/econ1.png" rel="noopener nofollow" target="_blank">Green Economy 1</a>
+<br><a href="https://www.greenplan.gov.sg/images/econ2.png" rel="noopener nofollow" target="_blank">Green Economy 2</a>
+<br><a href="https://www.greenplan.gov.sg/images/econ3.png" rel="noopener nofollow" target="_blank">Green Economy 3</a>
+<br><a href="https://www.greenplan.gov.sg/images/econ4.png" rel="noopener nofollow" target="_blank">Green Economy 4</a>
 </p>
-<p><a href="/images/resilient1.png" rel="noopener noreferrer nofollow" target="_blank">Resilient Future 1</a>
-<br><a href="/images/resilient2.png" rel="noopener noreferrer nofollow" target="_blank">Resilient Future 2</a>
-<br><a href="/images/resilient3.png" rel="noopener noreferrer nofollow" target="_blank">Resilient Future 3</a>
-<br><a href="/images/resilient4.png" rel="noopener noreferrer nofollow" target="_blank">Resilient Future 4</a>
-<br><a href="/images/resilient5.png" rel="noopener noreferrer nofollow" target="_blank">Resilient Future 5</a>
+<p><a href="https://www.greenplan.gov.sg/images/resilient1.png" rel="noopener nofollow" target="_blank">Resilient Future 1</a>
+<br><a href="https://www.greenplan.gov.sg/images/resilient2.png" rel="noopener nofollow" target="_blank">Resilient Future 2</a>
+<br><a href="https://www.greenplan.gov.sg/images/resilient3.png" rel="noopener nofollow" target="_blank">Resilient Future 3</a>
+<br><a href="https://www.greenplan.gov.sg/images/resilient4.png" rel="noopener nofollow" target="_blank">Resilient Future 4</a>
+<br><a href="https://www.greenplan.gov.sg/images/resilient5.png" rel="noopener nofollow" target="_blank">Resilient Future 5</a>
 </p>
