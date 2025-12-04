@@ -14,7 +14,7 @@ variant: markdown
 [Environmentally-friendly actions](https://www.mse.gov.sg/take-action/organisations/) can start small. Consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference. You can also apply for [funding](/funding) to get started on your sustainability journey. 
 
 #### Integrate sustainability into business decisions
-Whether you are [organising an event](https://www.mse.gov.sg/resources/environmentally-friendly-events-guidelines.pdf), procuring goods and services, or redesigning the way your business operates, you can include sustainability considerations in many of your business decisions. To see long-term success, businesses can also set concrete sustainability targets and decarbonise your operations and supply chains.
+Whether you are [organising an event](https://isomer-user-content.by.gov.sg/23/9f1dc008-b87e-4deb-b324-b2a10c584e4a/environmentally-friendly-events-guidelines.pdf), procuring goods and services, or redesigning the way your business operates, you can include sustainability considerations in many of your business decisions. To see long-term success, businesses can also set concrete sustainability targets and decarbonise your operations and supply chains.
 
 #### Find more sustainable ways to operate and embrace green opportunities
 Businesses can pursue innovative solutions for sustainability, and invest in greener products and services. Such endeavours not only accelerates Singapore’s transition to a low-carbon economy while creating exciting new opportunities, businesses that lead the way by providing greener products and services earlier can gain a competitive advantage, given the growing global demand in this area. 
