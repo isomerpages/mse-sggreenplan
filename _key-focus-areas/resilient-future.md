@@ -44,6 +44,6 @@ We will [mitigate the Urban Heat Island (UHI)](https://isomer-user-content.by.go
 **In support of SDGs:**
 
 <div class="sdg-container">
-	<img class="sdg-image" src="/images/framework/resilientfuture_01.jpg" alt="2 9 13">
-	<img class="sdg-image" src="/images/framework/resilientfuture_02.jpg" alt="17">
+	<img class="sdg-image" src="/images/framework/resilientfuture_01.jpg" alt="Sustainable Development Goals 2, 9, 13">
+	<img class="sdg-image" src="/images/framework/resilientfuture_02.jpg" alt="Sustainable Development Goal 17">
 </div>
