@@ -186,9 +186,9 @@ and sustainable future for Singapore.</p>
 <p><strong>In support of SDGs:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="6 9 12" src="/images/framework/greengovernment_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sustainable Development Goals 6, 9, 12" src="/images/framework/greengovernment_01.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="13 17" src="/images/framework/greengovernment_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sustainable Development Goals 13, 17" src="/images/framework/greengovernment_02.jpg">
 </div>
 <p></p>
