@@ -24,7 +24,7 @@ We will continue to maximise solar panel deployment, including on rooftops, rese
 
 However, solar power output is intermittent in nature and is subject to weather conditions. To maintain grid reliability, Singapore is deploying [Energy Storage Systems (ESS)](https://www.ema.gov.sg/energy-storage-system.aspx) to address solar intermittency and enhance grid resilience. In February 2023, Singapore officially launched a 285 megawatt-hour ESS on Jurong Island. This is the largest ESS in Southeast Asia and was commissioned in 6 months, the fastest in the world of its size to be deployed. 
 
-<img src="/images/framework/sembcorp%20banyan%20energy%20storage%20system%20-%2003.jpg" alt="ESS"> 
+<img src="/images/framework/sembcorp%20banyan%20energy%20storage%20system%20-%2003.jpg" alt="An Energy Storage System."> 
 
 <div align="center">Image Credit: Sembcorp Industries</div>  
 &nbsp;
