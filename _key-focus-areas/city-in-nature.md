@@ -30,6 +30,6 @@ This will be underpinned by the support and involvement of the community.
 **In support of SDGs:**
 
 <div class="sdg-container">
-	<img class="sdg-image" src="/images/framework/cityinnature_01.jpg" alt="11 13 14">
-	<img class="sdg-image" src="/images/framework/cityinnature_02.jpg" alt="15 17">
+	<img class="sdg-image" src="/images/framework/cityinnature_01.jpg" alt="Sustainable Development Goals 11, 13, 14">
+	<img class="sdg-image" src="/images/framework/cityinnature_02.jpg" alt="Sustainable Development Goals 15, 17">
 </div>
