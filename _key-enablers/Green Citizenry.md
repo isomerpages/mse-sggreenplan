@@ -21,13 +21,13 @@ to co-deliver and co-create solutions for a more sustainable Singapore.</p>
 <h5>Ministry of Transport (MOT) and Land Transport Authority’s (LTA) Citizen
 Engagement Workshop on Good Electric Vehicle (EV) Charging Etiquette</h5>
 
-![](/images/Green_Citizenry_MOT_LTA_Engagement.png)
+![Green Citizenry: Citizen Engagement by MOT and LTA](/images/Green_Citizenry_MOT_LTA_Engagement.png)
 
 <p>SMS Amy Khor and SPS Baey Yam Keng hosted MOT and LTA’s citizen engagement workshop on good EV charging etiquette on 30 Jan 2024 at LTA’s Hampshire Road Office. Over 40 participants comprising EV drivers, and representatives from EV charging operators (EVCOs), carpark owners (both private and public) and Mobility Service Providers were present. They exchanged their perspectives of EVs, and discussed potential recommendations to cultivate good charging behaviour to enhance the overall EV experience.</p>
 
 <h5>Go Green SG</h5>
 
-![](/images/Green_Citizenry___Go_Green_SG.png)
+![Launch of Go Green SG in 2023](/images/Green_Citizenry___Go_Green_SG.png)
 
 <p>In 2023, MSE launched the inaugural <a href="https://www.gogreen.gov.sg/">Go Green SG</a> campaign, a nation-wide month-long sustainability movement to rally citizens, organisations, and the community to take collective action towards a more environmentally sustainable and climate-resilient Singapore. MSE worked closely with 3P (People, Public, Private) partners, MSE’s Statutory Boards, and other government agencies including STB, MOE, NLB, NParks and LTA to curate a unique, attractive slate of sustainability-related activities catering to different interests.
 
@@ -51,7 +51,7 @@ If you have an idea for a potential partnership with us, you may share your prop
 <h2>Past Green Citizenry Efforts</h2>
 <h5>Forward Singapore Exercise</h5>
 
-![](/images/Green_Citizenry___Forward_SG.jpg)
+![Forward SG](/images/Green_Citizenry___Forward_SG.jpg)
 
 <p>The challenges of our climate and environmental crisis require a whole-of-society effort. Against this backdrop, the MSE Family launched a series of public engagements and conversations on environmental sustainability under the Steward Pillar in support of the Forward SG exercise. The Forward SG exercise was launched by DPM Lawrence Wong in June 2022 to engage Singaporeans from all walks of life on how we should refresh our social compact.</p>
 <p>Close to 3,000 Singaporeans from different backgrounds came together over some 30 sessions to discuss the challenges, costs and trade-offs that Singapore has to balance. They contributed views and ideas on a wide range of topics, including Singapore’s net zero ambition, coastal protection, food security and public cleanliness.</p>
