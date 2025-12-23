@@ -34,6 +34,6 @@ The global transition to a low-carbon economy brings about new opportunities in 
 **In support of SDGs:**
 
 <div class="sdg-container">
-	<img class="sdg-image" src="/images/framework/greeneconomy_01.jpg" alt="7 8 9">
-	<img class="sdg-image" src="/images/framework/greeneconomy_02.jpg" alt="13 17">
+	<img class="sdg-image" src="/images/framework/greeneconomy_01.jpg" alt="Sustainable Development Goals 7, 8, 9">
+	<img class="sdg-image" src="/images/framework/greeneconomy_02.jpg" alt="Sustainable Development Goals 13, 17">
 </div>
