@@ -27,8 +27,8 @@ We are making good progress towards [achieving our goal](https://www.mot.gov.sg/
 **In support of SDGs:**
 
 <div class="sdg-container">
-	<img class="sdg-image" src="/images/framework/sustainableliving_01.jpg" alt="3 4 6">
-	<img class="sdg-image" src="/images/framework/sustainableliving_02.jpg" alt="9 11 12">
-	<img class="sdg-image" src="/images/framework/sustainableliving_03.jpg" alt="13 17">
+	<img class="sdg-image" src="/images/framework/sustainableliving_01.jpg" alt="Sustainable Development Goals 3, 4, 6">
+	<img class="sdg-image" src="/images/framework/sustainableliving_02.jpg" alt="Sustainable Development Goals 9, 11, 12">
+	<img class="sdg-image" src="/images/framework/sustainableliving_03.jpg" alt="Sustainable Development Goals 13, 17">
 	<div class="sdg-image"></div>
 </div>
